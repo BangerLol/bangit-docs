@@ -4,16 +4,19 @@ icon: eye
 
 # Vision
 
-**Twitter is broken.** Bangers drown in slop, clickbait, and paid shills. While engagement farmers get rich. And the heroes who do find bangers early get nothing. **Bangit fixes this.**
+## **Twitter is broken.**
 
-### What We're Not Building
+Banger posts drown in slop, clickbait, and paid shills. Engagement farmers get rich. And the curators who do find bangers early get nothing.
 
-* :x: **Another social app ->** :white\_check\_mark: Value layer for existing content
-* :x: **Another InfoFi app ->** :white\_check\_mark: Beyond engagement metrics
+## **Bangit fixes this.**
+
+Consuming content -> curating culture, and getting paid for your taste.
+
+## What we're not building.
+
+* :x: **Another social app ->** :white\_check\_mark: Value for existing content
+* :x: **Another info-fi app ->** :white\_check\_mark: Beyond engagement metrics
 * :x: **Another launchpad ->** :white\_check\_mark: New collaborative game
 * :x: **Twitter competitor ->** :white\_check\_mark: Twitter's missing incentives
-* :x: **Extractive tokenomics ->** :white\_check\_mark: Heavy community ownership
+* :x: **Extractive tokenomics ->** :white\_check\_mark: Earn your share
 
-
-
-We don't just consume content. We curate culture. And get paid for our taste.
