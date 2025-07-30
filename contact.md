@@ -1,8 +1,10 @@
 ---
-description: For support, questions, or proposals
 icon: message-question
 ---
 
 # Contact
 
-Email us at team@bangit.fun
+To give feedback: Fill out the feedback form in app
+
+\
+For support, questions, or proposals: Email us at team@bangit.fun

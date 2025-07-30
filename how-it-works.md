@@ -33,6 +33,6 @@ When staking more BANG, New Boost = ((Old Stake \* Old Boost) + Additional Stake
 
 ## Links
 
-App: https://bangit.fun ("Add to Home Screen" on mobile device)
+App: [https://bangit.fun](https://bangit.fun/) ("Add to Home Screen" on mobile device)
 
 Twitter: [https://x.com/bangitdotfun](https://x.com/bangitdotfun)
