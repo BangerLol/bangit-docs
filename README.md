@@ -10,7 +10,7 @@ Banger posts drown in slop, clickbait, and paid shills. Engagement farmers get r
 
 ## **Bangit fixes this.**
 
-Consuming content -> curating culture, and getting paid for your taste.
+Consuming content -> Curating culture. And getting paid for your taste.
 
 ## What we're not building.
 
