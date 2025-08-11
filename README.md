@@ -1,31 +1,25 @@
 ---
-icon: eye
+icon: star
 ---
 
-# Vision
+# Mission
 
-## **Twitter is broken.**
+## For banger enjoyers, **Twitter is broken.**
 
-Banger posts drown in slop, clickbait, and paid shills. Engagement farmers get rich. And the curators who do find bangers early get nothing.
+Banger posts drown in slop, clickbait, and paid shills. Engagement farmers get rich. And the people who do find bangers early get nothing.
 
-## **Bangit fixes this.**
+## **Bangit pays people to curate bangers.**
 
-Consuming content -> Curating culture. And getting paid for your taste.
+We don't just consume content. We curate culture. And get paid for our taste.&#x20;
 
 ## What we're not building.
 
 :x: Another social app\
 :white\_check\_mark: Value for existing content
 
-:x: Another info-fi app\
-:white\_check\_mark: Beyond engagement metrics
+:x: Another "info-fi" app\
+:white\_check\_mark: Real engagement metrics
 
 :x: Another launchpad\
 :white\_check\_mark: New collaborative game
-
-:x: Twitter competitor\
-:white\_check\_mark: Twitter's missing incentives
-
-:x: Extractive tokenomics\
-:white\_check\_mark: Earn your share
 
