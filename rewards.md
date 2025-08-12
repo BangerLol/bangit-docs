@@ -46,9 +46,3 @@ InviterBoostedConnection = sum\[UpvoterCuratorRewards \* InviteDegreeFactor \* R
 
 Inviter's relationship degree factor:\
 InviteDegreeFactor = 5 if direct invite, 2 if second-degree invite, 1 if third-degree invite
-
-\
-
-
-
-
