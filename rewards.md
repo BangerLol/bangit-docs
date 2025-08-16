@@ -12,37 +12,46 @@ Every 24 hours at midnight UTC, new BANG tokens are minted and distributed. Clai
 
 ## Tweet Rewards
 
-Tweet's share of the 90% of new BANG tokens:\
-TweetRewards = (TweetImpactInPeriod / TotalImpactInPeriod) \* (0.9 \* Rewards)
+Tweet's share of the 90% of new BANG tokens:
 
-Tweet's impact in the period:\
-TweetImpactInPeriod = sqrt(UpvotePowerInPeriod \* UniqueUpvotersInPeriod)
+`TweetRewards = (TweetImpactInPeriod / TotalImpactInPeriod) * (Rewards * 0.9)`
+
+Tweet's impact in the period:
+
+`TweetImpactInPeriod = sqrt(UpvotePowerInPeriod * UniqueUpvotersInPeriod)`
 
 ## Curator Rewards
 
-Upvoter's share of a tweet's rewards:\
-CuratorRewards = (UpvoterTaste / TotalTaste) \* (TweetRewards \* 0.8)
+Upvoter's share of a tweet's rewards:
 
-Upvoter's taste for a tweet:\
-UpvoterTaste = sum\[sqrt(TweetPowerBeforeUpvote + UpvotePower) - sqrt(TweetPowerBeforeUpvote)] for all upvotes on that tweet
+`CuratorRewards = (UpvoterTaste / TotalTaste) * (TweetRewards * 0.8)`
+
+Upvoter's taste for a tweet:
+
+`UpvoterTaste = sum[UpvotePower * (TotalUpvotes - UpvoteOrder + 1)] for all user's upvotes on that tweet`
 
 All historical upvoters of the tweet are included in curator rewards.
 
 ## Creator Rewards
 
-Author's share of a tweet's rewards:\
-AuthorRewards = (AuthorBoostedClout / TotalBoostedClout) \* (TweetRewards \* 0.2)
+Author's share of a tweet's rewards:
 
-Author's boosted clout:\
-AuthorBoostedClout = AuthoredTweetRewardsInPeriod \* RewardBoost
+`AuthorRewards = (AuthorBoostedClout / TotalBoostedClout) * (TweetRewards * 0.2)`
+
+Author's boosted clout:
+
+`AuthorBoostedClout = AuthoredTweetRewardsInPeriod * RewardBoost`
 
 ## Inviter Rewards
 
-Inviter's share of the 10% of new BANG tokens:\
-InviterRewards = (InviterBoostedConnection / TotalBoostedConnection) \* (0.1 \* Rewards)
+Inviter's share of the 10% of new BANG tokens:
 
-Inviter's boosted connection:\
-InviterBoostedConnection = sum\[UpvoterCuratorRewards \* InviteDegreeFactor \* RewardBoost] for all upvoters that earned curator rewards in the period
+`InviterRewards = (InviterBoostedConnection / TotalBoostedConnection) * (Rewards * 0.1)`
 
-Inviter's relationship degree factor:\
-InviteDegreeFactor = 5 if direct invite, 2 if second-degree invite, 1 if third-degree invite
+Inviter's boosted connection:
+
+`InviterBoostedConnection = sum[UpvoterCuratorRewards * InviteDegreeFactor * RewardBoost] for all upvoters that earned curator rewards in the period`
+
+Inviter's relationship degree factor:
+
+`InviteDegreeFactor = 5 if direct invite, 2 if second-degree invite, 1 if third-degree invite`
