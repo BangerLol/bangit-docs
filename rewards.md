@@ -12,6 +12,8 @@ Every 24 hours at midnight UTC, new BANG tokens are minted and distributed. Clai
 
 ## Tweet Rewards
 
+_Tweets that get more upvotes across more people earn more rewards_
+
 Tweet's share of the 90% of new BANG tokens:
 
 `TweetRewards = (TweetImpactInPeriod / TotalImpactInPeriod) * (Rewards * 0.9)`
@@ -22,17 +24,21 @@ Tweet's impact in the period:
 
 ## Curator Rewards
 
+_Upvote popular tweets harder and earlier to earn more rewards_
+
 Upvoter's share of a tweet's rewards:
 
 `CuratorRewards = (UpvoterTaste / TotalTaste) * (TweetRewards * 0.8)`
 
 Upvoter's taste for a tweet:
 
-`UpvoterTaste = sum[UpvotePower * (TotalUpvotes - UpvoteOrder + 1)] for all user's upvotes on that tweet`
+`UpvoterTaste = sum[UpvotePower * (TotalUpvotes - UpvoteIndex + 1)] for all user's upvotes on that tweet`
 
 All historical upvoters of the tweet are included in curator rewards.
 
 ## Creator Rewards
+
+_Content creators earn rewards when their tweets get upvoted_
 
 Author's share of a tweet's rewards:
 
@@ -43,6 +49,8 @@ Author's boosted clout:
 `AuthorBoostedClout = AuthoredTweetRewardsInPeriod * RewardBoost`
 
 ## Inviter Rewards
+
+_Invite good curators or people that invite good curators to earn more rewards_
 
 Inviter's share of the 10% of new BANG tokens:
 
