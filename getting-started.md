@@ -17,7 +17,7 @@ To ensure authenticity, Twitter/X accounts must meet some requirements:
 
 ## Feeds
 
-* Hot: tweets with at least 1 upvote, sorted by recently added to Bangit \* most upvote power
+* Hot: tweets with at least 1 upvote, sorted by recently added to Bangit + most upvote power
 * New: tweets sorted by recently posted on Twitter/X
 * Top: tweets sorted by upvote power
 
