@@ -10,7 +10,7 @@ Banger posts drown in slop, clickbait, and paid shills. Engagement farmers get r
 
 ## **Bangit pays people to curate bangers.**
 
-We don't just consume content. We curate culture. And get paid for our taste.&#x20;
+Don't just consume content. Curate culture. And get paid for your taste.&#x20;
 
 ## What we're not building.
 
