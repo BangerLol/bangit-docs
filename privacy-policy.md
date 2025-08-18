@@ -16,29 +16,29 @@ We have designed Bangit to minimize the impact on your privacy as a user, and we
 
 ### C. Your Personal Information
 
-We collect the following information that we consider to be "personal information":
+We receive the following information that we consider to be "personal information":
 
-1. Twitter/X account information (e.g., user ID, handle, or authentication tokens provided via OAuth)
+1. Twitter/X account information (e.g., user ID, handle, and authentication tokens provided via OAuth)
 2. IP addresses (and other device identifiers)
-3. Cryptocurrency wallet address (Solana wallet address embedded via Privy)
+3. Cryptocurrency wallet address (embedded wallet via Privy)
 
 We adopt a broad definition of personal information to account for potential correlations that could deanonymize data. Any information that could be used to identify an individual is treated as personal information.
 
 We do not consider the pseudonymous public username or Twitter/X handle you use in Bangit as personal information _per se_. However, if you use identifiable information (e.g., your real name) in your username or profile, it may become personally identifiable and thus treated as personal information.
 
-Additionally, if you contact our customer support team, participate in promotions, apply for roles with us, or otherwise share personal information not required to use Bangit, we may collect additional data you choose to disclose during those interactions.y collect other personal information about you that you choose to disclose as part of that process.
+Additionally, if you contact our customer support team, participate in promotions, apply for roles with us, or otherwise share personal information not required to use Bangit, we may collect additional data you choose to disclose during those interactions or other personal information about you that you choose to disclose as part of that process.
 
 ### D. Why We Collect Personal Information
 
 | **Personal Information**                | **Why Is It Collected?**                                                                                                                                                                                                                                                                                                                                |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Twitter/X account information           | To enable login and integration with Twitter/X via OAuth for accessing and curating tweets. This also allows us to associate your Bangit activities (e.g., upvotes) with your Twitter/X account for reward distribution. We may use this information to notify you about updates to this privacy policy, legal agreements, or critical app information. |
-| IP Address And Other Device Identifiers | Internet connections to Bangit’s backend services automatically expose IP addresses and device metadata. This data is collected as part of standard internet communication protocols to ensure functionality, security, and performance of the app. Bangit uses IP addresses and device metadata for sybil preventions.                                 |
-| Cryptocurrency Walllet Address          | To manage your embedded Solana wallet via Privy and facilitate BANG token transactions (e.g., staking, rewards distribution). This also ensures accurate delivery of rewards for curation, creation, and staking activities.                                                                                                                            |
+| IP Address And Other Device Identifiers | Internet connections to Bangit’s services automatically expose IP addresses and device metadata. This data is collected as part of standard internet communication protocols to ensure functionality, security, and performance of the app. Bangit uses IP addresses and device metadata for sybil preventions.                                         |
+| Cryptocurrency Walllet Address          | To manage your embedded Solana wallet via Privy and facilitate BANG token transactions (e.g., staking, rewards distribution). This also ensures accurate delivery of rewards for curation, creation, and invite activities.                                                                                                                             |
 
 Bangit is continuously improved, and we use personal information and other data to analyze user behavior and enhance app features such as upvote power mechanics and reward distribution.
 
-We do not sell or rent your personal information to third parties. However, we may share cryptocurrency wallet addresses (without other personal data) with partners to facilitate reward distributions or other programs beneficial to you.
+We do not sell or rent your personal information to third parties. However, we may share your embedded wallet address (without other personal data) with partners to facilitate reward distributions or other programs beneficial to you.
 
 ### E. Third-Party Integrations and Programs
 
@@ -56,7 +56,7 @@ As part of our privacy-by-design approach, we limit the personal information we 
 
 ### G. Cookies
 
-Bangit uses cookies and similar technologies (e.g., local storage, session storage) to enhance user experience and track app performance. Marketing and analytics tools integrated into Bangit may also use these technologies. You may configure your device to limit or disable cookies, and Bangit’s core functionality will remain accessible in most cases.
+Bangit uses cookies and similar technologies (e.g., local storage, session storage) to enhance user experience and track app performance. Marketing and analytics tools integrated into Bangit may also use these technologies.
 
 ### H. Data Storage
 
@@ -78,7 +78,7 @@ We generally retain personal information and business records indefinitely unles
 
 ### M. Ownership of Tweet Content and Intellectual Property
 
-Bangit does not claim ownership of any tweets, media, or other content you create or share on Twitter/X and curate through the Bangit application. All intellectual property rights in the tweets and associated media remain with the original creator or rights holder, as governed by Twitter/X’s terms of service and applicable laws. Bangit’s use of tweet content is limited to displaying, curating, and distributing rewards based on user interactions within the app, as described in this privacy policy. We do not reproduce, modify, or distribute your tweet content beyond what is necessary to provide Bangit’s services or as permitted by Twitter/X’s API and terms.
+Bangit does not claim ownership of any tweets, media, or other content created or shared on Twitter/X and rendered through the Bangit application. All intellectual property rights in the tweets and associated media remain with the original creator or rights holder, as governed by Twitter/X’s terms of service and applicable laws. Bangit’s use of tweet content is limited to displaying, curating, and distributing rewards based on user interactions within the app, as described in this privacy policy. We do not reproduce, modify, or distribute your tweet content beyond what is necessary to provide Bangit’s services or as permitted by Twitter/X’s API and terms.
 
 ### N. Compliance with Laws
 
