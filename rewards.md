@@ -6,7 +6,7 @@ icon: gift
 
 Every 24 hours at midnight UTC, new BANG tokens are minted and distributed. Claim your rewards at anytime. 10% of unclaimed rewards are burned every 7 days they are left unclaimed.
 
-90% of new BANG tokens go to tweets (Tweet Rewards). For each tweet's reward, 80% goes to upvoters (Curator Rewards) and 20% goes to the tweet author (Creator Rewards).
+90% of new BANG tokens go to tweets (Tweet Rewards). For each tweet's reward, 80% goes to voters (Curator Rewards) and 20% goes to the tweet author (Creator Rewards).
 
 10% of new BANG tokens go to inviters (Inviter Rewards).
 
@@ -16,11 +16,15 @@ _Tweets that get more upvotes across more people earn more rewards_
 
 Tweet's share of the 90% of new BANG tokens:
 
-`TweetRewards = (TweetImpactInPeriod / TotalImpactInPeriod) * (Rewards * 0.9)`
+`TweetRewards = (TweetNetImpactInPeriod / TotalNetImpactInPeriod) * (Rewards * 0.9)`
 
-Tweet's impact in the period:
+Tweet's net impact in the period:
 
-`TweetImpactInPeriod = sqrt(UpvotePowerInPeriod * UniqueUpvotersInPeriod)`
+`TweetNetImpactInPeriod = TweetUpImpactInPeriod - TweetDownImpactInPeriod`
+
+`TweetUpImpactInPeriod = UpvotePowerInPeriod * UniqueUpvotersInPeriod`
+
+`TweetDownImpactInPeriod = DownvotePowerInPeriod * UniqueDownvotersInPeriod`
 
 ## Curator Rewards
 
@@ -28,13 +32,23 @@ _Upvote popular tweets harder and earlier to earn more rewards_
 
 Upvoter's share of a tweet's rewards:
 
-`CuratorRewards = (UpvoterTaste / TotalTaste) * (TweetRewards * 0.8)`
+`UpvoterRewards = (UpvoterTaste / TotalTaste) * UpvoterPool`
 
 Upvoter's taste for a tweet:
 
-`UpvoterTaste = sum[UpvotePower * (TotalUpvotes - UpvoteIndex + 1)] for all user's upvotes on that tweet`
+`UpvoterTaste = SUM[UpvotePower * (TotalUpvotes - UpvoteIndex + 1)] for all user's upvotes on that tweet`
+
+`DownvoterTaste = SUM[DownvotePower * (TotalDownvotes - DownvoteIndex + 1)] for all the user's downvotes on that tweet`
 
 All historical upvoters of the tweet are included in curator rewards.
+
+
+
+{% hint style="info" %}
+A Reward Boost based on Max Power is applied to Creator and Inviter Rewards
+
+`Reward Boost (max 3) = 1 + ((sqrt(Max Power) - 100) / 1000)`
+{% endhint %}
 
 ## Creator Rewards
 
@@ -46,7 +60,7 @@ Author's share of a tweet's rewards:
 
 Author's boosted clout:
 
-`AuthorBoostedClout = AuthoredTweetRewardsInPeriod * RewardBoost`
+`AuthorBoostedClout = AuthoredTweetRewardsInPeriod * AuthorRewardBoost`
 
 ## Inviter Rewards
 
@@ -58,7 +72,7 @@ Inviter's share of the 10% of new BANG tokens:
 
 Inviter's boosted connection:
 
-`InviterBoostedConnection = sum[UpvoterCuratorRewards * InviteDegreeFactor * RewardBoost] for all upvoters that earned curator rewards in the period`
+`InviterBoostedConnection = SUM[UpvoterCuratorRewards * InviteDegreeFactor * InviterRewardBoost] for all upvoters that earned curator rewards in the period`
 
 Inviter's relationship degree factor:
 

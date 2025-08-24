@@ -10,7 +10,7 @@ Staking BANG increases Max Power and a Reward Boost for creator and staking rewa
 
 `Max Power = 100 + (Staked BANG * Time Multiplier)`
 
-`Reward Boost (max 3) = 1 + ((sqrt(Max Power) - 100) / 1000)`
+`Reward Boost (max 3) = 1 + ((sqrt(Max Power) - 10) / 1000)`
 
 When staking more BANG,
 
