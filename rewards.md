@@ -16,31 +16,47 @@ _Tweets that get more upvotes across more people earn more rewards_
 
 Tweet's share of the 90% of new BANG tokens:
 
-`TweetRewards = (TweetNetImpactInPeriod / TotalNetImpactInPeriod) * (Rewards * 0.9)`
+`TweetRewards = (TweetEffectiveImpact / TotalEffectiveImpact) * (TotalRewards * 0.9)`
 
-Tweet's net impact in the period:
+Tweet's effective impact:
 
-`TweetNetImpactInPeriod = TweetUpImpactInPeriod - TweetDownImpactInPeriod`
+if TweetNetImpact ≥ 0,
 
-`TweetUpImpactInPeriod = UpvotePowerInPeriod * UniqueUpvotersInPeriod`
+`TweetEffectiveImpact = TweetNetImpact`
 
-`TweetDownImpactInPeriod = DownvotePowerInPeriod * UniqueDownvotersInPeriod`
+else if TweetNetImpact < 0,
+
+`TweetEffectiveImpact = TweetUpImpact`
+
+Tweet's net impact:
+
+`TweetNetImpact = TweetUpImpact - TweetDownImpact`
+
+`TweetUpImpact = UpvotePowerInPeriod * UniqueUpvotersInPeriod`
+
+`TweetDownImpact = DownvotePowerInPeriod * UniqueDownvotersInPeriod`
 
 ## Curator Rewards
 
 _Upvote popular tweets harder and earlier to earn more rewards_
 
-Upvoter's share of a tweet's rewards:
+Voter's share of a tweet's rewards:
 
-`UpvoterRewards = (UpvoterTaste / TotalTaste) * UpvoterPool`
+If TweetNetImpact ≥ 0,
 
-Upvoter's taste for a tweet:
+`CuratorRewards = (UpvoteTaste / TotalUpvoteTaste) * (TweetRewards * 0.8)`
+
+If TweetNetImpact < 0,
+
+`CuratorRewards = (DownvoteTaste / TotalDownvoteTaste) * (TweetRewards * 0.8)`
+
+Voter's taste:
 
 `UpvoterTaste = SUM[UpvotePower * (TotalUpvotes - UpvoteIndex + 1)] for all user's upvotes on that tweet`
 
-`DownvoterTaste = SUM[DownvotePower * (TotalDownvotes - DownvoteIndex + 1)] for all the user's downvotes on that tweet`
+`DownvoterTaste = SUM[DownvotePower * (TotalDownvotes - DownvoteIndex + 1)] for all user's downvotes on that tweet`
 
-All historical upvoters of the tweet are included in curator rewards.
+All historical voters of the tweet are included in curator rewards.
 
 
 
@@ -54,13 +70,13 @@ A Reward Boost based on Max Power is applied to Creator and Inviter Rewards
 
 _Content creators earn rewards when their tweets get upvoted_
 
-Author's share of a tweet's rewards:
+Author's share of rewards:
 
-`AuthorRewards = (AuthorBoostedClout / TotalBoostedClout) * (TweetRewards * 0.2)`
+`AuthorRewards = (AuthorClout / TotalClout) * (SUM[0.2 * TweetRewards] for all tweets with TweetNetImpact > 0 in period)`
 
-Author's boosted clout:
+Author's clout:
 
-`AuthorBoostedClout = AuthoredTweetRewardsInPeriod * AuthorRewardBoost`
+`AuthorBoostedClout = AuthorRewardBoost * SUM[TweetRewards] for all authored tweets with TweetNetImpact > 0 in period`
 
 ## Inviter Rewards
 
