@@ -26,7 +26,7 @@ if TweetNetImpact ≥ 0,
 
 else if TweetNetImpact < 0,
 
-`TweetEffectiveImpact = TweetUpImpact`
+`TweetEffectiveImpact = TweetUpImpact * 0.5`
 
 Tweet's net impact:
 
@@ -44,11 +44,11 @@ Voter's share of a tweet's rewards:
 
 If TweetNetImpact ≥ 0,
 
-`CuratorRewards = (UpvoteTaste / TotalUpvoteTaste) * (TweetRewards * 0.8)`
+`CuratorRewards = (UpvoterTaste / TotalUpvoteTaste) * (TweetRewards * 0.8)`
 
 If TweetNetImpact < 0,
 
-`CuratorRewards = (DownvoteTaste / TotalDownvoteTaste) * (TweetRewards * 0.8)`
+`CuratorRewards = (DownvoterTaste / TotalDownvoteTaste) * (TweetRewards * 0.8)`
 
 Voter's taste:
 
@@ -84,11 +84,11 @@ _Invite good curators or people that invite good curators to earn more rewards_
 
 Inviter's share of the 10% of new BANG tokens:
 
-`InviterRewards = (InviterBoostedConnection / TotalBoostedConnection) * (Rewards * 0.1)`
+`InviterRewards = (InviterConnection / TotalConnection) * (Rewards * 0.1)`
 
-Inviter's boosted connection:
+Inviter's connection:
 
-`InviterBoostedConnection = SUM[UpvoterCuratorRewards * InviteDegreeFactor * InviterRewardBoost] for all upvoters that earned curator rewards in the period`
+`InviterConnection = SUM[VoterCuratorRewards * InviteDegreeFactor * InviterRewardBoost] for all voters that earned curator rewards in the period`
 
 Inviter's relationship degree factor:
 
