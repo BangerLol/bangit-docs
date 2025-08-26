@@ -32,9 +32,9 @@ Tweet's net impact:
 
 `TweetNetImpact = TweetUpImpact - TweetDownImpact`
 
-`TweetUpImpact = UpvotePowerInPeriod * UniqueUpvotersInPeriod`
+`TweetUpImpact = UpvotePowerInPeriod * sqrt(UniqueUpvotersInPeriod)`
 
-`TweetDownImpact = DownvotePowerInPeriod * UniqueDownvotersInPeriod`
+`TweetDownImpact = DownvotePowerInPeriod * sqrt(UniqueDownvotersInPeriod)`
 
 ## Curator Rewards
 
