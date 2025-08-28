@@ -63,7 +63,7 @@ All historical voters of the tweet are included in curator rewards.
 {% hint style="info" %}
 A Reward Boost based on Max Power is applied to Creator and Inviter Rewards
 
-`Reward Boost (max 3) = 1 + ((sqrt(Max Power) - 100) / 1000)`
+`Reward Boost (max 3) = 1 + ((sqrt(Max Power) - 10) / 1000)`
 {% endhint %}
 
 ## Creator Rewards
