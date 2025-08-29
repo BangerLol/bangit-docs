@@ -23,4 +23,4 @@ To ensure authenticity, Twitter/X accounts must meet some requirements:
 
 ## Following
 
-Follow your favorite Twitter/X accounts, so you can filter for their tweets in the feeds. Followed users automatically have their tweets added to Bangit.
+Follow your favorite Twitter/X accounts to filter for their tweets in the feeds. Followed users automatically have their tweets added to Bangit.

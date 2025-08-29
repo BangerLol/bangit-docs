@@ -4,6 +4,8 @@ icon: gem
 
 # Staking
 
+_Stake BANG to increase rewards, clout, and influence on feeds_
+
 Staking BANG increases Max Power and a Reward Boost for creator and staking rewards. A daily increasing Time Multiplier further increases Max Power and Reward Boost.
 
 `Time Multiplier (max 5) = 1 + (0.01 * Days Staked)`

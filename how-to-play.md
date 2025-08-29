@@ -4,7 +4,7 @@ icon: repeat
 
 # How to Play
 
-Allocate upvote power to good tweets, using 1-10% of your Max Power per upvote.
+Allocate upvote power to tweets, using 1-10% of your Max Power per upvote.
 
 Power regenerates 100% of Max Power per day (continuously).
 

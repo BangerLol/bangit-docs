@@ -24,6 +24,6 @@ For people that post good tweets, Bangit gives real recognition and upside. Twee
 
 ## Links
 
-App: [https://bangit.fun](https://bangit.fun/) ("Add to Home Screen" on mobile device)
+App: [https://bangit.xyz](https://bangit.xyz/) ("Add to Home Screen" on mobile device)
 
-Twitter: [https://x.com/bangitdotfun](https://x.com/bangitdotfun)
+Twitter: [https://x.com/bangitdotxyz](https://x.com/bangitdotxyz)
