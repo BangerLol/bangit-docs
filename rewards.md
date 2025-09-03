@@ -52,9 +52,9 @@ If TweetNetImpact < 0,
 
 Voter's taste:
 
-`UpvoterTaste = SUM[UpvotePower * (TotalUpvotes - UpvoteIndex + 1)] for all user's upvotes on that tweet`
+`UpvoterTaste = SUM[UpvotePower * (UpvotePowerPct / 5) * (TotalUpvotes - UpvoteIndex + 1)] for all user's upvotes on that tweet`
 
-`DownvoterTaste = SUM[DownvotePower * (TotalDownvotes - DownvoteIndex + 1)] for all user's downvotes on that tweet`
+`DownvoterTaste = SUM[DownvotePower * (DownvotePowerPct / 5) * (TotalDownvotes - DownvoteIndex + 1)] for all user's downvotes on that tweet`
 
 All historical voters of the tweet are included in curator rewards.
 
