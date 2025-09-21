@@ -6,19 +6,21 @@ icon: question
 
 ## The curator economy for Twitter/X
 
-Upvote to earn. Free to play. Powered by Solana.
+Free to play. Upvote to Earn. Powered by Solana.
 
-### Enjoyers: Less slop, more bangers
 
-For people that enjoy good tweets, Bangit serves tweet feeds with less slop and more bangers. Tweets are sorted by a new engagement metric based on skin in the game.
 
-### Curators: Proof of Taste
+### For banger curators: Proof of Taste game
 
-For people that find good tweets early, Bangit pays you to curate bangers. Upvote tweets to earn BANG tokens when other people upvote those tweets.
+Earn rewards, clout, and influence for upvoting top tweets with speed and conviction.
 
-### Creators: Win Big
+### For banger creators: Creator Rewards
 
-For people that post good tweets, Bangit gives real recognition and upside. Tweet authors earn BANG tokens when their tweets get upvoted.
+Content creators get real upside and impact.
+
+### For banger enjoyers: Less slop, more bangers
+
+Enjoy tweet feeds with less slop and more bangers.
 
 
 

@@ -12,14 +12,14 @@ Banger posts drown in slop, clickbait, and paid shills. Engagement farmers get r
 
 Don't just consume content. Curate culture. And get paid for your taste.&#x20;
 
-## What we're not building.
+## What we're building.
 
 :x: Another social app\
 :white\_check\_mark: Value for existing content
 
-:x: Another "info-fi" app\
+:x: Another infofi app\
 :white\_check\_mark: Real engagement metrics
 
 :x: Another launchpad\
-:white\_check\_mark: New collaborative game
+:white\_check\_mark: New game
 
