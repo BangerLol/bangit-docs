@@ -10,7 +10,7 @@ Banger tweets drown in slop, clickbait, and paid shills. The algo incentivizes e
 
 ## **What if engagement had skin in the game**
 
-Curators earn tokens for upvoting top tweets with speed and conviction. Creators earn tokens when their tweets get upvoted. Sort tweets by conviction, instead of likes.
+Curators earn tokens for upvoting top tweets with speed and conviction. Creators earn tokens when their tweets get upvoted. Tweets sorted by conviction instead of likes.
 
 ## What we're building.
 
