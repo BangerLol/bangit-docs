@@ -10,7 +10,7 @@ Free to play. Upvote to Earn. Powered by Solana.
 
 
 
-### For banger curators: Proof of Taste game
+### For banger curators: Proof of Taste
 
 Earn rewards, clout, and influence for upvoting top tweets with speed and conviction.
 

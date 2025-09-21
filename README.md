@@ -4,13 +4,13 @@ icon: star
 
 # Mission
 
-## For banger enjoyers, **Twitter is broken.**
+## **Twitter is broken**
 
-Banger posts drown in slop, clickbait, and paid shills. Engagement farmers get rich. And the people who do find bangers early get nothing.
+Banger tweets drown in slop, clickbait, and paid shills. The algo incentivizes engagement farming. And the people who find bangers early get nothing.
 
-## **Bangit pays people to curate bangers.**
+## **What if engagement had skin in the game**
 
-Don't just consume content. Curate culture. And get paid for your taste.&#x20;
+Curators vote on tweets with a limited, re-generating resource. Curators earn Taste scores and token rewards for upvoting top tweets with speed and conviction. Tweets are sorted by stronger signals based on popularity and conviction.
 
 ## What we're building.
 
