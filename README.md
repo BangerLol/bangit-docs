@@ -10,7 +10,7 @@ Banger tweets drown in slop, clickbait, and paid shills. The algo incentivizes e
 
 ## **What if engagement had skin in the game**
 
-Curators vote on tweets with a limited, re-generating resource. Curators earn Taste scores and token rewards for upvoting top tweets with speed and conviction. Tweets are sorted by stronger signals based on popularity and conviction.
+Curators earn tokens for upvoting top tweets with speed and conviction. Creators earn tokens when their tweets get upvoted. Sort tweets by conviction, instead of likes.
 
 ## What we're building.
 
