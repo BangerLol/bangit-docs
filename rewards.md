@@ -40,9 +40,9 @@ Tweet's net impact:
 
 `TweetNetImpact = TweetUpImpact - TweetDownImpact`
 
-`TweetUpImpact = Normalized(UniqueUpvotersInPeriod) * Normalized(AvgUpvotePowerPct) * Normalized(UpvotePowerInPeriod)`
+`TweetUpImpact = Normalized(UniqueUpvotersInPeriod)*0.5 * Normalized(AvgUpvotePowerPct)*0.25 * Normalized(UpvotePowerInPeriod)*0.25`
 
-`TweetDownImpact = Normalized(UniqueDownvotersInPeriod) * Normalized(AvgDownvotePowerPct) * Normalized(DownvotePowerInPeriod)`
+`TweetDownImpact = Normalized(UniqueDownvotersInPeriod)*0.5 * Normalized(AvgDownvotePowerPct)*0.25 * Normalized(DownvotePowerInPeriod)*0.25`
 
 
 
@@ -68,9 +68,9 @@ If TweetNetImpact < 0,
 
 Voter's taste:
 
-`UpvoterTaste = SUM[(TotalPostUpvotes - UpvoteIndex) * UpvotePowerPct * UpvotePower] for all user's upvotes on that tweet`
+`UpvoterTaste = SUM[Normalized(Earliness) * Normalized(UpvotePowerPct) * Normalized(UpvotePower)] for all user's upvotes on that tweet`
 
-`DownvoterTaste = SUM[(TotalDownvotes - DownvoteIndex) * DownvotePowerPct * DownvotePower] for all user's downvotes on that tweet`
+`DownvoterTaste = SUM[Normalized(Earliness) * Normalized(DownvotePowerPct) * Normalized(DownvotePower)] for all user's downvotes on that tweet`
 
 
 
@@ -79,8 +79,6 @@ A Reward Boost based on Max Power is applied to Creator and Inviter Rewards
 
 `Reward Boost (max 3) = 1 + ((sqrt(Max Power) - 10) / 1000)`
 {% endhint %}
-
-
 
 ## Creator Rewards
 
