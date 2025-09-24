@@ -15,11 +15,13 @@ To ensure authenticity, Twitter/X accounts must meet some requirements:
 * \>30 days old
 * \>100 followers
 
+Other graph analysis mechanisms prevent sybil accounts. Suspensions can be appealed on a case-by-case basis.
+
 ## Feeds
 
-* **Hot**: tweets with at least 1 upvote, sorted by recently added to Bangit + most upvote power
-* **New**: tweets sorted by recently posted on Twitter/X
-* **Top**: tweets sorted by upvote power
+* **Hot**: tweets with at least 1 upvote, sorted by recently posted + most impact
+* **New**: tweets sorted by recently posted
+* **Top**: tweets sorted by most impact
 
 ## Following
 
