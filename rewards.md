@@ -10,7 +10,7 @@ Every 24 hours at midnight UTC, new BANG tokens are minted and distributed. Clai
 
 10% of new BANG tokens go to inviters (Inviter Rewards).
 
-
+<figure><img src=".gitbook/assets/bangflow.png" alt=""><figcaption></figcaption></figure>
 
 ## Tweet Rewards
 
