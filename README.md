@@ -12,7 +12,7 @@ Banger tweets drown in slop, clickbait, and paid shills. The algo incentivizes e
 
 Curators earn for upvoting top tweets with accuracy, speed, and conviction. Creators earn when their tweets get upvoted. Tweets sorted by conviction instead of likes.
 
-## What we're building.
+## Something new
 
 :x: Another social app\
 :white\_check\_mark: Value for existing content
