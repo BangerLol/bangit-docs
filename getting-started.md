@@ -15,14 +15,16 @@ To ensure authenticity, Twitter/X accounts must meet some requirements:
 * \>30 days old
 * \>100 followers
 
-Other graph analysis mechanisms prevent sybil accounts. Suspensions can be appealed on a case-by-case basis.
+We use advanced graph analysis to limit sybil/cartel accounts. Suspensions can be appealed on a case-by-case basis.
 
 ## Feeds
 
-* **Hot**: tweets with at least 1 upvote, sorted by recently posted + most impact
-* **New**: tweets sorted by recently posted
-* **Top**: tweets sorted by most impact
+* **Hot**: recently upvoted + most impact
+* Bump: recently upvoted
+* **Top**: most impact
+* **New**: recently posted
+* **For You**: your "For You" feed imported from Twitter/X
 
 ## Following
 
-Follow your favorite Twitter/X accounts to filter for their tweets in the feeds. Followed users automatically have their tweets added to Bangit.
+Follow your favorite Twitter/X accounts on Bangit to filter for their tweets in the feeds. Followed users automatically have their tweets added to Bangit.

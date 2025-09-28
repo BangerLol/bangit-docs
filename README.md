@@ -10,7 +10,7 @@ Banger tweets drown in slop, clickbait, and paid shills. The algo incentivizes e
 
 ## **What if engagement had skin in the game**
 
-Curators earn for upvoting top tweets with accuracy, speed, and conviction. Creators earn when their tweets get upvoted. Tweets sorted by conviction instead of likes.
+If it was costly to boost slop, and rewarding to boost bangers, then tweets could be sorted by conviction instead of likes. While curators and creators get paid.
 
 ## Something new
 

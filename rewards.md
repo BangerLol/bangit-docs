@@ -4,7 +4,7 @@ icon: gift
 
 # Rewards
 
-Every 24 hours at midnight UTC, new BANG tokens are minted and distributed. Claim your rewards at anytime. 10% of unclaimed rewards are burned every 7 days they are left unclaimed.
+Every 24 hours at midnight UTC, new BANG tokens are minted and distributed based on activity in the last 24 hours. Claim your rewards at anytime. 10% of unclaimed rewards are burned every 7 days they are left unclaimed.
 
 90% of new BANG tokens go to tweets (Tweet Rewards). For each tweet's reward, 80% goes to voters (Curator Rewards) and 20% goes to the tweet author (Creator Rewards).
 
@@ -16,17 +16,17 @@ Every 24 hours at midnight UTC, new BANG tokens are minted and distributed. Clai
 
 _Tweets that get more voters with higher conviction earn more rewards_
 
+### **Tweet's net impact:**
 
+`TweetNetImpact = TweetUpImpact - TweetDownImpact`
 
-**Tweet's share of the 90% of new BANG tokens:**
+`TweetUpImpact = Normalized(Upvoters)*0.7 * Normalized(AvgConviction)*0.15 * Normalized(Power)*0.15`
 
-`TweetRewards = (TweetEffectiveImpact / TotalEffectiveImpact) * (TotalRewards * 0.9)`
+`TweetDownImpact = Normalized(Downvoters)*0.7 * Normalized(AvgConviction)*0.15 * Normalized(Power)*0.15`
 
+### **Tweet's effective impact:**
 
-
-**Tweet's effective impact:**
-
-if TweetNetImpact ≥ 0,
+if TweetNetImpact > 0,
 
 `TweetEffectiveImpact = TweetNetImpact`
 
@@ -34,15 +34,11 @@ else if TweetNetImpact < 0,
 
 `TweetEffectiveImpact = TweetUpImpact * 0.5`
 
+If a tweet's Net Impact is negative, then downvoters are rewarded based on 50% of the Positive Impact of the tweet. This encourages only downvoting over-upvoted slop, instead of dogpiling onto obviously bad tweets, which earns no rewards.
 
+### **Tweet's reward share:**
 
-**Tweet's net impact:**
-
-`TweetNetImpact = TweetUpImpact - TweetDownImpact`
-
-`TweetUpImpact = Normalized(Upvoters)*0.5 * Normalized(AvgConviction)*0.25 * Normalized(Power)*0.25`
-
-`TweetDownImpact = Normalized(Downvoters)*0.5 * Normalized(AvgConviction)*0.25 * Normalized(Power)*0.25`
+`TweetRewards = (TweetEffectiveImpact / TotalEffectiveImpact) * (TotalRewards * 0.9)`
 
 
 
@@ -50,13 +46,19 @@ else if TweetNetImpact < 0,
 
 _Voters that vote for top tweets harder and earlier earn more rewards_
 
-All historical voters of the tweet are included in curator rewards. Only the "winning" side voters of a tweet's Net Impact is rewarded. If a tweet's Net Impact is negative, then downvoters are rewarded based on 25% of the Positive Impact of the tweet. This encourages only downvoting over-upvoted slop, instead of dogpiling onto obviously bad tweets, which earns no rewards.
+Only the "winning" side voters of a tweet's Net Impact is rewarded.
 
+### **Voter's taste:**
 
+`UpvoterTaste = SUM[Normalized(Earliness) * Normalized(Conviction) * Normalized(Power)]`\
+`for all user's upvotes on that tweet`
 
-**Voter's share of a tweet's rewards:**
+`DownvoterTaste = SUM[Normalized(Earliness) * Normalized(Conviction) * Normalized(Power)]`\
+`for all user's downvotes on that tweet`
 
-If TweetNetImpact ≥ 0,
+### **Voter's share of a tweet's rewards:**
+
+If TweetNetImpact > 0,
 
 `CuratorRewards = (UpvoterTaste / TotalUpvoteTaste) * (TweetRewards * 0.8)`
 
@@ -66,60 +68,34 @@ If TweetNetImpact < 0,
 
 
 
-**Voter's taste:**
-
-`UpvoterTaste = SUM[Normalized(Earliness) * Normalized(Conviction) * Normalized(Power)]`\
-`for all user's upvotes on that tweet`
-
-`DownvoterTaste = SUM[Normalized(Earliness) * Normalized(Conviction) * Normalized(Power)]`\
-`for all user's downvotes on that tweet`
-
-
-
-{% hint style="info" %}
-A Reward Boost based on Max Power is applied to Creator and Inviter Rewards
-
-`Reward Boost (max 3) = 1 + ((sqrt(Max Power) - 10) / 1000)`
-{% endhint %}
-
 ## Creator Rewards
 
 _Authors whose tweets get more upvoters with higher conviction earn more rewards_
 
 Creator Rewards for authors of negative Net Impact tweets get re-distributed to authors of positive Net Impact tweets.
 
+### **Author's clout:**
 
+`AuthorClout = AuthorRewardBoost * SUM[TweetRewards] for all authored tweets with TweetNetImpact > 0 in period`
 
-**Author's share of rewards:**
+### **Author's share of rewards:**
 
-`AuthorRewards = (AuthorClout / TotalClout) * (SUM[0.2 * TweetRewards] for all tweets with TweetNetImpact > 0 in period)`
-
-
-
-**Author's clout:**
-
-`AuthorBoostedClout = AuthorRewardBoost * SUM[TweetRewards] for all authored tweets with TweetNetImpact > 0 in period`
+`AuthorRewards = (AuthorClout / TotalClout) * (SUM[TweetRewards * 0.2] for all authored tweets with TweetNetImpact > 0 in period)`
 
 
 
 ## Inviter Rewards
 
-_Inviters whose invitees upvote top tweets harder and earlier earn more rewards_
+_Inviters whose invitees vote for top tweets harder and earlier earn more rewards_
 
+### **Inviter's relationship degree factor:**
 
+`InviteDegree = 5 if direct invite, 2 if second-degree invite, 1 if third-degree invite`
 
-**Inviter's share of the 10% of new BANG tokens:**
+### **Inviter's connection:**
 
-`InviterRewards = (InviterConnection / TotalConnection) * (Rewards * 0.1)`
+`InviterConnection = SUM[VoterCuratorRewards * InviteDegree * InviterRewardBoost] for all voters that earned curator rewards in the period`
 
+### **Inviter's share of the 10% of new BANG tokens:**
 
-
-**Inviter's connection:**
-
-`InviterConnection = SUM[VoterCuratorRewards * InviteDegreeFactor * InviterRewardBoost] for all voters that earned curator rewards in the period`
-
-
-
-**Inviter's relationship degree factor:**
-
-`InviteDegreeFactor = 5 if direct invite, 2 if second-degree invite, 1 if third-degree invite`
+`InviterRewards = (InviterConnection / TotalConnection) * (TotalRewards * 0.1)`
