@@ -10,7 +10,7 @@ Banger tweets drown in slop, clickbait, and paid shills. The algo incentivizes e
 
 ## **What if engagement had skin in the game**
 
-If it was costly to boost slop, and rewarding to boost bangers, then tweets could be sorted by conviction instead of likes. While curators and creators get paid.
+If it was costly to boost slop, and rewarding to boost bangers, then tweets could be sorted by conviction instead of soft engagement metrics. While real curators and creators get paid.
 
 ## Something new
 
