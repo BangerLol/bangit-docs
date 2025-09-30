@@ -20,9 +20,12 @@ _Tweets that get more voters with higher conviction earn more rewards_
 
 `TweetNetImpact = TweetUpImpact - TweetDownImpact`
 
-`TweetUpImpact = Normalized(Upvoters)*0.7 * Normalized(AvgConviction)*0.15 * Normalized(Power)*0.15`
+`TweetUpImpact = (Normalized(UniqueUpvoters) ^ 1.5) * 0.7 +`\
+`(Normalized(AvgUpConviction) ^ 1.5) * 0.2 +`\
+`Normalized(Power) * 0.1`
 
-`TweetDownImpact = Normalized(Downvoters)*0.7 * Normalized(AvgConviction)*0.15 * Normalized(Power)*0.15`
+`TweetDownImpact = (Normalized(UniqueDownvoters) ^ 1.5) * 0.7 + (Normalized(AvgDownConviction) ^ 1.5) * 0.2 +`\
+`Normalized(Power) * 0.1`
 
 ### **Tweet's effective impact:**
 
@@ -50,11 +53,17 @@ Only the "winning" side voters of a tweet's Net Impact is rewarded.
 
 ### **Voter's taste:**
 
-`UpvoterTaste = SUM[Normalized(Earliness) * Normalized(Conviction) * Normalized(Power)]`\
-`for all user's upvotes on that tweet`
+`UpvoterTaste = SUM[`\
+`(Normalized(Earliness) ^ 1.5) * 0.45 +`\
+`(Normalized(Conviction) ^ 1.5) * 0.45 +`\
+`* Normalized(Power)`\
+`] for all voter's upvotes on that tweet`
 
-`DownvoterTaste = SUM[Normalized(Earliness) * Normalized(Conviction) * Normalized(Power)]`\
-`for all user's downvotes on that tweet`
+`DownvoterTaste = SUM[`\
+`(Normalized(Earliness) ^ 1.5) * 0.45 +`\
+`(Normalized(Conviction) ^ 1.5) * 0.45 +`\
+`* Normalized(Power)`\
+`] for all voter's downvotes on that tweet`
 
 ### **Voter's share of a tweet's rewards:**
 
