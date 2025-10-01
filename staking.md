@@ -4,7 +4,7 @@ icon: gem
 
 # Staking
 
-_Stake BANG for boosted rewards, clout, and influence on feeds_
+_Stake BANG for boosted rewards, clout, and influence on the feeds_
 
 Staking BANG increases Max Power and a Reward Boost for creator and staking rewards. A daily increasing Multiplier further increases Max Power and Reward Boost.
 

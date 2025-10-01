@@ -15,13 +15,13 @@ To ensure authenticity, Twitter/X accounts must meet some requirements:
 * \>30 days old
 * \>100 followers
 
-We use advanced graph analysis to limit sybil/cartel accounts. Suspensions can be appealed on a case-by-case basis.
+We use advanced graph analysis to limit sybil/cartel accounts.
 
 ## Feeds
 
-* **Hot**: recently upvoted + most impact
-* Bump: recently upvoted
+* **Hot**: most impact + recently upvoted + recently posted
 * **Top**: most impact
+* **Bump**: recently upvoted
 * **New**: recently posted
 * **For You**: your "For You" feed imported from Twitter/X
 

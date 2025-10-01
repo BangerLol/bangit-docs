@@ -20,11 +20,14 @@ _Tweets that get more voters with higher conviction earn more rewards_
 
 `TweetNetImpact = TweetUpImpact - TweetDownImpact`
 
-`TweetUpImpact = (Normalized(UniqueUpvoters) ^ 1.5) * 0.7 +`\
-`(Normalized(AvgUpConviction) ^ 1.5) * 0.2 +`\
+`TweetUpImpact =`\
+`(Normalized(UniqueUpvoters) ** 0.5) * 0.7 +`\
+`(Normalized(AvgUpConviction) ** 0.5) * 0.2 +`\
 `Normalized(Power) * 0.1`
 
-`TweetDownImpact = (Normalized(UniqueDownvoters) ^ 1.5) * 0.7 + (Normalized(AvgDownConviction) ^ 1.5) * 0.2 +`\
+`TweetDownImpact =`\
+`(Normalized(UniqueDownvoters) ** 0.5) * 0.7 +`\
+`(Normalized(AvgDownConviction) ** 0.5) * 0.2 +`\
 `Normalized(Power) * 0.1`
 
 ### **Tweet's effective impact:**
@@ -54,18 +57,18 @@ Only the "winning" side voters of a tweet's Net Impact is rewarded.
 ### **Voter's taste:**
 
 `UpvoterTaste = SUM[`\
-`(Normalized(Earliness) ^ 1.5) * 0.45 +`\
-`(Normalized(Conviction) ^ 1.5) * 0.45 +`\
-`* Normalized(Power)`\
+`(Normalized(Earliness) ** 0.5) * 0.45 +`\
+`(Normalized(Conviction) ** 0.5) * 0.45 +`\
+`Normalized(Power) * 0.1`\
 `] for all voter's upvotes on that tweet`
 
 `DownvoterTaste = SUM[`\
-`(Normalized(Earliness) ^ 1.5) * 0.45 +`\
-`(Normalized(Conviction) ^ 1.5) * 0.45 +`\
-`* Normalized(Power)`\
+`(Normalized(Earliness) ^ 0.5) * 0.45 +`\
+`(Normalized(Conviction) ^ 0.5) * 0.45 +`\
+`Normalized(Power) * 0.1`\
 `] for all voter's downvotes on that tweet`
 
-### **Voter's share of a tweet's rewards:**
+### **Voter's Tweet reward share:**
 
 If TweetNetImpact > 0,
 
@@ -87,7 +90,7 @@ Creator Rewards for authors of negative Net Impact tweets get re-distributed to 
 
 `AuthorClout = AuthorRewardBoost * SUM[TweetRewards] for all authored tweets with TweetNetImpact > 0 in period`
 
-### **Author's share of rewards:**
+### **Author's Tweet reward share:**
 
 `AuthorRewards = (AuthorClout / TotalClout) * (SUM[TweetRewards * 0.2] for all authored tweets with TweetNetImpact > 0 in period)`
 
@@ -105,6 +108,6 @@ _Inviters whose invitees vote for top tweets harder and earlier earn more reward
 
 `InviterConnection = SUM[VoterCuratorRewards * InviteDegree * InviterRewardBoost] for all voters that earned curator rewards in the period`
 
-### **Inviter's share of the 10% of new BANG tokens:**
+### **Inviter's reward share:**
 
 `InviterRewards = (InviterConnection / TotalConnection) * (TotalRewards * 0.1)`
