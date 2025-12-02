@@ -4,13 +4,9 @@ icon: handshake-simple
 
 # Delegation
 
-_Delegate vote power to other curators to earn based on their rewards_
+#### Delegate vote power to others to earn from their curation.
 
 * Delegate up to 50% of Max Power
 * Split among up to 10 curators
-* Warm up: delegated power transfers to curator over 24 hours
-* Cooldown: revoked power returns to delegator over 36 hours
-* 20% fee on delegated rewards to curator
-  * Curator's delegated power used = delegated power / max power \* power used
-  * Delegated rewards = delegated power used / power used \* curator rewards
-* 5% fee on delegated rewards are burnt
+* 5% burn fee on rewards earned from delegated power
+* 50% split on post-fee rewards earned from delegated power to curator and delegator
