@@ -6,18 +6,18 @@ icon: play
 
 ## Onboarding
 
-Go to [Bangit](https://bangit.fun/). Login with Twitter/X.
-
-Enjoy an embedded Solana wallet in the background, secured by [Privy](https://www.privy.io/). No funding necessary. Transaction fees are covered by Bangit.
+Go to [bangit.xyz](https://bangit.xyz/). Login with Twitter/X. Enjoy a self-custody Solana wallet, secured by [Privy](https://www.privy.io/). Transaction fees are covered by Bangit, no funding deposits necessary.
 
 To ensure authenticity, Twitter/X accounts must meet some requirements:
 
 * \>30 days old
 * \>100 followers
 
-We use advanced graph analysis to limit sybil/cartel accounts.
+We use graph analysis to detect and ban sybil/cartel accounts.
 
 ## Feeds
+
+Enjoy curated tweet feeds
 
 * **Hot**: most impact + recently upvoted + recently posted
 * **Top**: most impact
@@ -25,6 +25,6 @@ We use advanced graph analysis to limit sybil/cartel accounts.
 * **New**: recently posted
 * **For You**: your "For You" feed imported from Twitter/X
 
-## Following
+## Voting
 
-Follow your favorite Twitter/X accounts on Bangit to filter for their tweets in the feeds. Followed users automatically have their tweets added to Bangit.
+Vote on tweets using 1-20% of your Max Power per vote. Power regenerates 100% of Max Power per day (continuously). You can vote on the same tweet again after an 8-hour cooldown period.
