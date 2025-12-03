@@ -6,11 +6,11 @@ icon: star
 
 ## **Social media sucks**
 
-Bangers drown in slop, clickbait, and ads. The algo incentivizes engagement farming over truly valuable content. People who find bangers early get nothing except maybe some local clout.
+Bangers drown in slop, clickbait, and ads. Engagement farming is systemically rewarded. People who do find bangers early get nothing except maybe some local clout in group chats.
 
 ## Because there's no skin in the game
 
-The root cause of social media's problems: Engagement has no skin in the game. There's no cost for engaging with slop, and no rewards for engaging with bangers. So vultures boost slop, and tastemakers don't boost bangers.
+The root cause of social media's problems: Engagement has no skin in the game. There's no cost for engaging with slop, and no rewards for engaging with bangers. So selfish interests boost slop, and tastemakers don't boost bangers.
 
 ## **What if engagement had skin in the game?**
 
