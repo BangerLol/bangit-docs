@@ -16,4 +16,4 @@ Every 24 hours at midnight UTC, new BANG tokens are minted and distributed based
 
 ## Methodology
 
-Tweet Rewards allocation is based on net power, popularity, and conviction. Curator Rewards allocation is based on power, earliness, and conviction. Soon, this algorithm will be open-source and governed by futarchy.
+Bangit uses a proprietary algorithm to allocate rewards to curators, creators, and inviters based on performance in the period. This algorithm will be open-source and governed by futarchy.
