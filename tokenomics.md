@@ -4,7 +4,9 @@ icon: coin-vertical
 
 # Tokenomics
 
-## Coming Soon
+#### Bangit is a utility token with fair distribution.
+
+
 
 
 

@@ -6,7 +6,7 @@ icon: question
 
 ## The Curator Economy
 
-Bangit is a game for upvoting and downvoting tweets, where the best tweets rise to the top while the best curators and creators earn rewards.
+Bangit is a game for upvoting and downvoting tweets. The best tweets rise to the top while the best curators and creators earn rewards.
 
 ### For banger curators: Proof of Taste
 
