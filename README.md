@@ -8,17 +8,17 @@ icon: question
 
 Bangit is a game for upvoting and downvoting tweets. The best tweets rise to the top while the best curators and creators earn rewards.
 
-### For banger curators: Proof of Taste
+### For curators: Proof of Taste
 
-Vote on tweets with accuracy, speed, and conviction to earn BANG.
+Vote on tweets with accuracy, speed, and conviction to earn rewards.
 
-### For banger creators: Creator Rewards
+### For creators: Creator Rewards
 
 Content creators earn rewards when their tweets get upvoted.
 
-### For banger enjoyers: Less slop, more bangers
+### For enjoyers: Less slop, more bangers
 
-Check curated tweet feeds.
+Check tweet feeds curated by voters with skin in the game.
 
 ## Links
 
