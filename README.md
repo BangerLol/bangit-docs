@@ -4,7 +4,7 @@ icon: question
 
 # Overview
 
-## The front page of Twitter
+## The Curator Economy
 
 Bangit is a game for upvoting and downvoting tweets, where the best tweets rise to the top while the best curators and creators earn rewards.
 

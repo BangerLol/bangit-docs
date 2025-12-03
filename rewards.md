@@ -4,7 +4,7 @@ icon: gift
 
 # Rewards
 
-#### Daily rewards are distributed to curators, creators, and inviters.
+#### Rewards are distributed daily to curators, creators, and inviters.
 
 Every 24 hours at midnight UTC, new BANG tokens are minted and distributed based on activity in the last 24 hours. Claim your rewards at anytime. 10% of unclaimed rewards are burned every 7 days they are left unclaimed.
 
