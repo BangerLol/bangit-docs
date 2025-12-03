@@ -6,7 +6,7 @@ icon: play
 
 ## Onboarding
 
-Go to [bangit.xyz](https://bangit.xyz/). Login with Twitter/X. Enjoy a self-custody Solana wallet, secured by [Privy](https://www.privy.io/). Transaction fees are covered by Bangit, no funding deposits necessary.
+Go to [bangit.xyz](https://bangit.xyz/). Login with Twitter/X. Enjoy a self-custody Solana wallet, secured by [Privy](https://www.privy.io/). Transactions are dealt in BANG and fees are covered by Bangit, so no funding deposits necessary.
 
 To ensure authenticity, Twitter/X accounts must meet some requirements:
 
