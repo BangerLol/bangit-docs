@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Mission](<README (1).md>)
+* [Manifesto](<README (1).md>)
 * [Getting Started](getting-started.md)
 * [Rewards](rewards.md)
 * [Staking](staking.md)
