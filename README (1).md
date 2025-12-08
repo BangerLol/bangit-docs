@@ -6,15 +6,11 @@ icon: star
 
 ## **We are what we eat**
 
-The thoughts, feelings, and actions around us influence our own.\
+The thoughts, feelings, and actions that we observe influence our own.\
 "You are the average of the people you spend the most time with."\
 \
 But now we spend more time online than anywhere else.\
-So we're becoming the average of the content we consume.\
-\
-Curation = nutrition.\
-Curators are the cultural nutritionists of the internet age.\
-They find good content early, deliver it to the right people, and keep group chats healthy.
+So we're becoming the average of the content we consume.
 
 ## Food groups
 
@@ -32,7 +28,7 @@ Wasting our time, polluting our psyche, and selling us stuff we don't need.
 
 We get most of our content from social media feeds. A few private companies control the feeds. So these companies are controlling the lives of billions of people to varying degrees.\
 \
-But the default feed shows mostly slop.\
+But the default feed serves mostly slop.\
 Slop is the default because: slop is cheaper to produce, slop sells more, and weak metrics.\
 \
 1\) Slop is cheaper to produce than bangers\
@@ -55,6 +51,10 @@ Slop is proliferating and becoming harder to avoid.
 ### They're feeding us slop
 
 Slop is becoming harder to avoid. The feeds tell us what to fear. The ads sell us the cure. Engagement farming is systemically rewarded. People who do find bangers early get nothing except maybe some local clout in group chats.
+
+Curation = nutrition.\
+Curators are the cultural nutritionists of the internet age.\
+They find good content early, deliver it to the right people, and keep group chats healthy.
 
 ### Because there's no skin in the game
 
