@@ -10,10 +10,10 @@ Go to [bangit.xyz](https://bangit.xyz/). Login with Twitter/X. Enjoy a self-cust
 
 To ensure authenticity, Twitter/X accounts must meet some requirements:
 
-* \>30 days old
+* \>90 days old
 * \>100 followers
 
-We use graph analysis to detect and ban sybil/cartel accounts.
+We also use graph analysis to detect and slash sybil/cartel accounts.
 
 ## Feeds
 
@@ -23,7 +23,6 @@ Enjoy curated tweet feeds
 * **Top**: most impact
 * **Bump**: recently upvoted
 * **New**: recently posted
-* **For You**: your "For You" feed imported from Twitter/X
 
 ## Voting
 

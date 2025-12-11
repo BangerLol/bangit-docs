@@ -12,8 +12,6 @@ Every 24 hours at midnight UTC, new BANG tokens are minted and distributed based
 
 10% of new BANG tokens go to inviters (Inviter Rewards).
 
-<figure><img src=".gitbook/assets/bangflow.png" alt=""><figcaption></figcaption></figure>
-
 ## Methodology
 
-Bangit uses a proprietary algorithm to allocate rewards to curators, creators, and inviters based on performance in the period. This algorithm will be open-source and governed by futarchy.
+Bangit uses a proprietary algorithm to allocate rewards to curators, creators, and inviters based on voting in the period. This algorithm is open source and governed by futarchy.

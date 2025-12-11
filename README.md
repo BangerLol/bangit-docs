@@ -6,19 +6,7 @@ icon: question
 
 ## The Curator Economy
 
-Bangit is a game for upvoting and downvoting tweets. The best tweets rise to the top, while the best curators and creators earn rewards.
-
-### For curators: Proof of Taste
-
-Vote on tweets with accuracy, speed, and conviction to earn rewards.
-
-### For creators: Creator Rewards
-
-Content creators earn rewards when their tweets get upvoted.
-
-### For enjoyers: Less slop, more bangers
-
-Check tweet feeds curated by voters with skin in the game.
+Bangit is a game for upvoting and downvoting tweets, where the best tweets rise to the top while the best curators and creators earn rewards. Bangit's interface feels like a social media feed, but posts are ranked by skin-in-the-game conviction, instead of soft engagement. Bangit's gameplay feels like sharing tweets with friends, but curators compete for glory and financial rewards, instead of local clout. Content creators earn rewards too, but for posting bangers, instead of engagement farming.
 
 ## Links
 
