@@ -4,7 +4,7 @@ icon: handshake-simple
 
 # Delegation
 
-#### Delegate vote power earn from others' curation.
+#### Delegate vote power to earn from others' curation.
 
 * Delegate up to 50% of Max Power
 * Split among up to 10 curators
