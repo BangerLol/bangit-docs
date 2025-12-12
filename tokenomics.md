@@ -45,11 +45,11 @@ icon: coin-vertical
 * Most of these tokens are staked
 * Effective airdrop to early users that have contributed to the network as we iterate the product
 
-#### Emissions
+#### Emissions ([Rewards](rewards.md))
 
 New BANG is minted daily at a rate of 0.1% of the initial supply per day (36.5% first-year issuance rate). 100% of emissions go to reward curators, creators, and inviters based on their contributions to the network (algo open source, governed by decision markets, outlined in [Rewards](rewards.md)). BANG's emission rate is governed by decision markets to maximize the price of BANG.
 
-#### Burns
+#### Burns ([Slashing](slashing.md))
 
 Existing BANG is burned daily. 1-10% of the worst half of curators' staked BANG balances are slashed and burned (algo open source, governed by futarchy, outlined in [Slashing](slashing.md)).
 
