@@ -38,7 +38,7 @@ icon: coin-vertical
 * Every 5% increment of Private Sale's tokens (0.5% of initial supply) unlocks every $1B FDV (up to $20B FDV) if not yet unlocked
 * 50% of Team's share is staked
 * Raised $275k at an equity valuation of $3.5m from [Colosseum](https://www.colosseum.com/) and based angels
-* 100% of the value created by Bangit (utility/status/entertainment) accrues to the BANG token as demand to buy/stake/burn BANG
+* 100% of the value created by Bangit ([status + utility + entertainment](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)) accrues to the BANG token as demand to buy + stake + burn BANG
 
 **Early Users (5%)**
 
@@ -59,9 +59,13 @@ BANG's public sale, treasury, emission rate, liquidity pool--and the decision ma
 
 ## Demand
 
-Staking BANG is required for any meaningful rewards, in-game clout, and influence on the feeds (outlined in Staking). Burns use staked BANG, so BANG must be staked before it can be burned.
+#### Staking
 
-#### Rewards
+Staking BANG is required for any meaningful rewards, clout, and influence on the feeds (outlined in [Staking](staking.md)).
+
+#### Burning
+
+Burns use staked BANG, so BANG must be staked before it can be burned.
 
 Curators can stake and burn BANG for more voting power to amplify their curator rewards and influence on the feeds. While Bangit is free-to-play, curators must stake and burn a certain amount of BANG (depending on network activity) for any meaningful amount of curator rewards and influence on the feeds. This prevents farming and feed degeneration, requiring burning staked BANG for consequential rewards and influence.
 

@@ -2,7 +2,7 @@
 
 * [Overview](README.md)
 * [Manifesto](<README (1).md>)
-* [Getting Started](getting-started.md)
+* [Get Started](get-started.md)
 * [Rewards](rewards.md)
 * [Staking](staking.md)
 * [Slashing](slashing.md)
