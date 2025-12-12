@@ -4,7 +4,7 @@ icon: coin-vertical
 
 # Tokenomics
 
-#### BANG is a utility token whose value increases with network usage
+#### BANG is a utility token whose value increases with network usage.
 
 ## Supply
 
