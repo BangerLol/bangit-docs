@@ -15,7 +15,7 @@ icon: coin-vertical
 #### Private Sale
 
 * Raised $275k at an equity valuation of $3.5m from [Colosseum](https://www.colosseum.com/) and tasteful angels
-* Since Bangit does not generate revenue, all value created by Bangit as demand for its product flows to the BANG token
+* 100% of the value created by Bangit (utility/status/entertainment) accrues to the BANG token as demand to buy/stake/burn BANG
 
 #### Public Sale (Soon)
 
@@ -24,9 +24,13 @@ icon: coin-vertical
 * 25% of the raised funds ($45k) will be paired with 15% of the initial supply in a Meteora DAMM v2 pool for $90k of liquidity
 * The remaining raised funds ($135k) will go to a futarchy-governed treasury with a $10k allowance per month to the team for operations. Any other withdraws from the treasury must be approved by decision markets. The treasury can be liquidated to holders at any time with a successful proposal.
 
-#### Emissions + Burning
+#### Emissions
 
-New BANG is minted daily as reward emissions. Reward emissions go to users based on their contributions to the network (open source, governed by futarchy, outlined in [Rewards](rewards.md)). A % of the amount of daily emission rewards are burned by slashing the worst curators' staked BANG balances (open source, governed by futarchy, outlined in Slashing), starting at 100%. BANG's emission rate and mint-burn ratio are governed by futarchy to maximize the price of BANG.
+New BANG is minted daily. 100% of emissions go to reward curators, creators, and inviters based on their contributions to the network (algo open source, governed by decision markets, outlined in [Rewards](rewards.md)). BANG's emission rate is governed by decision markets to maximize the price of BANG.
+
+#### Burns
+
+Staked BANG is burned daily. 1-10% of the worst curators' staked BANG balances are slashed and burned (algo open source, governed by futarchy, outlined in [Slashing](slashing.md)).
 
 {% hint style="info" %}
 BANG's public sale, treasury, mint authority--and the futarchy markets that govern them--are managed by [Zcombinator](https://www.zcombinator.io/) to enforce the parameters outlined here.
