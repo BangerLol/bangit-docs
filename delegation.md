@@ -4,9 +4,13 @@ icon: handshake-simple
 
 # Delegation
 
-#### Delegate vote power to earn from others' curation.
+#### Delegate vote power to empower other curators.
 
 * Delegate up to 50% of Max Power
 * Split among up to 10 curators
-* 5% burn fee on rewards earned from delegated power
-* 50/50 split on post-fee rewards earned from delegated power to curator and delegators
+* Delegators share in the upside and downside of their delegatees' curation
+  * Rewards
+    * 10% burn fee on rewards earned from delegated power
+    * 50/50 split on post-fee rewards earned from delegated power to curator and delegators
+  * Slashing
+    * Delegators are slashed the same % as their delegatees
