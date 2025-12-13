@@ -59,6 +59,8 @@ BANG's public sale, treasury, emission rate, liquidity pool--and the decision ma
 
 As a social network, Bangit creates value in 3 ways: [status, utility, and entertainment](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service). BANG is how that value gets priced, competed for, and captured. As Bangit grows (stronger identities, danker feeds, funner gameplay), demand concentrates into buying, staking, and burning more BANG.
 
+<figure><img src=".gitbook/assets/Bangit Flywheel (2).png" alt=""><figcaption></figcaption></figure>
+
 #### Value
 
 **Status**
