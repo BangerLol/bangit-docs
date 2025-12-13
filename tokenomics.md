@@ -45,13 +45,13 @@ icon: coin-vertical
 * Most of these tokens are staked
 * Effective airdrop to early users that have contributed to the network as we iterate the product
 
-#### Emissions ([Rewards](rewards.md))
+#### Daily Emissions ([Rewards](rewards.md))
 
 New BANG is minted daily at a rate of 0.1% of the initial supply per day (36.5% first-year issuance rate). 100% of emissions go to reward curators, creators, and inviters based on their contributions to the network (algo open source, governed by decision markets, outlined in [Rewards](rewards.md)). BANG's emission rate is governed by decision markets to maximize the price of BANG.
 
-#### Burns ([Slashing](slashing.md))
+#### Daily Burns (Slashing)
 
-Existing BANG is burned daily. 1-10% of the worst half of curators' staked BANG balances are slashed and burned (algo open source, governed by futarchy, outlined in [Slashing](slashing.md)).
+Staked BANG is burned daily. When emission rewards are distributed for a period, 1-10% of the bottom half of curators' staked BANG balances are also slashed and burned (algo open source, governed by futarchy, outlined in [Slashing](slashing.md)).
 
 {% hint style="info" %}
 BANG's public sale, treasury, emission rate, liquidity pool--and the decision markets that govern them--are managed by [Combinator](https://www.combinator.trade/) to enforce the parameters outlined here.
@@ -61,13 +61,23 @@ BANG's public sale, treasury, emission rate, liquidity pool--and the decision ma
 
 #### Staking
 
-Staking BANG is required for any meaningful rewards, clout, and influence on the feeds (outlined in [Staking](staking.md)).
+Staking BANG is required for any meaningful rewards, clout, and influence on the feeds (outlined in [Staking](staking.md)). Unstaking BANG incurs a 1-10% burn fee, which decreases with more time staked. Unstaking BANG decreases benefits immediately, while the unstaked tokens unlock gradually over 14 days.
 
 #### Burning
 
-Burns use staked BANG, so BANG must be staked before it can be burned.
+**Structural**
 
-Curators can stake and burn BANG for more voting power to amplify their curator rewards and influence on the feeds. While Bangit is free-to-play, curators must stake and burn a certain amount of BANG (depending on network activity) for any meaningful amount of curator rewards and influence on the feeds. This prevents farming and feed degeneration, requiring burning staked BANG for consequential rewards and influence.
+Bangit implements structural burns for BANG to encourage high-quality curation and usage
+
+* Slashing
+* Unclaimed rewards decay
+* Unstaking fees
+
+**Utility**
+
+Bangit implements a-la-carte opportunities to burn BANG for more value
+
+*
 
 
 
