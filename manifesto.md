@@ -20,20 +20,14 @@ We get most of our content from social media feeds. But these feeds serve mostly
 \
 The root cause of the sloppening: **Engagement has no skin in the game.**\
 \
-There's no cost for engaging with slop, so selfish interests boost slop. And there's no reward for engaging with bangers early, so curators don't boost bangers.\
+There's no cost for engaging with slop, so selfish interests boost slop. And there's no reward for engaging with bangers early, so curators don't boost bangers. Even if social media companies wanted to show us bangers only, it's impossible with soft engagement metrics, because they're noisy signals without skin in the game.\
 \
-Even if social media companies wanted to show us bangers only, it's impossible with soft engagement metrics, because they're noisy signals without skin in the game.\
-\
-Feeds within group chats are better because they feature status-based skin in the game. If you share slop, you're ignored. If you share bangers, you're celebrated.\
-\
-If it was costly to boost slop, and rewarding to boost bangers, then posts could be sorted by impact/value instead of engagement/activity. While the best curators and creators share in the value created by the platform.
+Feeds within group chats are better because they have status-based skin in the game via reactions. If you share slop, you're ignored. If you share bangers, you're celebrated.
 
-## Curation = Nutrition
+## The secret ingredient
 
-We've never consumed culture raw. We've trusted elders, teachers, editors, DJs, and critics to curate the best content to help us live better.\
+**What if engagement had financial skin in the game?** If it was costly to boost slop, and rewarding to boost bangers, then posts could be sorted by impact/value instead of engagement/activity. While the best curators and creators share in the value created.\
 \
-Social media didn't kill curation. It just stopped paying for it.\
+First, we tested this theory of skin-in-the-game-for-engagement with a tweetcoin launchpad, so that curators could trade tweets like memecoins on bonding curves. But, the experience was not delightful enough to be sticky. Pay-to-play friction, complex gameplay (portfolio management), and PvP.\
 \
-Modern-day curators are already doing the work: finding bangers early, contextualizing them, and delivering them to friends in group chats. But they're getting nothing in return, except maybe some local clout.\
-\
-Bangit is how we change that. A new way to stake taste, earn for conviction, and purify the feed.
+Bangit is free-to-play, with simple gameplay, and a more PvE experience to test the skin-in-the-game-for-engagement theory.&#x20;
