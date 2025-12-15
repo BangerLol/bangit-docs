@@ -29,12 +29,12 @@ icon: coin-vertical
 **Team (10%)**
 
 * 100% of Team's tokens are unlocked linearly monthly over 5 years
-* Team's tokens are staked on Bangit as they unlock with 10% effective earning power
+* Team's tokens are staked as they unlock with 20% effective earning power
 
 **Private Sale (10%)**
 
 * 100% of Private Sale's tokens are unlocked linearly monthly over 5 years
-* Private Sale's tokens are staked on Bangit as they unlock with 10% effective earning power
+* Private Sale's tokens are staked as they unlock with 20% effective earning power
 * Raised $275k at an equity valuation of $3.5m from [Colosseum](https://www.colosseum.com/) and based angels
 * 100% of the value created by Bangit accrues to the BANG token
 
@@ -45,11 +45,7 @@ icon: coin-vertical
 
 #### Emissions (Rewards)
 
-New BANG is minted daily at a rate of 0.05% of the initial supply per day (18.25% first-year issuance rate). 100% of emissions go to reward curators, creators, and inviters based on their contributions to the network (algo open source, governed by decision markets, outlined in [Rewards](rewards.md)). BANG's emission rate is governed by decision markets to maximize the price of BANG.
-
-#### Daily Burns (Slashing)
-
-Staked BANG is burned daily. When emission rewards are distributed for a period, 1-10% of the bottom half of curators' staked BANG balances are also slashed and burned (algo open source, governed by futarchy, outlined in [Slashing](slashing.md)).
+New BANG is minted daily at a rate of 0.05% of the initial supply per day (18.25% first-year issuance rate). 100% of emissions go to reward curators, creators, and inviters based on their contributions to the network (outlined in [Rewards](rewards.md)). BANG's emission rate is governed by decision markets to maximize the price of BANG.
 
 {% hint style="info" %}
 BANG's public sale, treasury, emission rate, liquidity pool--and the decision markets that govern them--are managed by [Combinator](https://www.combinator.trade/) to enforce the parameters outlined here.
@@ -65,7 +61,7 @@ As a social network, Bangit creates value in 3 ways: [status, utility, and enter
 
 **Status**
 
-People want status (or _social capital_) because it leads to opportunity and power. Bangit offers a new way to earn status based on how good you are at curating bangers early. Currently, people can earn local status by curating bangers early and sharing them with their friends in group chats. Now, Bangit gives these curators a way to earn global status (and financial rewards).
+Status (or _social capital_) leads to opportunity and power. Bangit offers a new way to earn status based on how good you are at curating bangers early. Currently, people can earn local status by curating bangers early and sharing them with their friends in group chats. Now, Bangit gives these curators a way to earn global status (and financial rewards).
 
 **Utility**
 
@@ -79,13 +75,13 @@ Bangit feels like a game: placing votes, managing power, and "winning" rewards. 
 
 Staking BANG is required for meaningful rewards, status, and influence on the feeds (outlined in [Staking](staking.md)). Unstaking BANG incurs a 1-10% burn fee, which decreases with more time staked. Unstaking BANG decreases benefits immediately, while the unstaked tokens unlock gradually over 14 days.
 
-{% hint style="info" %}
-In [Multicoin's framework](https://multicoin.capital/2018/02/13/new-models-utility-tokens/), BANG is a work utility token. Contributors stake to earn the right to do work (curate tweets) and earn rewards, while poor performance is penalized.
-{% endhint %}
-
 #### Burning
 
 Bangit creates persistent demand for BANG via structural burns (always on) and optional burns (a-la-carte upgrades). All burns apply to staked BANG.
+
+{% hint style="info" %}
+In [Multicoin's framework](https://multicoin.capital/2018/02/13/new-models-utility-tokens/), BANG is a work-style utility token. Contributors stake to earn the right to do work (curate tweets) and earn rewards, while poor performance is penalized.
+{% endhint %}
 
 **Structural**
 
