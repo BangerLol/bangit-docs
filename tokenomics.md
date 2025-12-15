@@ -17,8 +17,8 @@ icon: coin-vertical
 * 50% of Public Sale's tokens are staked immediately upon purchase
 * 50% of Public Sale's tokens are unlocked when sale completes
 * Raising $240k with a fixed-price ICO at an FDV of $400k
-* 25% of the raise ($60k) is paired with 15% of the initial supply for $120k of liquidity
-* 75% of the raise  ($180k) goes to a treasury governed by decision markets. A $15k allowance per month goes to the team for operations. Any other withdraws from the treasury must be approved by decision markets. The treasury can be liquidated to holders at any time with a successful proposal.
+* 75% of the raise  ($180k) goes to a treasury governed by decision markets. A $15k allowance per month goes to the team for operations. Any other withdraws from the treasury must be approved by decision markets.
+* 25% of the raise ($60k) is paired with 15% of the initial supply for $120k of initial liquidity
 
 **Liquidity (15%)**
 
@@ -53,52 +53,47 @@ BANG's public sale, treasury, emission rate, liquidity pool--and the decision ma
 
 ## Demand
 
-As a social network, Bangit creates value in 3 ways: [status, utility, and entertainment](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service). BANG is how that value gets priced, competed for, and captured. As Bangit grows (stronger identities, danker feeds, funner gameplay), demand concentrates into buying, staking, and burning more BANG.
+Bangit creates value through [status, utility, and entertainment](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service). BANG is how that value is priced and competed for. As usage grows, demand concentrates into buying, staking, and burning more BANG.
 
-<figure><img src=".gitbook/assets/Bangit Flywheel (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Bangit Flywheel.png" alt=""><figcaption></figcaption></figure>
 
 #### Value
 
-**Status**
+**Status**\
+Status (or _social capital_) can be converted into money and power. Bangit offers a new way to earn status based on how good you are at curating bangers early. Currently, curators can earn local, illquid status by curating bangers early and sharing them with friends in group chats. Now, Bangit gives curators a way to earn global, liquid status.
 
-Status (or _social capital_) leads to opportunity and power. Bangit offers a new way to earn status based on how good you are at curating bangers early. Currently, people can earn local status by curating bangers early and sharing them with their friends in group chats. Now, Bangit gives these curators a way to earn global status (and financial rewards).
+**Utility**\
+Bangit's core utility is a higher-signal content feed, ranked by hard conviction instead of soft engagement. Premium access to these feeds can help people enjoy less slop and more bangers.
 
-**Utility**
-
-Bangit's core utility is a higher-signal content feed, ranked by staked conviction instead of soft engagement. Premium access to these feeds can help people enjoy less slop and more bangers.
-
-**Entertainment**
-
+**Entertainment**\
 Bangit feels like a game: placing votes, managing power, and "winning" rewards. This competition stokes a desire to "level up" for more engaging gameplay.
 
 #### Staking
 
-Staking BANG is required for meaningful rewards, status, and influence on the feeds (outlined in [Staking](staking.md)). Unstaking BANG incurs a 1-10% burn fee, which decreases with more time staked. Unstaking BANG decreases benefits immediately, while the unstaked tokens unlock gradually over 14 days.
+Staking BANG is required for meaningful rewards, status, and influence on the feeds (outlined in [Staking](staking.md)). Staking increases Max Power and a Reward Boost, and a daily-increasing Multiplier compounds those benefits over time. Exiting is intentionally costly: Unstaking BANG burns 1-10% (lower with longer staking) and unlocks over 14 days, while benefits drop immediately.
 
 #### Burning
 
-Bangit creates persistent demand for BANG via structural burns (always on) and optional burns (a-la-carte upgrades). All burns apply to staked BANG.
+Bangit creates persistent demand for BANG via structural burns and optional burns. All burns apply to staked BANG.
 
 {% hint style="info" %}
 In [Multicoin's framework](https://multicoin.capital/2018/02/13/new-models-utility-tokens/), BANG is a work-style utility token. Contributors stake to earn the right to do work (curate tweets) and earn rewards, while poor performance is penalized.
 {% endhint %}
 
-**Structural**
-
+**Structural (always-on)**\
 Built-in sinks that encourage high-quality curation and aligned usage
 
-* **Slashing** to penalize low-quality curation
-* **Unclaimed rewards decay** to reduce idle extraction and recycle value to active contributors
-* **Unstaking fees** so quitting costs
-* **Delegation fees** so passive exposure contributes to sinks
+* **Slashing:** penalizes low-quality curation (outlined in [Slashing](slashing.md))
+* **Unclaimed rewards decay:** 10% burned every 7 days unclaimed
+* **Unstaking fees:** 1-10% burn to exit with time delay
+* **Delegation fees:** 10% burn on rewards earned from delegated power
 
-**Optional**
+**Optional (a-la-carte)**\
+Convert BANG into status, utility, or entertainment on-demand
 
-A-la-carte purchases that convert BANG into status, utility, or entertainment on-demand
-
-* Boosts (power refills, higher conviction, etc)
-* Premium Feeds (subscriptions, notifications, etc)
-* Ads (pin a tweet)
+* **Boosts:** power refills, higher conviction, etc)
+* **Premium Feeds:** subscriptions, notifications, etc
+* **Ads:** pin a tweet
 
 
 
