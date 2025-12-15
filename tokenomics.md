@@ -33,7 +33,7 @@ icon: coin-vertical
 
 **Private Sale (10%)**
 
-* 100% of Private Sale's tokens are unlocked linearly monthly over 5 years
+* 100% of Private Sale's tokens are unlocked linearly monthly over 2.5 years
 * Private Sale's tokens are staked as they unlock with 20% effective earning power
 * Raised $275k at an equity valuation of $3.5m from [Colosseum](https://www.colosseum.com/) and based angels
 * 100% of the value created by Bangit accrues to the BANG token
