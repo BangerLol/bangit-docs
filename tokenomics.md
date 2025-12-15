@@ -91,9 +91,9 @@ Built-in sinks that encourage high-quality curation and aligned usage
 **Optional (a-la-carte)**\
 Convert BANG into status, utility, or entertainment on-demand
 
-* **Boosts:** power refills, higher conviction, etc)
-* **Premium Feeds:** subscriptions, notifications, etc
-* **Ads:** pin a tweet
+* **Boosts:** power refills, higher conviction votes
+* **Premium Feeds:** subscriptions, notifications (coming soon)
+* **Ads:** pin a tweet (coming soon)
 
 
 
