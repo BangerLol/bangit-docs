@@ -11,13 +11,13 @@ The thoughts, feelings, and actions that we observe influence us. "You are the a
 
 ## Food groups
 
-**Bangers make us stronger.** Useful ideas to apply, uplifting stories to feel, beautiful art to enjoy. OMG, LOL, WOW. Learning, laughing, and capitalizing on opportunities.
+**Bangers make us stronger.** Good ideas to apply, uplifting stories to feel, beautiful art and jokes to enjoy. OMG, LOL, WOW. Learning, laughing, and capitalizing on opportunities.
 
 **Slop makes us weaker.** Rage/fear bait, lukewarm opinions, ads. MEH, WUT, EW. Wasting our time, polluting our psyche, and selling us stuff we don't need.
 
 ## Why fast food dominates
 
-We get most of our content from social media feeds. But these feeds serve mostly slop. Slop dominates because it's cheap, urgent, and easy to optimize for engagement. \
+We get most of our content from social media feeds. But these feeds serve mostly slop. Slop dominates because it's cheap to produce, short enough to trigger reactions, and easy to optimize for engagement.\
 \
 The root cause of the sloppening: **Engagement has no skin in the game.**\
 \

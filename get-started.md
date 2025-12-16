@@ -8,31 +8,14 @@ icon: play
 
 Go to [bangit.xyz](https://bangit.xyz/). Login with Twitter/X. Enjoy a self-custody Solana wallet, secured by [Privy](https://www.privy.io/). Transactions are dealt in BANG and fees are covered by Bangit, so no funding deposits necessary.
 
-To ensure authenticity, Twitter/X accounts must meet some requirements:
+#### Abuse Prevention
+
+To ensure authenticity, Twitter/X accounts must meet some initial requirements:
 
 * \>90 days old
 * \>100 followers
 
-We use network analysis to detect and slash sybil + cartel + farmer accounts.
-
-***
-
-## Interface
-
-#### :house: Feeds
-
-* **Hot**: highest net impact + recently upvoted + recently posted
-* **Top**: highest net impact
-* **Bump**: recently voted
-* **New**: recently posted
-
-#### :mag\_right: Search
-
-Find any tweet or user by link, ID, or username
-
-#### :trophy: Leaderboard
-
-See the top curator and creators
+Sybils, cartels, and farmers are detected and slashed ([Slashing](slashing.md)).
 
 ***
 
@@ -49,3 +32,22 @@ See the top curator and creators
 * Upvote under-upvoted bangers
 * Downvote over-upvoted slop
 * Stake more BANG
+
+***
+
+## Interface
+
+#### :house: Feeds
+
+* **Top**: highest impact
+* **Bump**: recently voted
+* **New**: recently posted
+* **Hot**: highest impact + recently voted + recently posted
+
+#### :mag\_right: Search
+
+Find any tweet or user by link, ID, or username
+
+#### :trophy: Leaderboard
+
+See the top curators and creators
