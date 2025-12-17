@@ -44,6 +44,6 @@ The vision resonated with people (1k+ users), but the experience wasn’t deligh
 
 So we built a better loop. Bangit is free-to-play, simple, and more PvE. A gamified prediction market built for Crypto Twitter and beyond. With 1 token where all value flows.
 
-## The Homepage of Media
+## The Homepage of Social Media
 
 Millions of people are playing the game of finding bangers early and sharing them with friends. But, the gameplay is local, fragmented, and lacks real upside. Bangit is a global, unified, rewarding version of this game, where the best tweets rise to the top.
