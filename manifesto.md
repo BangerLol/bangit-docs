@@ -1,34 +1,49 @@
 ---
-hidden: true
 icon: star
 ---
 
 # Manifesto
 
-## **We are what we eat**
+## They’re feeding us slop
 
-The thoughts, feelings, and actions that we observe influence us. "You are the average of the people you spend the most time with." But now we spend more time online than anywhere else. So we're becoming the average of the content we consume.
+Every day we open a social media feed expecting to see _what matters_. But it only shows _what spreads_. It’s not evil though. It’s just incentives: engagement is cheap, so it gets gamed.
 
-## Food groups
+## We are what we scroll
 
-**Bangers make us stronger.** Good ideas to apply, uplifting stories to feel, beautiful art and jokes to enjoy. OMG, LOL, WOW. Learning, laughing, and capitalizing on opportunities.
+"You are the average of the people you spend the most time with." But now we spend more time online than anywhere else. So we're becoming the average of the content we consume. Bangers make us stronger: useful ideas to apply, uplifting stories to feel, beautiful art and jokes to enjoy. Slop makes us weaker: rage/fear bait, lukewarm opinions, sneaky ads.
 
-**Slop makes us weaker.** Rage/fear bait, lukewarm opinions, ads. MEH, WUT, EW. Wasting our time, polluting our psyche, and selling us stuff we don't need.
+The current feed can’t tell the difference, because the signal is noisy.
 
-## Why fast food dominates
+## Root cause of the sloppening
 
-We get most of our content from social media feeds. But these feeds serve mostly slop. Slop dominates because it's cheap to produce, short enough to trigger reactions, and easy to optimize for engagement.\
-\
-The root cause of the sloppening: **Engagement has no skin in the game.**\
-\
-There's no cost for engaging with slop, so selfish interests boost slop. And there's no reward for engaging with bangers early, so curators don't boost bangers. Even if social media companies wanted to show us bangers only, it's impossible with soft engagement metrics, because they're noisy signals without skin in the game.\
-\
-Feeds within group chats are better because they have status-based skin in the game via reactions. If you share slop, you're ignored. If you share bangers, you're celebrated.
+Engagement has no skin in the game. There's no cost for liking/replying/reposting slop, so selfish interests boost slop. And there's no reward for liking/replying/reposting bangers, so curators don't boost bangers. So platforms prioritize posts by activity (instead of quality), because it’s what they can measure.
 
-## The secret ingredient
+Feeds within group chats are better because they have status-based skin in the game. If you share slop, you're ignored. If you share bangers, you're celebrated.
 
-**What if engagement had financial skin in the game?** If it was costly to boost slop, and rewarding to boost bangers, then posts could be sorted by impact/value instead of engagement/activity. While the best curators and creators share in the value created.\
-\
-First, we tested this theory of skin-in-the-game-for-engagement with a tweetcoin launchpad, so that curators could trade tweets like memecoins on bonding curves. But, the experience was not delightful enough to be sticky. Pay-to-play friction, complex gameplay (portfolio management), and PvP.\
-\
-Bangit is free-to-play, with simple gameplay, and a more PvE experience to test the skin-in-the-game-for-engagement theory.&#x20;
+## Bangit legitimizes taste
+
+Bangit is a feed where posts are ranked by hard conviction instead of soft engagement. Votes are scarce. Reputation is earned. And users are rewarded for being right early, not being loud late.
+
+The result? Bangers rise because people commit to them. Slop sinks because it’s expensive to pretend it’s good. And the best curators and creators share in the value created.
+
+## The new game
+
+* Vote tweets up or down with a limited power resource.
+* Curators get rewarded for upvoting under-upvoted bangers and downvoting over-upvoted slop.
+* Creators get rewarded for bangers that hold up under conviction.
+
+## Why this works
+
+With clear skin in the game, more people will exercise more judgement when supporting posts. Creating a more accurate metric for content quality by which to rank posts.
+
+## What we’ve learned
+
+We tried a “tweetcoin” launchpad to test conviction-based feeds.
+
+The idea resonated with people (1k+ users), but the experience wasn’t delightful enough: too much friction (pay-to-play), too much complexity (portfolio management), and too PvP (whale advantage).
+
+So we built a better loop. Bangit is free-to-play, simple, and more PvE. A gamified prediction market built for Crypto Twitter and beyond. With 1 token where all value flows.
+
+## The Homepage of Media
+
+Millions of people are playing the game of finding bangers early and sharing them with friends. But, the gameplay is local, fragmented, and lacks real upside. Bangit is a global, unified, rewarding version of this game, where the best tweets rise to the top.
