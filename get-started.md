@@ -15,7 +15,7 @@ To ensure authenticity, Twitter/X accounts must meet some initial requirements:
 * \>90 days old
 * \>100 followers
 
-Sybils, cartels, and farmers are detected and slashed ([Slashing](slashing.md)).
+Sybils, cartels, and farmers are detected and slashed.
 
 ***
 
