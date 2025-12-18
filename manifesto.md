@@ -22,27 +22,17 @@ Feeds within group chats are better because they have status-based skin in the g
 
 ## Bangit legitimizes taste
 
-Bangit is a feed where posts are ranked by hard conviction instead of soft engagement. Votes are scarce. Reputation is earned. And users are rewarded for being right early, not being loud late.
+Bangit is a gamified prediction market for tweets. Votes are scarce. Reputation is earned. And users are rewarded for being right early, not being loud late.
 
 The result? Bangers rise because people commit to them. Slop sinks because it’s expensive to pretend it’s good. And the best curators and creators share in the value created.
-
-## The new game
-
-* Vote tweets up or down with a limited power resource.
-* Curators get rewarded for upvoting under-upvoted bangers and downvoting over-upvoted slop.
-* Creators get rewarded for bangers that hold up under conviction.
-
-## Why this works
-
-With clear skin in the game, more people will exercise more judgement when supporting posts. Creating a more accurate metric for content quality by which to rank posts.
 
 ## What we’ve learned
 
 We tried a “tweetcoin” launchpad to test conviction-based feeds.
 
-The vision resonated with people (1k+ users), but the experience wasn’t delightful enough: too much friction (pay-to-play), too much complexity (portfolio management), and too PvP (whale advantage).
+The vision resonated with people (1k+ users), but the experience wasn’t delightful enough: too much friction (pay-to-play), too much complexity (portfolio management), and too PvP (whale manipulation).
 
-So we built a better loop. Bangit is free-to-play, simple, and more PvE. A gamified prediction market built for Crypto Twitter and beyond. With 1 token where all value flows.
+So we built a better game. Bangit is free-to-play, simple, and more PvE. A gamified prediction market built for Crypto Twitter and beyond. With 1 token where all value flows.
 
 ## The Homepage of Social Media
 
