@@ -17,7 +17,7 @@ icon: coin-vertical
 * 50% of Public Sale's tokens are staked immediately upon purchase
 * 50% of Public Sale's tokens are unlocked when sale completes
 * Raising $240k with a fixed-price ICO at an FDV of $400k
-* 75% of the raise  ($180k) goes to a treasury governed by decision markets. A $15k allowance per month goes to the team for operations. Any other withdraws from the treasury must be approved by decision markets.
+* 75% of the raise  ($180k) goes to a treasury governed by decision markets. A $15k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
 * 25% of the raise ($60k) is paired with 15% of the initial supply for $120k of initial liquidity
 
 **Liquidity (15%)**
@@ -60,17 +60,17 @@ Bangit creates value through [status, utility, and entertainment](https://www.eu
 #### Value
 
 **Status**\
-Status (or _social capital_) can be converted into money and power. Bangit offers a new way to earn status based on how good you are at curating bangers early. Currently, curators can earn local, illquid status by curating bangers early and sharing them with friends in group chats. Now, Bangit gives curators a way to earn global, liquid status.
+Status (_social capital_) can be converted into money (_financial capital_). Bangit offers a new way to earn status based on how good you are at curating bangers early. Currently, curators can earn local, illiquid status by curating bangers early and sharing them with friends in group chats. Now, curators can earn global, liquid status on Bangit.
 
 **Utility**\
 Bangit's core utility is a higher-signal content feed, ranked by hard conviction instead of soft engagement. Premium access to these feeds can help people enjoy less slop and more bangers.
 
 **Entertainment**\
-Bangit feels like a game: placing votes, managing power, and "winning" rewards. This competition stokes a desire to "level up" for more engaging gameplay.
+Bangit feels like a game: placing votes, managing power, and _winning_ rewards. This competition stokes a desire to _level up_ for more engaging gameplay.
 
 #### Staking
 
-Staking BANG is required for meaningful rewards, status, and influence on the feeds (outlined in [Staking](staking.md)). Staking increases Max Power and a Reward Boost, and a daily-increasing Multiplier compounds those benefits over time. Exiting is intentionally costly: Unstaking BANG burns 1-10% (lower with longer staking) and unlocks over 14 days, while benefits drop immediately.
+Staking BANG is required to get meaningful value from Bangit (outlined in [Staking](staking.md)). Primarily, staking grants more rewards, clout, and influence on the feeds. A daily-increasing Multiplier compounds these benefits over time. Exiting is intentionally costly: Unstaking BANG burns 1-10% (lower with longer staking) and unlocks over 14 days, while benefits drop immediately.
 
 #### Burning
 
