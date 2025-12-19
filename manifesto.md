@@ -22,9 +22,9 @@ Feeds within group chats are better because they have status-based skin in the g
 
 ## Bangit legitimizes taste
 
-Bangit is a gamified prediction market for tweets. Votes are scarce. Reputation is earned. And users are rewarded for being right early, not being loud late.
+Bangit is a new game for upvoting and downvoting tweets. Voters are rewarded and/or slashed based on their predictive accuracy of the impact of tweets.
 
-The result? Bangers rise because people commit to them. Slop sinks because it’s expensive to pretend it’s good. And the best curators and creators share in the value created.
+The result: Bangers rise because people commit to them. Slop sinks because it’s expensive to pretend it’s good. And the best curators and creators share in the value created.
 
 ## What we’ve learned
 
