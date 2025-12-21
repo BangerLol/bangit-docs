@@ -17,9 +17,9 @@ icon: coin-vertical
 
 * 50% of Public Sale's tokens are staked immediately upon purchase
 * 50% of Public Sale's tokens are unlocked when sale completes
-* Raising $180k with a fixed-price ICO at an FDV of $300k
-* 75% of the raise  ($135k) goes to a treasury governed by decision markets. A $10k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
-* 25% of the raise ($45k) is paired with 15% of the initial supply for $90k of initial liquidity
+* Raising $150k with a fixed-price ICO at an FDV of $250K
+* 75% of the raise  ($112.5k) goes to a treasury governed by decision markets. A $10k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
+* 25% of the raise ($37.5k) is paired with 15% of the initial supply for $75k of initial liquidity
 
 **Liquidity (15%)**
 

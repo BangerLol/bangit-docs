@@ -12,18 +12,18 @@ Everyday at midnight UTC, new BANG tokens are minted to curators, creators, and 
 
 * 80% of rewards (total)
 * 75% performance-based:
-  * Allocated to voters with positive net profit in the period, proportionally, scaled by power
+  * Goes to voters with positive taste in the period, proportionally, scaled by power
   * Vote Taste Raw = Post's Final Realtime Net Impact - Post's Realtime Net Impact After Vote
   * Vote Taste = Vote Taste Raw \* sqrt(Vote Power)
 * 5% jackpot:
-  * 5% of rewards goes to a single curator, randomly selected based on their proportional positive net profit in the period
+  * Goes to a single curator, randomly selected, weighted by their proportional positive taste in the period
 
 ## Creators
 
 * 10% of rewards
 * Allocated to author of tweets with positive period net impact in the period, proportionally, scaled by Reward Boost
-* Creator Rewards = SUM\[Authored Post Period Net Impact \* Reward Boost] for all authored posts
-* Post Period Net Impact = Post's Positive Period Impact - Post's Negative Period Impact
+* Creator Rewards = SUM\[Post's Period Net Impact \* Reward Boost] for all authored posts
+* Post Period Net Impact = Post's Upvote Period Impact - Post's Downvote Period Impact
 * Period Impact = # voters \* total power \* average conviction
 
 ## Inviters
