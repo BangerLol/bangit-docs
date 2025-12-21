@@ -12,7 +12,7 @@ Everyday at midnight UTC, new BANG tokens are minted to curators, creators, and 
 
 * 80% of rewards (total)
 * 75% performance-based:
-  * Allocated to voters with positive net profit in the period, proportionally, scaled by Max Power
+  * Allocated to voters with positive net profit in the period, proportionally, scaled by power
   * Vote Taste Raw = Post's Final Realtime Net Impact - Post's Realtime Net Impact After Vote
   * Vote Taste = Vote Taste Raw \* sqrt(Vote Power)
 * 5% jackpot:
