@@ -22,7 +22,7 @@ Feeds within group chats are better because they have status-based skin in the g
 
 ## Bangit legitimizes taste
 
-Bangit is a new game for upvoting and downvoting tweets. Voters are rewarded and/or slashed based on their predictive accuracy of the impact of tweets (taste). Content creators earn rewards too, automatically for highly upvoted tweets.
+Bangit is a new game for upvoting and downvoting tweets. Voters are rewarded and/or slashed based on their predictive accuracy of the impact of tweets (taste). Content creators earn rewards too, automatically, when their tweets get upvoted.
 
 The result: Bangers rise because people commit to them. Slop sinks because it’s expensive to pretend it’s good. And the best curators and creators share in the value created.
 
@@ -30,7 +30,7 @@ The result: Bangers rise because people commit to them. Slop sinks because it’
 
 We tried a “tweetcoin” launchpad to test conviction-based feeds.
 
-The vision resonated with people (1k+ users), but the experience wasn’t delightful enough: too much friction (pay-to-play), too much complexity (portfolio management), and too PvP (whale manipulation).
+The vision resonated with people (1k+ users), but the experience wasn’t delightful enough: too much friction (pay-to-play), too much complexity (portfolio management), and too PvP (prone to manipulation).
 
 So we built a better game. Bangit is free-to-play, simple, and more PvE. A gamified prediction market built for Crypto Twitter and beyond. With 1 token where all value flows.
 
