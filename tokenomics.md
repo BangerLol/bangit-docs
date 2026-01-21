@@ -12,20 +12,20 @@ icon: coin-vertical
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-**Public Sale (60%)**
+**Public Sale (60% of supply)**
 
+* Raising $150k with a fixed-price ICO at an FDV of $250K
 * 50% of Public Sale's tokens are staked immediately upon purchase
 * 50% of Public Sale's tokens are unlocked when sale completes
-* Raising $150k with a fixed-price ICO at an FDV of $250K
 * 75% of the raise  ($112.5k) goes to a treasury governed by decision markets. A $10k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
 * 25% of the raise ($37.5k) is paired with 15% of the initial supply for $75k of initial liquidity
 
-**Liquidity (15%)**
+**Liquidity (15% of supply)**
 
 * Paired with raised funds in a Meteora DAMM v2 liquidity pool
 * Locked unless a portion is being used for decision markets
 
-**Team (10%)**
+**Team (10% of supply)**
 
 * Unlock linearly over 5 years
 * Staked as they unlock with 20% effective earning power
@@ -35,7 +35,6 @@ icon: coin-vertical
 * Unlock linearly over 2.5 years
 * Staked as they unlock with 20% effective earning power
 * Raised from [Colosseum](https://www.colosseum.com/) and angels
-* 100% of the value created by Bangit accrues to the BANG token
 
 **Early Users (5%)**
 
@@ -44,7 +43,7 @@ icon: coin-vertical
 
 #### Emissions (Rewards)
 
-New BANG is minted daily to reward curators, creators, and inviters based on their contributions to the network (outlined in [Rewards](rewards.md)). BANG's emission rate is governed by decision markets to maximize the price of BANG, starting at a rate of 0.05% of the initial supply per day (18.25% first-year issuance rate).
+New BANG is minted daily to reward curators, creators, and inviters based on their contributions to the network (outlined in [Rewards](rewards.md)). BANG's emission rate is governed by decision markets to maximize the price of BANG, starting at a rate of 0.1% of the initial supply per day (36.5% first-year issuance rate).
 
 {% hint style="info" %}
 BANG's public sale, treasury, emission rate, liquidity pool--and the decision markets that govern them--are managed by [Combinator](https://www.combinator.trade/) to enforce the parameters outlined here.
