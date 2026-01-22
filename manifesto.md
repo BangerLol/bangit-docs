@@ -4,15 +4,11 @@ icon: star
 
 # Manifesto
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-
 ## You are being harvested
 
 Every day we open social media expecting to see _what matters_. But it only shows _what spreads_. Rage/fear/lust bait. Brainrot. Misinformation.
 
 They're mining us. In the attention economy, your focus is the raw material getting processed and sold to advertisers. Slop is just the most efficient way to keep us on the hook.
-
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## We are what we scroll
 
