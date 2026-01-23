@@ -6,7 +6,7 @@ icon: star
 
 ## You are being harvested
 
-Every day we open social media expecting to see _what matters_. But it only shows _what spreads_. Rage/fear/lust bait. Brainrot. Misinformation.
+Every day we open social media expecting to see _what matters_. But it only shows _what makes us keep scrolling and clicking_. Rage/fear/lust bait. Brainrot. Misinformation.
 
 They're mining us. In the attention economy, your focus is the raw material getting processed and sold to advertisers. Slop is just the most efficient way to keep us on the hook.
 
