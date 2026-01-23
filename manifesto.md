@@ -16,7 +16,7 @@ They're mining us. In the attention economy, your focus is the raw material gett
 
 Bangers make us stronger: useful ideas to apply, uplifting stories to feel, beautiful art and jokes to enjoy... Slop drains our spirit.
 
-But algorithms can’t tell the difference, because the signal is noisy. So even if they wanted to show us bangers only (and lose ad revenue based on mass addiction), they couldn't.
+But algorithms can’t tell the difference, because the signal is noisy. So even if they wanted to show us bangers only (and lose ad revenue based on massive compulsive activity), they couldn't.
 
 So maybe it's evil. But it's also bad game design. The way traditional social media platforms measure attention (engagement) is easy to manipulate. So no matter how good the algorithm is, slop proliferates.
 
@@ -38,12 +38,12 @@ The result: Bangers rise because people commit to them. Slop sinks because it’
 
 ## What we’ve learned
 
-First, we tried a “tweetcoin” launchpad to test social media curation markets in their rawest form.
+First, we launched a “tweetcoin” launchpad to test social media curation markets in their rawest form.
 
-The vision resonated (1k+ users, Colosseum accelerator), but the product wasn’t delightful enough: too complex, too PvP, and too vulnerable to manipulation.
+The vision resonated (1k+ users, Colosseum accelerator), but the product wasn’t delightful enough: too complex, too PvP, and too easy to manipulate.
 
-So we built a better game. Simpler, more PvE, and more resistant to manipulation. Bangit is a gamified curation market for Crypto Twitter and beyond. With 1 token where all value flows.
+So we built a better game. Simpler, more PvE, and harder to manipulate. With 1 token where all value flows.
 
 ## The Homepage of Social Media
 
-Millions of people are playing the game of finding bangers early and sharing them with friends. But, the gameplay is local, fragmented, and lacks real upside. Bangit is a global, unified, rewarding version of this game, where the best tweets rise to the top.
+Everyday, millions of people are playing the game of finding bangers early and sharing them with friends. But, the gameplay is local, fragmented, and lacks real upside. Bangit is a global, unified, rewarding version of the most popular game in the world.
