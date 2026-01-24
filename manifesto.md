@@ -6,13 +6,13 @@ icon: star
 
 ## The daily dose
 
-Open Twitter/X. WTF. Dumb. Ew wut. _**BANG.**_ Wow, great point. I'm definitely gonna use that. I just evolved. 30 minutes later. Why am i still scrolling? What just happened? Screw this, i got stuff to do.
+Open Twitter/X. WTF. DUMB. EW. _**BANG.**_ Wow, great point. I'm definitely gonna use that. I just evolved. _**30 minutes later.**_ Why am i still scrolling? What just happened? Screw this, i got stuff to do.
 
 ## They promised bangers
 
 Social media is supposed to connect us to the best ideas, the funniest people, the most important moments. And sometimes it does. That's why we keep coming back.
 
-The euphoria of a tweet that feels like it was written for you in that moment. The thrill of discovering alpha before everyone else. The satisfaction of sharing something that makes your friends say "wow."
+The warmth of a tweet that feels written just for you in that moment. The thrill of discovering alpha before everyone else. The satisfaction of sharing something that makes your friends laugh.
 
 But something is broken.
 
