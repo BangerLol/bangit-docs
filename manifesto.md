@@ -6,15 +6,35 @@ icon: star
 
 ## The daily dose
 
-Open Twitter/X. Wtf. Dumb. Ew dude. BANG. Wow, great point. I'm definitely gonna use that. I just evolved. 30 minutes later. Why am i still scrolling? What just happened? Screw this, i got stuff to do.
+Open Twitter/X. WTF. Dumb. Ew wut. _**BANG.**_ Wow, great point. I'm definitely gonna use that. I just evolved. 30 minutes later. Why am i still scrolling? What just happened? Screw this, i got stuff to do.
+
+## They promised bangers
+
+Social media is supposed to connect us to the best ideas, the funniest people, the most important moments. And sometimes it does. That's why we keep coming back.
+
+The euphoria of a tweet that feels like it was written for you in that moment. The thrill of discovering alpha before everyone else. The satisfaction of sharing something that makes your friends say "wow."
+
+But something is broken.
 
 ## We're being harvested
 
 Every day we open social media expecting to see _what matters_. But it mostly shows _what makes us keep scrolling and clicking_. Rage/fear/lust bait. Brainrot. Misinformation.
 
-Most of Twitter/X's revenue still comes from advertising. Which means increasing **engagement activity** increases how much money they can make from ads. Content that provokes strong emotional reactions (especially negative) generates more engagement than deep, nuanced content. But advertising revenue doesn't distinguish between "engaged because love" and "engaged because angry". For Twitter/X, when it comes to scrolling and clicking, number must go up.
+Because most of Twitter/X's revenue still comes from advertising. Which means increasing **engagement activity** increases how much money they can make from ads. Content that provokes strong emotional reactions (especially negative) generates more engagement than deep, nuanced content. But advertising revenue doesn't distinguish between "engaged because love" and "engaged because angry". For Twitter/X, when it comes to scrolling and clicking, number must go up.
 
 In the attention economy, your focus is the raw material getting processed and sold to advertisers. Slop is just the most efficient way to keep us on the hook.
+
+## Root cause of the sloppening
+
+There are many reasons why traditional social media platforms show so much slop on their main feeds. Negative emotionally charged content generates more engagement, slop is cheap to produce, verification is expensive, weak penalties for abusers.
+
+But the root cause is simple:
+
+**Engagement has no skin in the game.**
+
+There's no cost for engaging with slop, so selfish interests boost slop. And there's no reward for engaging with bangers, so curators don't boost bangers. With these skewed incentives, platforms are forced to prioritize posts by activity (instead of conviction), because activity is all they can measure.
+
+Feeds within group chats are better because they have status-based skin in the game. If you share slop, you're ignored. If you share bangers, you're celebrated. And you should be. When you share a tweet with someone, you're delivering value, so they don't have to dig around in the slop for it.
 
 ## We are what we scroll
 
@@ -26,30 +46,32 @@ Even if they wanted to show us bangers only (and lose ad revenue based on mass c
 
 So maybe it's evil. But it's also bad game design. The way traditional social media platforms measure attention (engagement) is easy to manipulate. So no matter how good the algorithm is, slop proliferates.
 
-## Root cause of the sloppening
+## Why we're here
 
-There are many interconnected reasons why traditional social media platforms show so much slop on their main feeds. Slop is cheap to produce, verification is expensive, negative emotionally charged content spreads faster, weak penalties for abusers.
+We're power users. Curators. The trusted ones. We spend hours finding signal in the noise. And all we got for it was some local clout.
 
-But the root cause of the sloppening: **Engagement has no skin in the game.**
+Meanwhile, slop merchants are farming engagement metrics and getting rich.
 
-There's no cost for engaging with slop, so selfish interests boost slop. And there's no reward for engaging with bangers, so curators don't boost bangers. With these skewed incentives, platforms are forced to prioritize posts by activity (instead of conviction), because it’s what they can measure.
+That sucks. So we're building something new.
 
-Feeds within group chats are better because they have status-based skin in the game. If you share slop, you're ignored. If you share bangers, you're celebrated. And you should be. When you share a tweet with someone, you're delivering value, so they don't have to dig around in the slop for it.
+First, we launched a “tweetcoin” launchpad to test social media curation markets in their rawest form. The vision resonated (1k+ users, Colosseum accelerator), but the product wasn’t delightful enough: too complex, too easy to manipulate, and too PvP.
+
+So we built a better game. Simpler. Harder to manipulate. More PVE. With one token where all value flows.
 
 ## Earn for your taste
 
-Bangit is a new game for upvoting and downvoting tweets. Where content curators can earn rewards, clout, and influence for their taste. Content creators earn rewards too, automatically, when their tweets get upvoted.
+What if the people who find bangers early actually got rewarded? What if taste was an asset, instead of just a hobby?
 
-The result: Bangers rise because people commit to them. Slop sinks because it’s expensive to pretend it’s good. While the value captured flows to the best curators and creators.
+Bangit makes curation a real game with real stakes.
 
-## What we’ve learned
+Commit to bangers, and win as they rise. Push slop, and you pay. Creators earn too when their posts gets upvoted.
 
-First, we launched a “tweetcoin” launchpad to test social media curation markets in their rawest form.
-
-The vision resonated (1k+ users, Colosseum accelerator), but the product wasn’t delightful enough: too complex, too PvP, and too easy to manipulate.
-
-So we built a better game. Simpler, more PvE, and harder to manipulate. With 1 token where all value flows.
+The result: a feed where conviction matters more than activity. Where bangers rise because people commit to them. Where slop sinks because it's expensive to pretend it's good. And where the value captured flows to the best curators and creators—the people who make social media worth opening.
 
 ## The Homepage of Social Media
 
-Everyday, millions of people are playing the game of finding bangers early and sharing them with friends. But, the gameplay is local, fragmented, and lacks real upside. Bangit is a global, unified, rewarding version of the most popular game in the world.
+Everyday, millions of people are playing the game of finding bangers early and sharing them with friends. But, the gameplay is local, fragmented, and unrewarding.
+
+Bangit is a global, unified, rewarding version of the most popular game in the world.
+
+Taste finally pays.
