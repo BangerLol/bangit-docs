@@ -26,7 +26,7 @@ In the attention economy, your focus is the raw material getting processed and s
 
 ## Root cause of the sloppening
 
-There are many reasons why traditional social media platforms show so much slop on their main feeds. Negative emotionally charged content generates more engagement, slop is cheap to produce, verification is expensive, weak penalties for abusers.
+There are many reasons why traditional social media platforms show so much slop on their main feeds. Revenue is tied to engagement metrics, negative emotionally charged content generates more engagement, slop is cheap to produce, verification is expensive, weak penalties for abusers.
 
 But the root cause is simple:
 
