@@ -76,7 +76,7 @@ The result: a feed ranked by conviction, not activity. Bangers rise because peop
 
 We believe taste, the ability to recognize quality, is one of the most undervalued skills in the world.
 
-For too long, it's been a hobby. Something you do for clout in your group chats while slop merchants farm engagement and get rich off people's attention.
+For too long, it's been a hobby. Something you do for clout in group chats. While slop merchants farm engagement and get rich hacking people's attention.
 
 We think taste should be an asset.
 
