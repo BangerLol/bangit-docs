@@ -6,7 +6,7 @@ icon: star
 
 ## The daily dose
 
-Open Twitter/X. WTF-scroll-DUMB-scroll-EW-scroll-_**BANG.**_ Wow, great point. I'm definitely gonna use that. I just evolved. _**30 minutes later.**_ Why am i still scrolling? What just happened? Screw this, i got stuff to do.
+Open Twitter/X. WTF \*scroll\* DUMB \*scroll\* EW \*scroll\* _**BANG.**_ Wow, great point. I'm definitely gonna use that. I just evolved. _**30 minutes later.**_ Why am i still scrolling? What just happened? Screw this, i got stuff to do.
 
 ## They promised bangers
 
@@ -52,19 +52,17 @@ So maybe it's evil. But it's also bad game design. The way traditional social me
 
 ## Why we're here
 
-We're Twitter/X power users. Curators. The trusted ones. We spend hours finding signal in the noise. And all we got for it was some local clout.
-
-We published a crypto newsletter for Tweets of the Week, where we curated the top tweets from Crypto Twitter (250+ readers, 40%+ open rate). But it seemed impossible to monetize without ads or subscriptions.
+We're Twitter/X power users. Curators. We spend hours finding signal in the noise. And all we get for it is some local clout.
 
 Meanwhile, slop merchants are farming engagement metrics and getting rich.
 
-That sucks. So we're building something new.
+That sucks. So we're building something about it.
 
-We launched a “tweetcoin” launchpad to test social media curation markets in their rawest form. The vision resonated (1k+ users, Colosseum accelerator), but the product wasn’t delightful enough: too complex, too easy to manipulate, and too PvP.
+We launched a “tweetcoin” launchpad to test social media [curation markets](https://medium.com/@simondlr/introducing-curation-markets-trade-popularity-of-memes-information-with-code-70bf6fed9881) in their rawest form. The vision resonated (1k+ users, $3m+ volume, Colosseum accelerator), but the product wasn’t delightful enough: too complex, too easy to manipulate, and too PvP.
 
 So we built a better game. Simpler. Harder to manipulate. More PVE. With one token where all value flows.
 
-## Earn for your taste
+## Proof of Taste
 
 What if the people who find bangers early actually got rewarded? What if taste was an asset, instead of a hobby?
 
