@@ -6,7 +6,7 @@ icon: star
 
 ## The daily dose
 
-Open Twitter/X. WTF _scroll_ DUMB _scroll_ EW _scroll_ _**BANG.**_ Wow. I'm definitely gonna use that. I just evolved. _**30 minutes later.**_ Why am i still scrolling? What just happened? Screw this, i got stuff to do.
+Open Twitter/X. WTF _scroll_ DUMB _scroll_ EW _scroll..._ **BANG**_**.**_ Wow. I'm definitely gonna use that. I just evolved. _**30 minutes later.**_ Why am i still scrolling? What just happened? Screw this, i got stuff to do.
 
 ## They promised bangers
 
