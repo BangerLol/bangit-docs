@@ -12,7 +12,7 @@ Open Twitter/X. WTF _scroll_ DUMB _scroll_ EW _scroll..._ **BANG**_**.**_ Wow. I
 
 Every day we open social media expecting to see _what matters_. But it mostly shows _what makes us keep scrolling and clicking_.
 
-Social media made a simple promise: show us what gets the most engagement, because that's what the people want. Attention-based democracy. And sometimes it works. So we keep coming back. For the thrill of discovering alpha before everyone else. The satisfaction of sharing something that makes your friends laugh. The warmth of a post that feels written just for you in that moment.&#x20;
+Social media made a simple promise: show us what gets the most engagement, because that's what the people want. Attention-based democracy. And sometimes it works. So we keep coming back. For the thrill of discovering alpha before everyone else. The satisfaction of sharing something that makes our friends laugh. The warmth of a post that feels written just for us in that moment.&#x20;
 
 But the bangers are buried under endless slop. Rage/fear/lust-bait. Brainrot. Misinformation.
 
