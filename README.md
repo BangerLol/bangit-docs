@@ -4,17 +4,17 @@ icon: question
 
 # Overview
 
-## The Curator Economy
+## Bangit: The Curator Economy
 
-#### A gamified curation market for Twitter/X
+#### A gamified curation market for Crypto Twitter
 
-Bangit is a game for voting on tweets. The best tweets rise to the top, while the best curators and creators earn rewards.
+Bangit is a new game for voting on tweets.
 
-The interface feels like a social media feed—but posts are ranked by hard conviction, instead of soft engagement.
+The gameplay feels like sharing tweets with friends. But players compete for glory and financial rewards, instead of local clout.
 
-The gameplay feels like sharing tweets with friends—but players compete for glory and financial rewards, instead of local clout.
+The interface feels like a social media feed. But posts are ranked by conviction, instead of engagement metrics.
 
-Content creators earn rewards too—but for posting bangers, instead of engagement farming.
+Content creators earn rewards too. But for posting bangers, instead of engagement farming.
 
 ## Links
 
