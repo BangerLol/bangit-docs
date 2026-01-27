@@ -12,21 +12,21 @@ Open Twitter/X. WTF _scroll_ DUMB _scroll_ EW _scroll..._ **BANG**_**.**_ Wow. I
 
 Every day we open social media expecting to see _what matters_. But it mostly shows _what makes us keep scrolling and clicking_.
 
-We accepted a deal from social media platforms, which sounds pretty good: show us what gets the most engagement, because that's what the people want. Fine, you can show us some ads, as long as it's free to use.
+We're accepting a deal from social media platforms, which sounds pretty good: they show us what gets the most engagement, because that's what the people want. They can show us some ads, as long as it's free to use.
 
 This is the attention economy.
 
 And sometimes it works. That's why we keep coming back. For the joy of sharing something that makes our friends laugh. For the thrill of discovering alpha before everyone else. For the warmth of a post that feels like it was written just for us in that moment.
 
-But the bangers are buried under endless slop. Rage/fear/lust-bait. Brainrot. Misinformation. What gives?
+But the bangers are buried under endless slop. Rage/fear/lust-bait. Brainrot. Misinformation. What's up with that?
 
 ## Why slop wins
 
 Platforms optimize for engagement (scrolls, clicks, time-spent). Because more engagement = more ad revenue.
 
-But here's the problem: engagement metrics can't tell the difference between "engaged because I love this" vs. "engaged because this was so dumb it pissed me off". **A hate-click counts the same as a love-click.**
+But engagement metrics can't tell the difference between "engaged because I love this" vs. "engaged because this was so dumb it pissed me off". **A hate-click counts the same as a love-click.**
 
-So content that provokes strong emotional reactions (especially negative) wins. Slop is also cheaper to produce. So emotional slop floods the feed. And as people engage, it spreads. A brutal downward spiral.
+So content that provokes strong emotional reactions (especially negative) wins. Slop is also cheaper to produce. So emotional slop floods the feed. And as people engage, it spreads. From there, it's a race to the bottom.
 
 Platforms _could_ optimize for satisfaction or long-term retention instead of session length. Some have tried. But those metrics conflict with short-term engagement, which drives ad revenue. So why would they change?
 
@@ -34,17 +34,17 @@ In the attention economy, our attention is the raw material getting processed an
 
 ## The root cause
 
-Compare a Twitter feed to a group chat.
+Compare the Twitter feed to a group chat.
 
-In a group chat, if you share slop, you get ignored or mocked. If you share bangers, you're celebrated. Your reputation is on the line every time you share something. There's social skin in the game.
+In a group chat, if you share slop, you get ignored or mocked. If you share a banger, you're celebrated. You actually risk part of your clout every time you share something, with a chance to receive even more. There's social skin in the game.
 
-But on Twitter, there's no cost for rage-clicking slop and no reward for supporting a banger early. The algorithm just sees clicks. Engagement is cheap.
+But on Twitter, there's no cost for rage-clicking slop, and no reward for supporting a banger early. Accounts scroll and click. And the algorithm aggregates it.
 
 This is the root cause of the sloppening:
 
 **Engagement has no skin in the game.**
 
-Without stakes, platforms rank content by _activity_ (how many interactions) instead of _conviction_ (how strongly people actually endorse it). Activity is all they measure, so activity is all that matters.
+Without stakes, platforms rank content by _activity_ (how many interactions) instead of _conviction_ (how strongly people actually endorse it). Activity is all they measure, so activity is all that matters. Which allows slop to proliferate.
 
 ## We are what we scroll
 
