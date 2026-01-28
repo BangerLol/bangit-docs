@@ -1,9 +1,9 @@
 ---
+description: '*Subject to change*'
 hidden: true
-icon: coin-vertical
 ---
 
-# Tokenomics
+# 🪙 Tokenomics
 
 #### BANG is a utility token whose value increases with network usage.
 
@@ -15,11 +15,11 @@ icon: coin-vertical
 
 **Public Sale (60% of supply)**
 
-* Raising $150k with a fixed-price ICO at an FDV of $250K
+* Raising $120k with a fixed-price ICO at an FDV of $200K
 * 50% of Public Sale's tokens are staked immediately upon purchase
 * 50% of Public Sale's tokens are unlocked when sale completes
-* 75% of the raise  ($112.5k) goes to a treasury governed by decision markets. A $10k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
-* 25% of the raise ($37.5k) is paired with 15% of the initial supply for $75k of initial liquidity
+* 75% of the raise  ($90k) goes to a treasury governed by decision markets. An $8k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
+* 25% of the raise ($30k) is paired with 15% of the initial supply for $60k of initial liquidity
 
 **Liquidity (15% of supply)**
 
@@ -33,7 +33,7 @@ icon: coin-vertical
 
 **Private Sale (10%)**
 
-* Unlock linearly over 2.5 years
+* Unlock linearly over 5 years
 * Staked as they unlock with 20% effective earning power
 * Raised from [Colosseum](https://www.colosseum.com/) and angels
 
@@ -69,7 +69,7 @@ Bangit feels like a game: placing votes, managing power, and winning rewards. Th
 
 #### Staking
 
-Staking BANG is required to get meaningful value from Bangit. A daily-increasing Multiplier compounds this value over time. Exiting is intentionally costly: Unstaking BANG burns 1-10% (lower with longer staking) and unlocks over 14 days, while benefits drop immediately.
+Staking BANG is required to get meaningful value from Bangit. A daily-increasing Time Multiplier compounds this value over time. Exiting is costly: Unstaking BANG burns 1-10% (lower with longer staking) and unlocks over 14 days, while benefits recede immediately.
 
 #### Burning
 

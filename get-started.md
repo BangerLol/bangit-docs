@@ -1,12 +1,8 @@
----
-icon: play
----
-
-# Get Started
+# ▶️ Get Started
 
 ## Onboarding
 
-Go to [bangit.xyz](https://bangit.xyz/). Login with Twitter/X. Enjoy a self-custody Solana wallet, secured by [Privy](https://www.privy.io/). Transactions are dealt in BANG and fees are covered by Bangit, so no funding deposits necessary.
+Login with Twitter/X. Enjoy a self-custody Solana wallet, secured by [Privy](https://www.privy.io/). Transactions are dealt in BANG and fees are covered by Bangit, so no funding deposits necessary.
 
 #### Abuse Prevention
 
@@ -15,7 +11,7 @@ To ensure authenticity, Twitter/X accounts must meet some initial requirements:
 * \>90 days old
 * \>100 followers
 
-Sybils, cartels, and farmers are detected and slashed.
+Sybils, cartels, and farmers are detected using network analysis and slashed.
 
 ***
 
@@ -23,9 +19,9 @@ Sybils, cartels, and farmers are detected and slashed.
 
 #### How to Play
 
-* Vote on tweets using 1-20% of your Max Power per vote
-* Power regenerates 100% of Max Power per day, continuously
-* You can vote on the same tweet again after an 8-hour cooldown period
+* Vote on tweets
+* Earn rewards for your taste
+* Stake to increase rewards, clout, and influence on the feeds
 
 #### How to Win
 
@@ -39,10 +35,10 @@ Sybils, cartels, and farmers are detected and slashed.
 
 #### :house: Feeds
 
+* **Hot**: highest impact + recently upvoted + recently posted
 * **Top**: highest impact
 * **Bump**: recently voted
 * **New**: recently posted
-* **Hot**: highest impact + recently voted + recently posted
 
 #### :mag\_right: Search
 
@@ -50,4 +46,4 @@ Find any tweet or user by link, ID, or username
 
 #### :trophy: Leaderboard
 
-See the top curators and creators
+Ranks the top curators and creators

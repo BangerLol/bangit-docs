@@ -1,17 +1,25 @@
----
-icon: gem
----
+# 💎 Staking
 
-# Staking
+#### Stake BANG for more rewards, clout, and influence on the feeds.
 
-#### Stake BANG for more rewards, clout, and influence.
-
-Staking BANG increases Max Power:
+Stake BANG to increase Max Power:
 
 * More rewards
 * Higher aesthetic tier
 * More influence on the feeds
 
-Reward Boost amplifies Creator and Inviter Rewards. A daily increasing Multiplier further increases Max Power and Reward Boost.
+A daily increasing Time Multiplier further increases Max Power and Reward Boost. Reward Boost amplifies Creator and Inviter rewards.
 
-Unstaking BANG does not affect Multiplier for the remaining staked BANG. Unstaking BANG incurs a 1-10% burn fee, which decreases as the Multiplier increases. Unstaking BANG decreases Max Power and Reward Boost immediately, while the unstaked tokens unlock gradually over 14 days.
+```
+Time Multiplier (Max 5) = 1 + (0.01 × Days Staked)
+```
+
+```
+Max Power = 100 + (Staked BANG * Time Multiplier)
+```
+
+```
+Reward Boost (Max 3) = 1 + ((Max Power - 100) / 1000)
+```
+
+Unstaking BANG has a 1-10% burn fee, which decreases as Time Multiplier increases. Unstaking BANG decreases Max Power and Reward Boost immediately, while the unstaked tokens unlock gradually over 14 days. Unstaking BANG does not affect Time Multiplier for the remaining staked BANG.&#x20;

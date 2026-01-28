@@ -1,8 +1,4 @@
----
-icon: star
----
-
-# Manifesto
+# ⭐ Manifesto
 
 ## The daily dose
 

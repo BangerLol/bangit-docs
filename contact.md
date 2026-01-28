@@ -1,7 +1,3 @@
----
-icon: message-question
----
-
-# Contact
+# ✉️ Contact
 
 "Feedback" form in app

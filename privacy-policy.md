@@ -1,8 +1,4 @@
----
-icon: shield
----
-
-# Privacy Policy
+# 🛡️ Privacy Policy
 
 ### A. Bangit Application And Website
 
