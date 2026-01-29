@@ -1,6 +1,5 @@
 ---
 description: '*Subject to change*'
-hidden: true
 ---
 
 # 🪙 Tokenomics
@@ -18,7 +17,7 @@ hidden: true
 * Raising $120k with a fixed-price ICO at an FDV of $200K
 * 50% of Public Sale's tokens are staked immediately upon purchase
 * 50% of Public Sale's tokens are unlocked when sale completes
-* 75% of the raise  ($90k) goes to a treasury governed by decision markets. An $8k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
+* 75% of the raise  ($90k) goes to a treasury governed by decision markets. A $10k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
 * 25% of the raise ($30k) is paired with 15% of the initial supply for $60k of initial liquidity
 
 **Liquidity (15% of supply)**
