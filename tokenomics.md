@@ -52,14 +52,14 @@ BANG's public sale, treasury, emission rate, liquidity pool--and the decision ma
 
 ## Demand
 
-Bangit creates value through [status, utility, and entertainment](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service). BANG is how that value is priced and competed for. As usage grows, demand concentrates into buying, staking, and burning more BANG.
+Bangit creates value through [status, utility, and entertainment](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service). BANG is how that value is priced, competed for, and speculated on. As usage grows, demand concentrates into buying, staking, and burning more BANG.
 
 <figure><img src=".gitbook/assets/Bangit Flywheel.png" alt=""><figcaption></figcaption></figure>
 
 #### Value
 
 **Status**\
-Bangit offers a new way to earn status based on how good you are at curating bangers early. Currently, curators can earn local, illiquid status by curating bangers early and sharing them with friends in group chats. With Bangit, curators can earn global, liquid status.
+Bangit offers a new way to earn status based on your ability to identify bangers early. Currently, curators can earn local, illiquid status by curating bangers early and sharing them with friends in group chats. With Bangit, curators can earn global, liquid status.
 
 **Utility**\
 Bangit's core utility is a higher-signal content feed, ranked by hard conviction instead of soft engagement. Premium access to these feeds can help people see what matters.
