@@ -4,14 +4,10 @@
 
 Login with Twitter/X. Enjoy a self-custody Solana wallet, secured by [Privy](https://www.privy.io/). Transactions are dealt in BANG and fees are covered by Bangit, so no funding deposits necessary.
 
-#### Abuse Prevention
-
 To ensure authenticity, Twitter/X accounts must meet some initial requirements:
 
 * \>90 days old
 * \>100 followers
-
-Sybils, cartels, and farmers are detected using network analysis and slashed.
 
 ***
 
