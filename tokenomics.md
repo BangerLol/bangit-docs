@@ -17,8 +17,9 @@ description: '*Subject to change*'
 * Raising $120k with a fixed-price ICO at an FDV of $200K
 * 50% of Public Sale's tokens are staked immediately upon purchase
 * 50% of Public Sale's tokens are unlocked when sale completes
-* 75% of the raise  ($90k) goes to a treasury governed by decision markets. A $10k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
-* 25% of the raise ($30k) is paired with 15% of the initial supply for $60k of initial liquidity
+* 75% of raised funds ($90k) goes to a treasury governed by decision markets. A $10k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
+* 25% of raised funds ($30k) is paired with 15% of the initial supply for $60k of initial liquidity
+* Full refund if minimum is not reached
 
 **Liquidity (15% of supply)**
 
@@ -27,12 +28,12 @@ description: '*Subject to change*'
 
 **Team (10% of supply)**
 
-* Unlock linearly over 5 years
+* Unlocked linearly over 5 years
 * Staked as they unlock with 20% effective earning power
 
 **Private Sale (10%)**
 
-* Unlock linearly over 5 years
+* Unlocked linearly over 5 years
 * Staked as they unlock with 20% effective earning power
 * Raised from [Colosseum](https://www.colosseum.com/) and angels
 
@@ -64,15 +65,15 @@ BANG is tokenized taste. As Bangit usage grows, demand concentrates into buying,
 Bangit creates [status, utility, and entertainment](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service) value for content curators, creators, and enjoyers.
 
 **Status**\
-Bangit provides a new way for content curators to prove their taste, based on their skill of discovering bangers early. Currently, curators earn local, illiquid status by sharing bangers with friends. But now, with Bangit, curators can earn global, liquid status.
+Bangit provides a new way for content curators to prove their taste, based on their skill of discovering bangers early. Currently, curators can earn local, illiquid status by sharing bangers with friends. But now, with Bangit, curators earn global, liquid status.
 
 Content creators also earn a new type of status, based on real support for their posts, instead of opaque, outrage-maxxing engagement metrics.
 
 **Utility**\
-For casual content enjoyers, Bangit's core utility is a higher-signal content feed, ranked by hard conviction instead of soft engagement. Premium access to this data can help people see what matters faster and easier.
+For casual content enjoyers, Bangit's core utility is higher-signal content rankings, measured by hard conviction instead of soft engagement. Premium access to this data helps people see what matters faster and easier.
 
 **Entertainment**\
-Bangit feels like a game: placing votes, managing power, winning rewards, climbing leaderboards. This competition stokes a desire to progress for more rewarding play.
+Bangit feels like a game: placing votes, winning rewards, climbing leaderboards. This competition stokes a desire to progress for more rewarding play.
 
 #### How BANG Captures Value
 
@@ -90,7 +91,7 @@ Staking BANG is required to get meaningful value from Bangit. A daily-increasing
 
 Bangit creates persistent demand for BANG via structural burns and optional burns. All burns apply to staked BANG.
 
-**Structural (always on)**\
+**Security Burns**\
 Built-in sinks that encourage high-quality curation and alignment
 
 * **Slashing:** penalizes low-quality curation
@@ -98,17 +99,13 @@ Built-in sinks that encourage high-quality curation and alignment
 * **Unstaking fees:** 1-10% burn to exit, plus time delay
 * **Delegation fees:** 10% burn on rewards earned from delegated power
 
-**Optional (on demand)**\
-Convert BANG into more status, utility, or entertainment
+**Utility Burns**\
+Convert BANG into more status, utility, or entertainment on-demand
 
-* **Boosts:** power refills, higher conviction votes
-* **AI access:** query an agent trained on the top tweets by conviction
+* **Boosts:** higher conviction votes, power refills
 * **Ads:** pin a tweet to the Hot feed
-* **Premium Feeds:** subscriptions, notifications (coming soon)
+* **AI access:** query an agent trained on the top tweets (coming soon)
 
 {% hint style="info" %}
 In [Multicoin's framework](https://multicoin.capital/2018/02/13/new-models-utility-tokens/), BANG is a work-style utility token. Contributors stake to earn the right to do work (curate tweets) and earn rewards, while poor performance is penalized.
 {% endhint %}
-
-
-
