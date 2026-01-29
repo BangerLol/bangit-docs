@@ -64,7 +64,7 @@ BANG is tokenized taste. As Bangit usage grows, demand concentrates into buying,
 Bangit creates [status, utility, and entertainment](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service) value for content curators, creators, and enjoyers.
 
 **Status**\
-Bangit provides a new way for content curators to prove their taste based on their ability to identify bangers early. Currently, curators earn local, illiquid status by sharing bangers with friends. But now, with Bangit, curators can earn global, liquid status.
+Bangit provides a new way for content curators to prove their taste, based on their skill of discovering bangers early. Currently, curators earn local, illiquid status by sharing bangers with friends. But now, with Bangit, curators can earn global, liquid status.
 
 Content creators also earn a new type of status, based on real support for their posts, instead of opaque, outrage-maxxing engagement metrics.
 
