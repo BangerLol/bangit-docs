@@ -2,29 +2,31 @@
 
 ## The daily dose
 
-Open Twitter/X. WTF _scroll_ DUMB _scroll_ EW _scroll..._ **BANG**_**.**_ Wow. I'm definitely gonna use that. I just evolved. _**30 minutes later.**_ Why am i still scrolling? What just happened? Screw this, i got stuff to do.
+Open Twitter. WTF _scroll_ DUMB _scroll_ CHILL _scroll..._ **Bang**_**.**_ Wow. I'm definitely gonna use that. I just evolved. _**30 minutes later.**_ Why am i still scrolling? What just happened? Whatever. I got stuff to do.
 
 ## They promised us bangers
 
-Every day we open social media expecting to see _what matters_. But it mostly shows _what makes us keep scrolling and clicking_.
+Every day we open social media expecting to see **what matters**. But it mostly shows **what makes us keep scrolling and clicking**.
 
-We're accepting a deal from social media platforms, which sounds pretty good: they show us what gets the most engagement, because that's what the people want. They can show us some ads, as long as it's free to use.
+We're accepting a deal from social media platforms, which sounded pretty good: Show us what gets the most engagement, because that's what people want. And sure, show us some ads, as long as it's free to use.
 
 This is the attention economy.
 
-And sometimes it works. That's why we keep coming back. For the joy of sharing something that makes our friends laugh. For the thrill of discovering alpha before everyone else. For the warmth of a post that feels like it was written just for us in that moment.
+And sometimes it works. That's why we keep coming back. For the bangers.
 
-But the bangers are buried under endless slop. Rage/fear/lust-bait. Brainrot. Misinformation. What's up with that?
+Discovering alpha before everyone else. Sharing something that makes our friends laugh. Enjoying a post that feels like it was written for us in that moment.
+
+But the bangers are buried under endless slop. Rage/fear/lust-bait. Brainrot. Misinformation. What gives?
 
 ## Why slop wins
 
 Platforms optimize for engagement (scrolls, clicks, time-spent). Because more engagement = more ad revenue.
 
-But engagement metrics can't tell the difference between "engaged because I love this" vs. "engaged because this was so dumb it pissed me off". **A hate-click counts the same as a love-click.**
+But engagement metrics can't tell the difference between "engaged because I love this" vs. "engaged because this sucks". **A hate-click counts the same as a love-click.**
 
 So content that provokes strong emotional reactions (especially negative) wins. Slop is also cheaper to produce. So emotional slop floods the feed. And as people engage, it spreads. From there, it's a race to the bottom.
 
-Platforms _could_ optimize for satisfaction or long-term retention instead of session length. Some have tried. But those metrics conflict with short-term engagement, which drives ad revenue.
+Platforms _could_ optimize for satisfaction or long-term retention, instead of session length. Some have tried. But those metrics conflict with short-term engagement, which drives ad revenue.
 
 In the attention economy, our focus is the raw material getting processed and sold to advertisers. Slop is just the most efficient way to extract it.
 
@@ -40,7 +42,7 @@ This is the root cause of the sloppening:
 
 **Engagement has no skin in the game.**
 
-Without stakes, platforms rank content by _activity_ (how many interactions) instead of _conviction_ (how strongly people actually endorse it). Activity is all they measure, so activity is all that matters. Enabling the proliferation of slop.
+Without stakes, platforms rank content by _activity_ (how many interactions) instead of _conviction_ (how strongly people with skin in the game actually support it). Activity is all they measure, so activity is all that matters. Enabling the proliferation of slop.
 
 ## We are what we scroll
 
@@ -48,13 +50,13 @@ Without stakes, platforms rank content by _activity_ (how many interactions) ins
 
 But now we spend more time online than anywhere else. So we're becoming the average of the content we consume.
 
-Bangers make us stronger: useful ideas, uplifting stories, beautiful art, jokes that hit. Slop drains our spirit. But algorithms can’t tell the difference, because they're tuned for reactivity, not quality.
+Bangers make us stronger: useful ideas, uplifting stories, beautiful art, jokes that hit. Slop drains our spirit. But the algorithm can’t tell the difference, because it's tuned for reactivity, not quality.
 
 ## Why we're here
 
-We're power users. Curators. Explorers. We spend hours finding signal in the noise. Delivering it to people who trust our taste.
+We're power users. Curators. We spend hours finding signal in the noise. Delivering it to the homies.
 
-In college, I wrote a crypto newsletter. The most popular section, by far, was "Tweets of the Week": a curation of the best tweets I'd found while scrolling Crypto Twitter. People said it was the only reason they subscribed. Because they were saving time and energy. Getting the bangers without the slop.
+In college, I wrote a crypto newsletter. The most popular section, by far, was "Tweets of the Week": the best tweets I'd found while scrolling Crypto Twitter. People said it was the only reason they subscribed. Because they could enjoy a highlight reel of bangers And save time. Getting the bangers without the slop.
 
 But I couldn't figure out a good way to make it sustainable. Ads meant selling my readers' attention. Subscriptions meant charging for free content I simply organized better. Neither felt right.
 
