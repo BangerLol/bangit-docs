@@ -2,7 +2,7 @@
 
 ## The daily dose
 
-Open Twitter. WTF _scroll_ DUMB _scroll_ CHILL _scroll..._ **Bang**_**.**_ Wow. I'm definitely gonna use that. I just evolved. _**30 minutes later.**_ Why am i still scrolling? What just happened? Whatever. I got stuff to do.
+Open Twitter. WTF _scroll_ DUMB _scroll_ CHILL _scroll..._ **Bang**_**.**_ Wow. This is great. I just evolved. _**30 minutes later.**_ Why am i still scrolling? What just happened? Whatever. I got stuff to do.
 
 ## They promised us bangers
 
