@@ -16,7 +16,7 @@ And sometimes it works. That's why we keep coming back. For the bangers.
 
 Discovering alpha before everyone else. Sharing something that makes our friends laugh. Enjoying a post that feels like it was written for us in that moment.
 
-But the bangers are buried under endless slop. Rage/fear/lust-bait. Brainrot. Misinformation. What gives?
+But the bangers are buried under endless slop. **Rage/fear/lust-bait. Brainrot. Misinformation.** What gives?
 
 ## Why slop wins
 
@@ -28,7 +28,7 @@ So content that provokes strong emotional reactions (especially negative) wins. 
 
 Platforms _could_ optimize for satisfaction or long-term retention, instead of session length. Some have tried. But those metrics conflict with short-term engagement, which drives ad revenue.
 
-In the attention economy, our focus is the raw material getting processed and sold to advertisers. Slop is just the most efficient way to extract it.
+In the attention economy, our focus is the raw material getting processed and sold to advertisers. Slop is just the most efficient way to extract our attention.
 
 ## The root cause
 
