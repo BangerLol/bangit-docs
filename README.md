@@ -4,7 +4,7 @@
 
 #### A gamified curation market for Crypto Twitter
 
-**For Curators:** Voting feels like sharing tweets with friends. But curators on Bangit earn rewards, climb leaderboards, and build reputation for their taste.
+**For Curators:** Voting feels like sharing tweets with friends. But here curators earn rewards, climb leaderboards, and build reputation for their taste.
 
 **For Creators:** Creators win too. But for posting bangers, instead of engagement farming.
 
