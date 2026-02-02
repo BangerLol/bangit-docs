@@ -17,7 +17,7 @@ To ensure authenticity, Twitter/X accounts must meet some initial requirements:
 
 * Vote on tweets
 * Earn rewards for your taste
-* Stake to increase rewards, clout, and influence on the feeds
+* Stake to increase rewards and influence on the feeds
 
 #### How to Win
 

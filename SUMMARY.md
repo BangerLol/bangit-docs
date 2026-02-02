@@ -3,7 +3,7 @@
 * [❓ Overview](README.md)
 * [⭐ Manifesto](manifesto.md)
 * [▶️ Get Started](get-started.md)
-* [⚡ Power](power.md)
+* [⚡ Voting](voting.md)
 * [🎁 Rewards](rewards.md)
 * [💎 Staking](staking.md)
 * [⚔️ Slashing](slashing.md)
