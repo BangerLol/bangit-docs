@@ -55,7 +55,7 @@ BANG's public sale, treasury, emission rate, liquidity pool--and the decision ma
 Bangit creates value through utility, status, and entertainment. BANG is how that value is priced and competed for. Every core action in the protocol either locks or burns BANG.
 
 {% hint style="info" %}
-All value captured by Bangit flows to the BANG token. Bangit does not and will not accrue value to any other instrument (equity, token, or otherwise).
+All value captured by Bangit flows to the official BANG token. Bangit does not and will not accrue value to any other instrument (equity, token, or otherwise).
 {% endhint %}
 
 #### Why BANG?

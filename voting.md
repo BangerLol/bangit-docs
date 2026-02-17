@@ -6,7 +6,9 @@
 
 Upvote or Downvote tweets using 1-20% of Max Power per vote. Power regenerates at a rate of 100% per day, continuously. You can vote on the same tweet again after an 8-hour cooldown period.
 
-The % of Max Power used represents your **conviction** in a vote. Voting with >5% of Max Power requires investing staked BANG. Above 5% conviction, every 1% invests 0.1% of your staked BANG.
+The % of Max Power used represents your **conviction** in a vote.
+
+Currently, voting with >10% of Max Power requires investing some staked BANG. Above 10% conviction, every 1% of Max Power invests 0.1% of your staked BANG. Post-TGE, this buffer will be removed so that every vote requires investing some staked BANG.
 
 ## Vote on tweets to affect + predict their Net Impact
 
