@@ -6,17 +6,17 @@ Open Twitter. WTF _scroll_ DUMB _scroll_ CHILL _scroll..._ **Bang**_**.**_ Wow. 
 
 ## They promised us bangers
 
-Every day we open social media expecting to see **what matters**. But it mostly shows **what makes us keep scrolling and clicking**.
+Every day we open social media expecting to see what matters. But it mostly shows what makes us keep scrolling and clicking.
 
-We're accepting a deal from social media platforms, which sounded pretty good: Show us what gets the most engagement, because that's what people want. And sure, show us some ads, as long as it's free to use.
+We're accepting a deal from social media platforms, which sounds pretty good: Show us what gets the most engagement, because that's what people want. And sure, show us some ads, as long as it's free to use.
 
 This is the attention economy.
 
-And sometimes it works. That's why we keep coming back. For the bangers.
+And sometimes it works. That's why we keep coming back. **For the bangers.**
 
-Discovering alpha before everyone else. Sharing something that makes our friends laugh. Enjoying a post that feels like it was written for us in that moment.
+Discovering alpha before everyone else. Sharing something that makes your friends laugh. Enjoying a post that feels like it was written TO you.
 
-But the bangers are buried under endless slop. **Rage/fear/lust-bait. Brainrot. Misinformation.** What gives?
+But the bangers are buried under endless slop. **Rage/fear/lust-bait. Brainrot. Misinformation.**
 
 ## Why slop wins
 

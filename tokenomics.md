@@ -42,15 +42,21 @@ description: '*Subject to change*'
 * Most of these tokens are staked
 * Effective airdrop to early users that contributed to the network as we iterated the product
 
-#### Emissions (Rewards)
+#### Emissions
 
-New BANG is minted daily to reward curators, creators, and inviters based on their contributions to the network (outlined in [Rewards](rewards.md)). BANG's emission rate is governed by decision markets to maximize the price of BANG, starting at a rate of 0.1% of the initial supply per day (36.5% first-year issuance rate).
+To bootstrap the network, new BANG is minted daily to the rewards pool, 100% of which goes to top curators, creators, and inviters. Emissions start at 100K BANG (0.1% of the initial supply) on the first day and decrease by 100 BANG everyday, until emissions reach a constant 1K BANG per day.
 
 {% hint style="info" %}
 BANG's public sale, treasury, emission rate, liquidity pool--and the decision markets that govern them--are managed by [Combinator](https://www.combinator.trade/) to enforce the parameters outlined here.
 {% endhint %}
 
 ## Demand
+
+Bangit creates value through utility, status, and entertainment. BANG is how that value is priced and competed for. Every core action in the protocol either locks or burns BANG.
+
+{% hint style="info" %}
+All value captured by Bangit flows to the BANG token. Bangit does not and will not accrue value to any other instrument (equity, token, or otherwise).
+{% endhint %}
 
 #### Why BANG?
 
@@ -60,36 +66,13 @@ BANG is tokenized taste. As Bangit usage grows, demand concentrates into buying,
 
 <figure><img src=".gitbook/assets/Bangit Flywheel.png" alt=""><figcaption></figcaption></figure>
 
-#### How Bangit Creates Value
-
-Bangit creates [status, utility, and entertainment](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service) value for content curators, creators, and enjoyers.
-
-**Status**\
-Bangit provides a new way for content curators to prove their taste, based on their skill of discovering bangers early. Currently, curators can earn local, illiquid status by sharing bangers with friends. But now, with Bangit, curators earn global, liquid status.
-
-Content creators also earn a new type of status, based on real support for their posts, instead of opaque, outrage-maxxing engagement metrics.
-
-**Utility**\
-For casual content enjoyers, Bangit's core utility is higher-signal content rankings, measured by hard conviction instead of soft engagement. Premium access to this data helps people see what matters faster and easier.
-
-**Entertainment**\
-Bangit feels like a game: placing votes, winning rewards, climbing leaderboards. This competition stokes a desire to progress for more rewarding play.
-
-#### How BANG Captures Value
-
-BANG is how Bangit's value is accessed, competed for, and speculated on. As usage grows, demand concentrates into buying, staking, and burning more BANG.
-
-All the value created by Bangit flows to the BANG token. Bangit does not and will not accrue value to any other instrument (equity, token, or otherwise).
-
-#### Staking: Skin in the Game
-
-Staking is what separates Bangit from the attention economy free-for-all. When you stake BANG, you're betting on yourself, saying: _I have conviction in my taste._
+#### Staking
 
 Staking BANG is required to get meaningful value from Bangit. A daily-increasing Time Multiplier compounds this value over time. Exiting is costly: Unstaking BANG burns 1-10% of your BANG and unlocks over 14 days, while benefits drop immediately.
 
-#### Burning: Where Value Goes
+#### Burning
 
-Bangit creates persistent demand for BANG via structural burns and optional burns. All burns apply to staked BANG.
+Bangit creates persistent demand for BANG via structural burns and optional burns. All burns apply to staked BANG. Unlike revenue + buyback loops, all Bangit fees are paid in BANG.
 
 **Security Burns**\
 Built-in sinks that encourage high-quality curation and alignment

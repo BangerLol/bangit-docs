@@ -2,7 +2,7 @@
 
 ## Bangit: The Curator Economy
 
-#### A gamified curation market for Crypto Twitter
+#### Gamified curation markets for Crypto Twitter
 
 **For Curators:** Voting feels like sharing tweets with friends. But curators earn rewards, climb leaderboards, and build reputation for their taste.
 
@@ -13,5 +13,7 @@
 ## Links
 
 App: [https://bangit.xyz](https://bangit.xyz/)
+
+Browser Extension: [https://chromewebstore.google.com/detail/jcaaijfmodcnlcbihgdkbpegjmiceioa](https://chromewebstore.google.com/detail/jcaaijfmodcnlcbihgdkbpegjmiceioa?utm_source=item-share-cb)
 
 Twitter: [https://x.com/bangitdotxyz](https://x.com/bangitdotxyz)
