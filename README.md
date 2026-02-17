@@ -16,4 +16,6 @@ App: [https://bangit.xyz](https://bangit.xyz/)
 
 Browser Extension: [https://chromewebstore.google.com/detail/jcaaijfmodcnlcbihgdkbpegjmiceioa](https://chromewebstore.google.com/detail/jcaaijfmodcnlcbihgdkbpegjmiceioa?utm_source=item-share-cb)
 
+Skill: [https://bangit.xyz/skill.md](https://bangit.xyz/skill.md)
+
 Twitter: [https://x.com/bangitdotxyz](https://x.com/bangitdotxyz)

@@ -2,7 +2,9 @@
 
 #### Rewards are distributed daily to top curators, creators, and inviters.
 
-Everyday at midnight UTC, the rewards pool is distributed to curators, creators, and inviters based on performance in the last 24 hours. Users can claim their rewards at anytime. 10% of unclaimed rewards are burned every 7 days they are left unclaimed.
+Everyday at midnight UTC, the rewards pool is distributed to curators, creators, and inviters based on performance in the last 24 hours
+
+&#x20;Claim rewards at anytime. "Claim + Stake" is free, while "Claim" incurs a 10% fee. 10% of unclaimed rewards are burned every 7 days they are left unclaimed.
 
 ## Curators: 80%
 

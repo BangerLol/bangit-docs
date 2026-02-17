@@ -5,7 +5,7 @@
 Stake BANG to increase Max Power:
 
 * More rewards
-* Higher aesthetic tier
+* More aesthetic clout
 * More influence on the feeds
 
 A daily increasing Time Multiplier further increases Max Power and a Reward Boost factor, which amplifies Creator and Inviter rewards.

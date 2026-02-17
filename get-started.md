@@ -34,7 +34,7 @@ Get an invite code from a friend, or DM @bangitdotxyz on Twitter
 
 #### :mag\_right: Search
 
-Find any tweet or user by link, ID, or username. Or discover tweets with a personalized AI-powered tweet curator.
+Find any tweet or user by link, ID, or username. Or discover tweets with a personalized AI tweet curator.
 
 #### :trophy: Leaderboard
 
