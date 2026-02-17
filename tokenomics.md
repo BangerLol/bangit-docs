@@ -8,11 +8,11 @@ description: '*Subject to change*'
 
 ## Supply
 
-#### Initial Supply
+### Initial Supply
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-**Public Sale (60% of supply)**
+#### **Public Sale (60% of supply)**
 
 * Raising $120k with a fixed-price ICO at an FDV of $200K
 * 50% of Public Sale's tokens are staked immediately upon purchase
@@ -21,73 +21,94 @@ description: '*Subject to change*'
 * 25% of raised funds ($30k) is paired with 15% of the initial supply for $60k of initial liquidity
 * Full refund if minimum is not reached
 
-**Liquidity (15% of supply)**
+#### **Liquidity (15% of supply)**
 
 * Paired with raised funds in a Meteora DAMM v2 liquidity pool
 * Locked unless a portion is being used for decision markets
 
-**Team (10% of supply)**
+#### **Team (10% of supply)**
 
 * Unlocked linearly over 5 years
 * Staked as they unlock with 20% effective earning power
 
-**Private Sale (10%)**
+#### **Private Sale (10%)**
 
 * Unlocked linearly over 5 years
 * Staked as they unlock with 20% effective earning power
 * Raised from [Colosseum](https://www.colosseum.com/) and angels
 
-**Early Users (5%)**
+#### **Early Users (5%)**
 
-* Most of these tokens are staked
+* Mostly staked
 * Effective airdrop to early users that contributed to the network as we iterated the product
 
-#### Emissions
+### Emissions
 
-To bootstrap the network, new BANG is minted daily to the rewards pool, 100% of which goes to top curators, creators, and inviters. Emissions start at 100K BANG (0.1% of the initial supply) on the first day and decrease by 100 BANG everyday, until emissions reach a constant 1K BANG per day.
+To bootstrap the network, new BANG is minted daily to the Rewards Pool, 100% of which goes to top curators, creators, and inviters. Emissions start at 100K BANG (0.1% of the initial supply) on the first day and decrease by 100 BANG everyday, until emissions reach a constant 10K BANG per day.
 
 {% hint style="info" %}
-BANG's public sale, treasury, emission rate, liquidity pool--and the decision markets that govern them--are managed by [Combinator](https://www.combinator.trade/) to enforce the parameters outlined here.
+BANG's public sale, treasury, emissions, liquidity pool--and the decision markets that govern them--are managed by [Combinator](https://www.combinator.trade/) to enforce the parameters outlined here.
 {% endhint %}
+
+***
 
 ## Demand
 
 Bangit creates value through utility, status, and entertainment. BANG is how that value is priced and competed for. Every core action in the protocol either locks or burns BANG.
 
 {% hint style="info" %}
-All value captured by Bangit flows to the official BANG token. Bangit does not and will not accrue value to any other instrument (equity, token, or otherwise).
+All value captured by Bangit flows to the official BANG token. Bangit does/will not accrue value to any other instrument (equity, token, or otherwise).
 {% endhint %}
 
-#### Why BANG?
+### Why BANG?
 
-Currently, the best curators on Twiter create massive value, but capture none of it. The platform takes the ad revenue. Creators farm engagement. But the people who create signal in a noisy world get nothing.
+Currently, the best curators create massive value, but capture none of it. The platform takes ad revenue. Creators farm engagement. But the people who create signal in a noisy world get nothing.
 
 BANG is tokenized taste. As Bangit usage grows, demand concentrates into buying, staking, and burning more BANG.
 
 <figure><img src=".gitbook/assets/Bangit Flywheel.png" alt=""><figcaption></figcaption></figure>
 
-#### Staking
+### Staking
 
-Staking BANG is required to get meaningful value from Bangit. A daily-increasing Time Multiplier compounds this value over time. Exiting is costly: Unstaking BANG burns 1-10% of your BANG and unlocks over 14 days, while benefits drop immediately.
+Staking BANG is required to get meaningful value from Bangit. A daily-increasing Time Multiplier compounds this value over time.
 
-#### Burning
+Unstaking BANG incurs a 1-10% fee and unlocks over 14 days, while benefits drop immediately.
 
-Bangit creates persistent demand for BANG via structural burns and optional burns. All burns apply to staked BANG. Unlike revenue + buyback loops, all Bangit fees are paid in BANG.
+### Fees
 
-**Security Burns**\
-Built-in sinks that encourage high-quality curation and alignment
+Bangit creates persistent demand for BANG via fees. Unlike revenue + buyback loops, fees are paid directly in staked BANG. For all BANG fees: 50% is burned, 40% goes to the Rewards Pool, and 10% goes to the Lottery Pool. The Rewards Pool (from fees and emissions) is distributed every 24 hours at midnight UTC to top curators, creators, and inviters. At the same time, the Lottery Pool has a 7% chance of being distributed to top curators.
 
-* **Slashing:** penalizes low-quality curation
-* **Unclaimed rewards decay:** 10% burned every 7 days left unclaimed
-* **Unstaking fees:** 1-10% burn to exit, plus time delay
-* **Delegation fees:** 10% burn on rewards earned from delegated power
+#### Voting
 
-**Utility Burns**\
-Convert BANG into more status, utility, or entertainment on-demand
+Currently, voting with >10% of Max Power requires spending some staked BANG. Above 10% conviction, every 1% of Max Power invests 0.1% of your staked BANG. Post-TGE, this buffer will be removed so that every vote incurs a fee.
 
-* **Boosts:** higher conviction votes, power refills
-* **Ads:** pin a tweet to the Hot feed
-* **AI access:** query an agent trained on the top tweets (coming soon)
+#### AI Discover
+
+Send an AI agent personalized based on your following graph and upvotes to find tweets that you might enjoy.
+
+#### Slashing
+
+Bangit uses analysis tools to detect and slash cartels. If you move as a pack, you will be slashed.
+
+#### Unclaimed Rewards
+
+10% fee on unclaimed rewards every 7 days left unclaimed.
+
+#### Unstaking
+
+1-10% fee to unstake, which decreases with more time staked.
+
+#### Delegation
+
+10% fee on rewards earned from delegated power.
+
+#### Pinning
+
+Dynamic fee to pin a tweet to the 4th spot on the Hot feed.
+
+#### API Access
+
+Fees to access the Bangit platform programatically.
 
 {% hint style="info" %}
 In [Multicoin's framework](https://multicoin.capital/2018/02/13/new-models-utility-tokens/), BANG is a work-style utility token. Contributors stake to earn the right to do work (curate tweets) and earn rewards, while poor performance is penalized.
