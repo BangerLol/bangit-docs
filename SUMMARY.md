@@ -6,7 +6,6 @@
 * [⚡ Voting](voting.md)
 * [🎁 Rewards](rewards.md)
 * [💎 Staking](staking.md)
-* [⚔️ Slashing](slashing.md)
 * [🤝 Delegation](delegation.md)
 * [🪙 Tokenomics](tokenomics.md)
 * [✉️ Contact](contact.md)
