@@ -10,16 +10,8 @@ Stake BANG to increase Max Power:
 
 A daily increasing Time Multiplier further increases Max Power and a Reward Boost factor, which amplifies Creator and Inviter rewards.
 
-```
-Time Multiplier (Max 5) = 1 + (0.01 × Days Staked)
-```
-
-```
-Max Power = 100 + (Staked BANG * Time Multiplier)
-```
-
-```
-Reward Boost (Max 3) = 1 + ((Max Power - 100) / 1000)
-```
+**Time Multiplier (Max 5)** = 1 + (0.01 × Days Staked)\
+**Max Power** = 100 + (Staked BANG \* Time Multiplier)\
+**Reward Boost (Max 3)** = 1 + ((Max Power - 100) / 1000)
 
 Unstaking BANG has a 1-10% burn fee, which decreases as Time Multiplier increases. Unstaking BANG decreases Max Power and Reward Boost immediately, while the unstaked tokens unlock gradually over 14 days. Unstaking BANG does not affect Time Multiplier for the remaining staked BANG.&#x20;
