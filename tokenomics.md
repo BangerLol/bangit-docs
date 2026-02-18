@@ -28,12 +28,12 @@ description: '*Subject to change*'
 
 #### **Team (10% of supply)**
 
-* Unlocked linearly over 5 years
+* Unlocked in 20% tranches at 30-day TWAPs of 2X, 4X, 8X, 16X, and 32X the ICO FDV
 * Staked as they unlock with 20% effective earning power
 
 #### **Private Sale (10%)**
 
-* Unlocked linearly over 5 years
+* Unlocked in 20% tranches at 30-day TWAPs of 2X, 4X, 8X, 16X, and 32X the ICO FDV
 * Staked as they unlock with 20% effective earning power
 * Raised from [Colosseum](https://www.colosseum.com/) and angels
 

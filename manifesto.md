@@ -2,7 +2,7 @@
 
 ## The daily dose
 
-Open Twitter. WTF _scroll_ DUMB _scroll_ CHILL _scroll..._ **Bang**_**.**_ Wow. This is great. I just evolved. _**30 minutes later.**_ Why am i still scrolling? What just happened?
+Open Twitter. WTF _scroll_ DUMBAF _scroll_ YOCHILL _scroll..._ **Bang**_**.**_**&#x20;Wow. This is great. I just evolved.** _30 minutes later._ Why am i still scrolling? What just happened?
 
 ## They promised us bangers
 
@@ -18,15 +18,15 @@ Discovering alpha before everyone else. Sharing something that makes our friends
 
 But the bangers are buried under endless slop. **Rage/fear/lust-bait. Brainrot. Misinformation.**
 
-## Nobody wants this
-
 The most disturbing part about the sloppening is that nobody wants this.
 
 Users don't want slop. Creators don't want to make slop. Platforms don't want to serve slop. And yet, slop proliferates. Why?
 
 ## Why slop wins
 
-Platforms optimize for engagement (scrolls, clicks, time-spent) because more engagement = more ad revenue. But engagement metrics can't tell the difference between "engaged because I love this" vs. "engaged because this sucks". **A hate-click counts the same as a love-click.**
+Spicy shallow content triggers more dopamine than calm deep content. So people click and linger more on spicy shallow content. So platforms optimize for clicks and lingers because engagement is easy to measure and monetize via ads. So creators optimize for clicks and lingers.
+
+But engagement metrics can't tell the difference between "engaged because I love this" vs. "engaged because this sucks". **A hate-click counts the same as a love-click.**
 
 So simple content that provokes strong emotional reactions (especially negative ones) wins. Slop is also cheaper to produce. So emotional slop floods the feed. And as people engage, it spreads.
 
