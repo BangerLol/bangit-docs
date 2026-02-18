@@ -64,9 +64,7 @@ All value captured by Bangit flows to the official BANG token. Bangit does/will 
 
 Currently, the best curators create massive value, but capture none of it. The platform takes ad revenue. Creators farm engagement. But the people who create signal in a noisy world get nothing.
 
-BANG is tokenized taste. It's a utility token grants access to more rewards, clout, and influence for higher-signal content feeds. As Bangit usage grows, demand concentrates into buying, staking, and burning more BANG.
-
-<figure><img src=".gitbook/assets/Bangit Flywheel.png" alt=""><figcaption></figcaption></figure>
+BANG is a utility token that grants access to more rewards, clout, and influence for curating higher-signal content feeds. More voting/burning -> better feeds -> more attention -> more voting/burning.
 
 ### Staking
 
