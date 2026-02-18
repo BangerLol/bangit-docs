@@ -14,7 +14,7 @@ This is the attention economy.
 
 And sometimes it works. That's why we keep coming back. **For the bangers.**
 
-Discovering alpha before everyone else. Sharing something that makes your friends laugh. Enjoying a post that feels like it was written TO you.
+Discovering alpha before everyone else. Sharing something that makes our friends laugh. Enjoying a post that feels like it was written TO you.
 
 But the bangers are buried under endless slop. **Rage/fear/lust-bait. Brainrot. Misinformation.**
 
@@ -32,9 +32,9 @@ So simple content that provokes strong emotional reactions (especially negative 
 
 Platforms _could_ optimize for satisfaction or long-term retention, instead of session length. Some have tried. But those metrics conflict with short-term engagement, which drives ad revenue.
 
-So it's a race to the bottom. Not because anyone chose it. But because competition, dopaminergic biology, and Schelling Points make it inevitable. From a gods-eye view, every platform should optimize for quality. From within the system, no individual platform can afford to.
+So it's a race to the bottom. Not because anyone chose it. But because competition, dopaminergic biology, and Schelling Points make it inevitable. From a gods-eye view, every platform should optimize for quality. From within the system, no individual can afford to.
 
-Our attention is the raw material getting processed and sold to advertisers. Slop is just the most efficient way to extract our attention.
+Our attention is the raw material getting processed and sold to advertisers. Slop is just the most efficient way to extract it.
 
 ## The root cause
 
