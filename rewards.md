@@ -4,7 +4,7 @@
 
 Everyday at midnight UTC, the Rewards Pool is distributed to curators, creators, and inviters based on performance in the last 24 hours
 
-Users can claim rewards at anytime. "Claim + Stake" is free, while "Claim" incurs a 10% fee on the claimable tokens. A 10% fee on unclaimed rewards is collected every 7 days they are left unclaimed.
+Users can claim rewards at anytime. "Claim + Stake" is free, while "Claim" incurs a 10% fee on the claimable tokens. A 10% fee on unclaimed rewards is applied every 7 days they are left unclaimed.
 
 ## Curators: 80%
 

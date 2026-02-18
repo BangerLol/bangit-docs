@@ -8,7 +8,7 @@ Upvote or Downvote tweets using 1-20% of Max Power per vote. Power regenerates a
 
 The % of Max Power used represents your **conviction** in a vote.
 
-Currently, voting with >10% of Max Power requires investing some staked BANG. Above 10% conviction, every 1% of Max Power invests 0.1% of your staked BANG. Post-TGE, this buffer will be removed so that every vote requires investing some staked BANG.
+Currently, voting with >10% of Max Power requires investing some staked BANG. Above 10% conviction, every 1% of Max Power invests 0.1% of your staked BANG. Post-TGE, this buffer will be removed so that every vote incurs a fee.
 
 ## Vote on tweets to affect + predict their Net Impact
 
