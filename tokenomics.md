@@ -64,7 +64,7 @@ All value captured by Bangit flows to the official BANG token. Bangit does/will 
 
 Currently, the best curators create massive value, but capture none of it. The platform takes ad revenue. Creators farm engagement. But the people who create signal in a noisy world get nothing.
 
-BANG is tokenized taste. It's a utility token grants access to more rewards, clout, and influence on higher-signal content feeds. As Bangit usage grows, demand concentrates into buying, staking, and burning more BANG.
+BANG is tokenized taste. It's a utility token grants access to more rewards, clout, and influence for higher-signal content feeds. As Bangit usage grows, demand concentrates into buying, staking, and burning more BANG.
 
 <figure><img src=".gitbook/assets/Bangit Flywheel.png" alt=""><figcaption></figcaption></figure>
 
@@ -84,15 +84,15 @@ Currently, voting with >10% of Max Power requires spending some staked BANG. Abo
 
 #### AI Discover
 
-Send a personalized AI agent trained on your second-degree following graph and upvotes to find tweets that you might enjoy.
+Get curated tweets from a personalized AI agent trained on your second-degree following graph (who your favorite accounts follow).
 
 #### API Access
 
-Fees to access the Bangit platform programatically.
+Access the Bangit platform programatically.
 
 #### Pinning
 
-Dynamic fee to pin a tweet to the 4th spot on the Hot feed.
+Pin a tweet to the 4th spot on the Hot feed.
 
 #### Slashing
 
