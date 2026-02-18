@@ -74,7 +74,7 @@ Unstaking BANG incurs a 1-10% fee and unlocks over 14 days, while benefits drop 
 
 ### Fees
 
-Bangit creates persistent demand for BANG via fees. Unlike revenue + buyback loops, fees are paid directly in staked BANG. For all BANG fees: 50% is burned, 40% goes to the Rewards Pool, and 10% goes to the Lottery Pool. The Rewards Pool (from fees and emissions) is distributed every 24 hours at midnight UTC to top curators, creators, and inviters. At the same time, the Lottery Pool has a 7% chance of being distributed to top curators.
+Fees are paid directly in staked BANG. For all BANG fees: 50% is burned, 40% goes to the Rewards Pool, and 10% goes to the Lottery Pool. The Rewards Pool (from fees and emissions) is distributed every 24 hours at midnight UTC to top curators, creators, and inviters. At the same time, the Lottery Pool has a 7% chance of being distributed to top curators.
 
 #### Voting
 
@@ -84,11 +84,11 @@ Currently, voting with >10% of Max Power requires spending some staked BANG. Abo
 
 Get curated tweets from a personalized AI agent trained on your second-degree following graph (who your favorite accounts follow).
 
-#### API Access
+#### API
 
-Access the Bangit platform programatically.
+Access Bangit programmatically: bangit.xyz/skill.md
 
-#### Pinning
+#### Ads
 
 Pin a tweet to the 4th spot on the Hot feed.
 
