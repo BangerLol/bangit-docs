@@ -84,7 +84,7 @@ Currently, voting with >10% of Max Power requires spending some staked BANG. Abo
 
 #### AI Discover
 
-Send an AI agent personalized based on your following graph and upvotes to find tweets that you might enjoy.
+Send a personalized AI agent trained on your second-degree following graph and upvotes to find tweets that you might enjoy.
 
 #### Slashing
 
