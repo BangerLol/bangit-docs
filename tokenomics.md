@@ -86,6 +86,14 @@ Currently, voting with >10% of Max Power requires spending some staked BANG. Abo
 
 Send a personalized AI agent trained on your second-degree following graph and upvotes to find tweets that you might enjoy.
 
+#### API Access
+
+Fees to access the Bangit platform programatically.
+
+#### Pinning
+
+Dynamic fee to pin a tweet to the 4th spot on the Hot feed.
+
 #### Slashing
 
 Bangit uses analysis tools to detect and slash cartels. If you move as a pack, you will be slashed.
@@ -101,14 +109,6 @@ Bangit uses analysis tools to detect and slash cartels. If you move as a pack, y
 #### Delegation
 
 10% fee on rewards earned from delegated power.
-
-#### Pinning
-
-Dynamic fee to pin a tweet to the 4th spot on the Hot feed.
-
-#### API Access
-
-Fees to access the Bangit platform programatically.
 
 {% hint style="info" %}
 In [Multicoin's framework](https://multicoin.capital/2018/02/13/new-models-utility-tokens/), BANG is a work-style utility token. Contributors stake to earn the right to do work (curate tweets) and earn rewards, while poor performance is penalized.
