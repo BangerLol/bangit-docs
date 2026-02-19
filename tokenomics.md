@@ -12,32 +12,32 @@ description: '*Subject to change*'
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-#### **Public Sale (60% of supply)**
+**Public Sale (60% of supply)**
 
 * Raising $120k with a fixed-price ICO at an FDV of $200K
-* 50% of Public Sale's tokens are staked immediately upon purchase
-* 50% of Public Sale's tokens are unlocked when sale completes
-* 75% of raised funds ($90k) goes to a treasury governed by decision markets. A $10k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
+* 20% of Public Sale's tokens are staked immediately upon purchase
+* 80% of Public Sale's tokens are fully unlocked when sale completes
 * 25% of raised funds ($30k) is paired with 15% of the initial supply for $60k of initial liquidity
+* 75% of raised funds ($90k) goes to a treasury governed by decision markets. A $10k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
 * Full refund if minimum is not reached
 
-#### **Liquidity (15% of supply)**
+**Liquidity (15% of supply)**
 
 * Paired with raised funds in a Meteora DAMM v2 liquidity pool
 * Locked unless a portion is being used for decision markets
 
-#### **Team (10% of supply)**
+**Team (10% of supply)**
 
-* Unlocked in 20% tranches at 30-day TWAPs of 2X, 4X, 8X, 16X, and 32X the ICO FDV
+* Unlocked in 20% tranches at 30-day TWAPs of 5X, 10X, 20X, 30X, and 100X the ICO FDV
 * Staked as they unlock with 20% effective earning power
 
-#### **Private Sale (10%)**
+**Private Sale (10%)**
 
-* Unlocked in 20% tranches at 30-day TWAPs of 2X, 4X, 8X, 16X, and 32X the ICO FDV
+* Unlocked in 20% tranches at 30-day TWAPs of 5X, 10X, 20X, 30X, and 100X the ICO FDV
 * Staked as they unlock with 20% effective earning power
 * Raised from [Colosseum](https://www.colosseum.com/) and angels
 
-#### **Early Users (5%)**
+**Early Users (5%)**
 
 * Mostly staked
 * Effective airdrop to early users that contributed to the network as we iterated the product
@@ -62,15 +62,19 @@ All value captured by Bangit flows to the official BANG token. Bangit does/will 
 
 ### Why BANG?
 
-Currently, the best curators create massive value, but capture none of it. The platform takes ad revenue. Creators farm engagement. But the people who create signal in a noisy world get nothing.
+Currently, the best curators create massive value, but capture none of it. Platforms ad revenue. Creators farm engagement. But the people who create signal in a noisy world get nothing.
 
-BANG is a utility token that grants access to more rewards, clout, and influence for curating higher-signal content feeds. More voting/burning -> better feeds -> more attention -> more voting/burning.
+BANG is a utility token that grants access rewards, clout, and influence for curating higher-signal content feeds. More voting/burning -> better feeds -> more attention -> more voting/burning.
 
 ### Staking
 
 Staking BANG is required to get meaningful value from Bangit. A daily-increasing Time Multiplier compounds this value over time.
 
-Unstaking BANG incurs a 1-10% fee and unlocks over 14 days, while benefits drop immediately.
+**Time Multiplier (Max 5)** = 1 + (0.01 × Days Staked)\
+**Max Power** = 100 + (Staked BANG \* Time Multiplier)\
+**Reward Boost (Max 3)** = 1 + ((Max Power - 100) / 1000)
+
+Unstaking BANG has a 1-10% fee, which decreases as Time Multiplier increases. Unstaking BANG decreases Max Power and Reward Boost immediately, while the unstaked tokens unlock gradually over 14 days.
 
 ### Fees
 
@@ -78,11 +82,11 @@ Fees are paid directly in staked BANG. For all BANG fees: 50% is burned, 40% goe
 
 #### Voting
 
-Currently, voting with >10% of Max Power requires investing some staked BANG. Above 10% conviction, every 1% of Max Power invests 0.1% of your staked BANG. Post-TGE, this buffer will be removed so that every vote incurs a fee.
+Currently, voting with >10% of Max Power requires investing some staked BANG. Above 10% conviction, every 1% of Max Power invests 0.05% of your staked BANG. Post-TGE, this buffer will be removed so that every vote incurs a fee.
 
 #### Claiming
 
-Users that opt to claim rewards to their wallet instead of auto-staking incur a 10% fee on the claimable rewards.
+Users that opt to claim rewards to their wallet instead of auto-staking incur a 20% fee on the claimable tokens.
 
 #### AI Discover
 
