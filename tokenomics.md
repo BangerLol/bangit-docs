@@ -78,7 +78,11 @@ Fees are paid directly in staked BANG. For all BANG fees: 50% is burned, 40% goe
 
 #### Voting
 
-Currently, voting with >10% of Max Power requires spending some staked BANG. Above 10% conviction, every 1% of Max Power invests 0.1% of your staked BANG. Post-TGE, this buffer will be removed so that every vote incurs a fee.
+Currently, voting with >10% of Max Power requires investing some staked BANG. Above 10% conviction, every 1% of Max Power invests 0.1% of your staked BANG. Post-TGE, this buffer will be removed so that every vote incurs a fee.
+
+#### Claiming
+
+Users that opt to claim rewards to their wallet instead of auto-staking incur a 10% fee on the claimable rewards.
 
 #### AI Discover
 
