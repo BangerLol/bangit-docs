@@ -1,6 +1,6 @@
 # ❓ Overview
 
-## Bangit: Gamified curation markets for tweets
+## Bangit: gamified curation markets for Twitter/X
 
 **For Curators,** voting feels like sharing bangers with friends. But you're also earning rewards, climbing leaderboards, and building reputation for your taste.
 
