@@ -1,9 +1,9 @@
 # 🤝 Delegation
 
-#### Delegate power to amplify and earn from other curators.
+#### Delegate power to amplify and earn from other voters.
 
 * Delegate up to 50% of Max Power
-* Split among up to 10 curators
+* Split among up to 10 voters
 
 #### Delegators share in the upside and downside of their delegatees' curation
 

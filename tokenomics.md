@@ -80,11 +80,11 @@ Unstaking BANG has a 1-10% fee, which decreases as Time Multiplier increases. Un
 
 ### Fees
 
-Fees are paid in staked BANG. For all BANG fees: 50% is burned, 40% goes to the Rewards Pool, and 10% goes to the Lottery Pool. The Rewards Pool (from fees and emissions) is distributed every 24 hours at midnight UTC to top curators, creators, and inviters. At the same time, the Lottery Pool has a 7% chance of being distributed to top curators.
+Fees are paid in staked BANG. With all BANG fees: 50% is burned, 40% goes to the Rewards Pool, and 10% goes to the Lottery Pool. The Rewards Pool (from fees and emissions) is distributed every 24 hours at midnight UTC to top curators (voters), creators, and inviters. At the same time, the Lottery Pool has a 7% chance of being distributed to top voters.
 
 **Voting**
 
-Currently, voting with >10% of Max Power requires committing some staked BANG. Above 10% conviction, every 1% of Max Power commits 0.05% of your staked BANG. Post-TGE, this buffer will be removed so that all votes require committing staked BANG.
+Currently, [voting](voting.md) with >10% of Max Power requires committing some staked BANG. Above 10% conviction, every 1% of Max Power commits 0.05% of your staked BANG. Post-TGE, this buffer will be removed so that all votes require committing staked BANG.
 
 **Claiming without staking**
 

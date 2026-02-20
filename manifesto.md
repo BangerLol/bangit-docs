@@ -82,10 +82,8 @@ And all the value captured flows to the people who make social media worth openi
 
 ## The world on Bangit
 
-Millions of people around the world are already playing this game everyday. Finding bangers early and sharing them with friends. But the gameplay is local, fragmented, and unrewarding.
+Millions of people around the world are already playing this game everyday: Finding bangers early and sharing them with friends. But the gameplay is local, fragmented, and unrewarding.
 
-Bangit makes the game of content curation global, unified, and worth playing.
-
-Where tweets are ranked by what people stand on. Instead of what they clicked or lingered on.
+Bangit makes content curation global, unified, and worth playing. While creating feeds where tweets are ranked by what people stand on. Instead of what they clicked or lingered on.
 
 Welcome to the homepage of social media.

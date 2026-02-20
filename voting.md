@@ -4,7 +4,7 @@
 
 ## Voting requires Power
 
-Upvote or Downvote tweets using 1-20% of Max Power per vote. The % of Max Power used for a vote represents your **conviction** in its quality to other curators.
+Upvote or Downvote tweets using 1-20% of Max Power per vote. The % of Max Power used for a vote represents your **conviction** in its quality.
 
 Power regenerates at a rate of 100% per day, continuously. You can vote on the same tweet again after an 8-hour cooldown period.
 
