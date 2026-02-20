@@ -1,14 +1,12 @@
 # ❓ Overview
 
-## Bangit: The Curator Economy
+## Bangit: Gamified curation markets for tweets
 
-#### Gamified curation markets for Crypto Twitter
+**For Curators,** voting feels like sharing bangers with friends. But you're also earning rewards, climbing leaderboards, and building reputation for your taste.
 
-**For Curators:** Voting feels like sharing tweets with friends. But curators earn rewards, climb leaderboards, and build reputation for their taste.
+**Creators** rewards and glory too. But for posting bangers, instead of engagement farming.
 
-**For Creators:** Creators win too. But for posting bangers, instead of engagement farming.
-
-**For Enjoyers:** The interface feels like a social media feed. But posts are ranked by conviction, instead of engagement metrics.
+**For Enjoyers,** the interface feels like a social media feed. But posts are ranked by conviction, instead of engagement metrics.
 
 ## Links
 
