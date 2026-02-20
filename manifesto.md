@@ -70,13 +70,13 @@ But I couldn't figure out how to make it sustainable. Ads meant selling my reade
 
 **Curation is valuable, but there's no economic model for it.** People who find bangers early get nothing. The slop merchants get everything.
 
-That ain't right!
+That ain't right.
 
 What if the people who find bangers early actually got rewarded? What if taste was an asset, instead of just a hobby?
 
 ## Proof of Taste
 
-Bangit provides new rules for social media, so that individual incentives align with better content feeds (and higher token value). Bangers rise because people commit to them. Slop sinks because it's expensive to pretend it's good.
+Bangit provides new rules for social media, so that individual incentives align with better content feeds. Bangers rise because people commit to them. Slop sinks because it's expensive to pretend it's good.
 
 And all the value captured flows to the people who make social media worth opening: the best curators and creators.
 
@@ -84,6 +84,6 @@ And all the value captured flows to the people who make social media worth openi
 
 Millions of people around the world are already playing this game everyday: Finding bangers early and sharing them with friends. But the gameplay is local, fragmented, and unrewarding.
 
-Bangit makes content curation global, unified, and worth playing. While creating feeds where tweets are ranked by what people stand on. Instead of what they clicked or lingered on.
+Bangit makes content curation global, unified, and worth playing. While providing feeds where tweets are ranked by what people stand on. Instead of what they clicked or lingered on.
 
 Welcome to the homepage of social media.
