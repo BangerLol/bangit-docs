@@ -4,7 +4,7 @@
 
 ## Stake BANG to increase Max Power
 
-* **More rewards:** higher Max Power for more curators rewards, higher Reward Boost for amplified Creator and Inviter rewards
+* **More rewards:** more voting Power for more Curator Rewards + higher Reward Boost for more Creator and Inviter Rewards
 * **More aesthetic clout:** higher Max Power Tier, displayed on profile
 * **More influence on the feeds:** stronger effect on the ranking of tweets
 

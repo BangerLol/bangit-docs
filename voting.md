@@ -4,21 +4,21 @@
 
 ## Voting requires Power
 
-Upvote or Downvote tweets using 1-20% of Max Power per vote. The % of Max Power used for a vote represents your **conviction**.
+Upvote or Downvote tweets using 1-20% of Max Power per vote. The % of Max Power used for a vote represents your **conviction** in its quality to other curators.
 
 Power regenerates at a rate of 100% per day, continuously. You can vote on the same tweet again after an 8-hour cooldown period.
 
-Currently, voting with >10% conviction requires investing some staked BANG. Above 10% conviction, every 1% of Max Power invests 0.05% of your staked BANG. Post-TGE, this buffer will be removed so that every vote incurs a fee.
+Currently, voting with >10% conviction requires committing some staked BANG. Above 10% conviction, every 1% of Max Power commits 0.05% of your staked BANG. Post-TGE, this buffer will be removed so that every vote requires committing staked BANG.
 
 ## Vote on tweets to affect + predict their Net Impact
 
-Each tweet has a Net Impact (price). Votes are scored based on the tweet's same-direction, log-scaled, time-weighted average Net Impact change in the 24 hours after the vote (PnL).
+Each tweet has a Net Impact (price). Votes are scored based on the tweet's Net Impact change in the 24 hours after the vote (PnL).
 
 #### Tweet Scoring
 
 **Net Impact** = Upvote Impact - Downvote Impact
 
-**Upvote/Downvote Impact** = (Power^0.7) \* (Conviction^0.3)
+**Upvote/Downvote Impact** = (Total Power^0.7) \* (Total Conviction^0.3)
 
 #### Vote Scoring
 
