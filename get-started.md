@@ -9,7 +9,7 @@ To ensure authenticity, Twitter/X accounts must meet some initial requirements:
 * \>90 days old
 * \>100 followers
 
-Find an invite code, or DM @bangitdotxyz on Twitter
+Find an invite code, or DM @bangitdotxyz
 
 ***
 
