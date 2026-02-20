@@ -14,10 +14,10 @@ description: '*Subject to change*'
 
 **Public Sale (60% of supply)**
 
-* Raising $120k with a fixed-price ICO at an FDV of $200K
-* 20% of Public Sale's tokens are staked immediately upon purchase
-* 80% of Public Sale's tokens are fully unlocked when sale completes
-* 25% of raised funds ($30k) is paired with 15% of the initial supply for $60k of initial liquidity
+* Raising $120k in a fixed-price ICO at an FDV of $200K
+* 50% of Public Sale's tokens are staked immediately upon purchase
+* 50% of Public Sale's tokens are fully unlocked when sale completes
+* 25% of raised funds ($30k) paired with 15% of the initial supply for $60k of initial liquidity
 * 75% of raised funds ($90k) goes to a treasury governed by decision markets. A $10k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
 * Full refund if minimum is not reached
 
@@ -62,9 +62,9 @@ All value captured by Bangit flows to the official BANG token. Bangit does/will 
 
 ### Why BANG?
 
-Currently, the best curators create massive value, but capture none of it. Platforms ad revenue. Creators farm engagement. But the people who create signal in a noisy world get nothing.
+Currently, the best curators create massive value, but capture none of it. Platforms take ad revenue. Creators farm engagement. But the people who create signal in a noisy world get nothing.
 
-BANG is a utility token that grants access rewards, clout, and influence for curating higher-signal content feeds. More voting/burning -> better feeds -> more attention -> more voting/burning.
+BANG is a utility token that grants rewards, clout, and influence to stakers for curating higher-signal content feeds. More voting/burning -> better feeds -> more attention -> more voting/burning.
 
 ### Staking
 
@@ -78,43 +78,43 @@ Unstaking BANG has a 1-10% fee, which decreases as Time Multiplier increases. Un
 
 ### Fees
 
-Fees are paid directly in staked BANG. For all BANG fees: 50% is burned, 40% goes to the Rewards Pool, and 10% goes to the Lottery Pool. The Rewards Pool (from fees and emissions) is distributed every 24 hours at midnight UTC to top curators, creators, and inviters. At the same time, the Lottery Pool has a 7% chance of being distributed to top curators.
+Fees are paid in staked BANG. For all BANG fees: 50% is burned, 40% goes to the Rewards Pool, and 10% goes to the Lottery Pool. The Rewards Pool (from fees and emissions) is distributed every 24 hours at midnight UTC to top curators, creators, and inviters. At the same time, the Lottery Pool has a 7% chance of being distributed to top curators.
 
-#### Voting
+**Voting**
 
-Currently, voting with >10% of Max Power requires investing some staked BANG. Above 10% conviction, every 1% of Max Power invests 0.05% of your staked BANG. Post-TGE, this buffer will be removed so that every vote incurs a fee.
+Currently, voting with >10% of Max Power requires committing some staked BANG. Above 10% conviction, every 1% of Max Power commits 0.05% of your staked BANG. Post-TGE, this buffer will be removed so that every vote requires committing staked BANG.
 
-#### Claiming
+**Claiming without staking**
 
 Users that opt to claim rewards to their wallet instead of auto-staking incur a 20% fee on the claimable tokens.
 
-#### AI Discover
-
-Get curated tweets from a personalized AI agent trained on your second-degree following graph (who your favorite accounts follow).
-
-#### API
-
-Access Bangit programmatically: bangit.xyz/skill.md
-
-#### Ads
-
-Pin a tweet to the 4th spot on the Hot feed.
-
-#### Slashing
-
-Bangit uses analysis tools to detect and slash cartels. If you move as a pack, you will be slashed.
-
-#### Unclaimed Rewards
+**Unclaimed Rewards**
 
 10% fee on unclaimed rewards every 7 days left unclaimed.
 
-#### Unstaking
+**Unstaking**
 
 1-10% fee to unstake, which decreases with more time staked.
 
-#### Delegation
+**Delegation**
 
 10% fee on rewards earned from delegated power.
+
+**AI Discover**
+
+Get curated tweets from a personalized AI agent trained on your second-degree following graph (who your favorite accounts follow).
+
+**API**
+
+Access Bangit programmatically: bangit.xyz/skill.md
+
+**Ads**
+
+Pin a tweet to the 4th spot on the Hot feed.
+
+**Slashing**
+
+Bangit uses analysis tools to detect and slash cartels. If you move as a pack, you will be slashed.
 
 {% hint style="info" %}
 In [Multicoin's framework](https://multicoin.capital/2018/02/13/new-models-utility-tokens/), BANG is a work-style utility token. Contributors stake to earn the right to do work (curate tweets) and earn rewards, while poor performance is penalized.
