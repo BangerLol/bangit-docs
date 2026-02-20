@@ -76,7 +76,7 @@ What if the people who find bangers early actually got rewarded? What if taste w
 
 ## Proof of Taste
 
-Bangit provides new rules for social media, so that individual incentives align with more bangers and less slop. Bangers rise because people commit to them. Slop sinks because it's expensive to pretend it's good.
+Bangit provides new rules for social media, so that individual incentives align with better content feeds (and higher token value). Bangers rise because people commit to them. Slop sinks because it's expensive to pretend it's good.
 
 And all the value captured flows to the people who make social media worth opening: the best curators and creators.
 
