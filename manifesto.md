@@ -76,7 +76,7 @@ What if the people who find bangers early actually got rewarded? What if taste w
 
 ## Proof of Taste
 
-Bangit provides new rules for social media, so that individual incentives align with higher-signal content feeds. Bangers rise because people commit to them. Slop sinks because it's expensive to pretend it's good.
+Bangit provides new rules for social media, so that individual incentives align with more bangers and less slop. Bangers rise because people commit to them. Slop sinks because it's expensive to pretend it's good.
 
 And all the value captured flows to the people who make social media worth opening: the best curators and creators.
 
@@ -84,6 +84,8 @@ And all the value captured flows to the people who make social media worth openi
 
 Millions of people around the world are already playing this game everyday. Finding bangers early and sharing them with friends. But the gameplay is local, fragmented, and unrewarding.
 
-Bangit makes the game of content curation global, unified, and worth playing. While creating feeds ranked by what people stand on. Instead of what they clicked or lingered on.
+Bangit makes the game of content curation global, unified, and worth playing.
 
-Bangit is the homepage of social media. Where taste finally pays.
+Where tweets are ranked by what people stand on. Instead of what they clicked or lingered on.
+
+Welcome to the homepage of social media.

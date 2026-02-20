@@ -64,17 +64,19 @@ All value captured by Bangit flows to the official BANG token. Bangit does/will 
 
 Currently, the best curators create massive value, but capture none of it. Platforms take ad revenue. Creators farm engagement. But the people who create signal in a noisy world get nothing.
 
-BANG is a utility token that grants rewards, clout, and influence to stakers for curating higher-signal content feeds. More voting/burning -> better feeds -> more attention -> more voting/burning.
+BANG is a utility token that grants rewards, clout, and influence to stakers for curating higher-signal content feeds. More voting/burning -> better feeds -> more value -> more voting/burning.
 
 ### Staking
 
-Staking BANG is required to get meaningful value from Bangit. A daily-increasing Time Multiplier compounds this value over time.
+[Staking](staking.md) BANG is required to get meaningful value from Bangit. A daily-increasing Time Multiplier compounds this value over time.
 
-**Time Multiplier (Max 5)** = 1 + (0.01 × Days Staked)\
-**Max Power** = 100 + (Staked BANG \* Time Multiplier)\
+**Max Power** = 100 + (Staked BANG \* Time Multiplier)
+
+**Time Multiplier (Max 5)** = 1 + (0.01 × Days Staked)
+
 **Reward Boost (Max 3)** = 1 + ((Max Power - 100) / 1000)
 
-Unstaking BANG has a 1-10% fee, which decreases as Time Multiplier increases. Unstaking BANG decreases Max Power and Reward Boost immediately, while the unstaked tokens unlock gradually over 14 days.
+Unstaking BANG has a 1-10% fee, which decreases as Time Multiplier increases. Unstaking BANG decreases Max Power and Reward Boost immediately, while the unstaked tokens unlock gradually over 7 days.
 
 ### Fees
 
@@ -82,7 +84,7 @@ Fees are paid in staked BANG. For all BANG fees: 50% is burned, 40% goes to the 
 
 **Voting**
 
-Currently, voting with >10% of Max Power requires committing some staked BANG. Above 10% conviction, every 1% of Max Power commits 0.05% of your staked BANG. Post-TGE, this buffer will be removed so that every vote requires committing staked BANG.
+Currently, voting with >10% of Max Power requires committing some staked BANG. Above 10% conviction, every 1% of Max Power commits 0.05% of your staked BANG. Post-TGE, this buffer will be removed so that all votes require committing staked BANG.
 
 **Claiming without staking**
 
