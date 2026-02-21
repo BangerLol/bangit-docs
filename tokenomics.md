@@ -54,7 +54,7 @@ BANG's public sale, treasury, emissions, liquidity pool--and the decision market
 
 ## Demand
 
-Bangit creates value through utility, status, and entertainment. BANG is how that value is priced and competed for. Every core action in the protocol either locks or burns BANG.
+Bangit creates value through utility, status, and entertainment. BANG is how that value is priced and competed for. Every core action in Bangit either locks or burns BANG.
 
 {% hint style="info" %}
 All value captured by Bangit flows to the official BANG token. Bangit does/will not accrue value to any other instrument (equity, token, or otherwise).
@@ -64,7 +64,7 @@ All value captured by Bangit flows to the official BANG token. Bangit does/will 
 
 Currently, the best curators create massive value, but capture none of it. Platforms take ad revenue. Creators farm engagement. But the people who create signal in a noisy world get nothing.
 
-BANG is a utility token that grants rewards, clout, and influence to stakers for curating higher-signal content feeds. More voting/burning -> better feeds -> more value -> more voting/burning.
+BANG is a utility token that grants rewards, clout, and influence for curating higher-signal content feeds. More voting/burning -> better feeds -> more utility/status/entertainment value -> more voting/burning.
 
 ### Staking
 
@@ -85,6 +85,10 @@ Fees are paid in staked BANG. With all BANG fees: 50% is burned, 40% goes to the
 **Voting**
 
 Currently, [voting](voting.md) with >10% of Max Power requires committing some staked BANG. Above 10% conviction, every 1% of Max Power commits 0.05% of your staked BANG. Post-TGE, this buffer will be removed so that all votes require committing staked BANG.
+
+{% hint style="info" %}
+In [Multicoin's framework](https://multicoin.capital/2018/02/13/new-models-utility-tokens/), BANG is a work-style utility token. Contributors stake to earn the right to do work (curate tweets) and earn rewards, while poor performance is penalized.
+{% endhint %}
 
 **Claiming without staking**
 
@@ -117,7 +121,3 @@ Pin a tweet to the 4th spot on the Hot feed.
 **Slashing**
 
 Bangit uses analysis tools to detect and slash cartels. If you move as a pack, you will be slashed.
-
-{% hint style="info" %}
-In [Multicoin's framework](https://multicoin.capital/2018/02/13/new-models-utility-tokens/), BANG is a work-style utility token. Contributors stake to earn the right to do work (curate tweets) and earn rewards, while poor performance is penalized.
-{% endhint %}

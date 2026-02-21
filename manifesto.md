@@ -32,9 +32,9 @@ So spicy shallow content proliferates. And slop is cheaper to produce than bange
 
 But a rage/fear/lust-click counts the same as a love-click.
 
-Platforms _could_ optimize for satisfaction or long-term retention, instead of clicks and lingers. Some have tried. But those metrics conflict with short-term engagement, which drives ad revenue.
+Platforms _could_ optimize for satisfaction or long-term retention, instead of clicks and lingers. Some have tried. But that conflicts with short-term engagement, which drives ad revenue.
 
-So it's a race to the bottom. Not because anyone chose it. But because dopaminergic biology, competition, and Schelling Points make it inevitable. From a gods-eye view: users, platforms, and creators should optimize for truth. From within the system, it feels like no individual can afford to.
+So it's a race to the bottom. Not because anyone wants it. But because dopaminergic biology, competition, and Schelling Points make it inevitable. From a gods-eye view: users, platforms, and creators should optimize for truth. From within the system, it feels like nobody can afford to.
 
 Our attention is the raw material getting processed and sold to advertisers. Slop is just the most efficient way to extract it.
 
@@ -50,7 +50,7 @@ This is the root cause of the sloppening:
 
 **Engagement has no skin in the game.**
 
-Without stakes, platforms rank content by _engagement_ (how many interactions) instead of _conviction_ (how strongly people with skin in the game actually support it). Activity is all they measure, so activity is all that matters.
+Without stakes, platforms rank content by _engagement_ (clicks and lingers) instead of _conviction_ (how strongly people with skin in the game actually support it). Activity is all they measure, so activity is all that matters.
 
 ## We are what we scroll
 
@@ -58,17 +58,17 @@ Without stakes, platforms rank content by _engagement_ (how many interactions) i
 
 But now we spend more time online than anywhere else. So we're becoming the average of the content we consume.
 
-Bangers make us stronger: useful ideas, uplifting stories, beautiful art, jokes that hit. Slop drains our spirit but keeps us on the hook. But the algorithm can’t tell the difference, because it's tuned for addictivity, not quality.
+Bangers make us stronger: useful ideas, uplifting stories, beautiful art, jokes that hit. Slop drains our spirit. But the algorithm can’t tell the difference, because it's tuned for addictivity, not quality.
 
 ## Why I'm here
 
 I'm a power user. Curator. Spending hours finding signal in the noise. Delivering it to the homies.
 
-In college, I wrote a crypto newsletter. The most popular section, by far, was "Tweets of the Week": the best tweets I'd found while scrolling Crypto Twitter. People said it was the only reason they subscribed. To enjoy a highlight reel of bangers.
+In college, I wrote a crypto newsletter. The most popular section, by far, was "Tweets of the Week": a collection of the best tweets I'd found while scrolling Crypto Twitter. People said it was the only reason they subscribed. Because they could enjoy a highlight reel of bangers.
 
 But I couldn't figure out how to make it sustainable. Ads meant selling my readers' attention. Subscriptions meant charging for free content I organized better. Neither felt right.
 
-**Curation is valuable, but there's no economic model for it.** People who find bangers early get nothing. The slop merchants get everything.
+I realized: **Curation is valuable, but there's no economic model for it.** People who find bangers early get nothing. Slop merchants get everything.
 
 That ain't right.
 
@@ -84,6 +84,6 @@ And all the value captured flows to the people who make social media worth openi
 
 Millions of people around the world are already playing this game everyday: Finding bangers early and sharing them with friends. But the gameplay is local, fragmented, and unrewarding.
 
-Bangit makes content curation global, unified, and worth playing. While providing feeds where tweets are ranked by what people stand on. Instead of what they clicked or lingered on.
+Bangit makes content curation global, unified, and worth playing. Producing feeds where tweets are ranked by what people stand on. Instead of what they clicked or lingered on.
 
 Welcome to the homepage of social media.

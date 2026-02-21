@@ -2,7 +2,7 @@
 
 ## Onboarding
 
-Login with Twitter/X. Enjoy a self-custody Solana wallet, secured by [Privy](https://www.privy.io/). Transactions use BANG and fees are covered by Bangit.
+Login with Twitter/X. Enjoy a self-custody Solana wallet, secured by [Privy](https://www.privy.io/). Transactions use BANG. Fees are covered by Bangit.
 
 To ensure authenticity, Twitter/X accounts must meet some initial requirements:
 
