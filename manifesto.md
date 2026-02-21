@@ -68,7 +68,7 @@ But I couldn't figure out how to make it sustainable. Ads meant selling my reade
 
 I realized: **Curation is valuable, but there's no economic model for it.** People who find bangers early get nothing. Slop merchants get everything.
 
-That ain't right.
+That ain't right!
 
 What if the people who find bangers early actually got rewarded? What if taste was an asset, instead of just a hobby?
 
