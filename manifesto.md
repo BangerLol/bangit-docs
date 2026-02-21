@@ -22,11 +22,11 @@ Users don't want  to see slop. Creators don't want to make slop. Platforms don't
 
 ## Why slop wins
 
-Spicy shallow content triggers more dopamine than calm deep content. So users click and linger more on spicy shallow content. Not because they're bad. But because incentives.
+Platforms optimize for clicks and lingers. Because engagement is easy to measure and monetize via ads. _Not because they're bad. But because incentives._
 
-Platforms optimize for clicks and lingers. Because engagement is easy to measure and monetize via ads. Not because they're bad. But because incentives.
+Creators optimize for clicks and lingers. Because that's what gets them the most reach and creator payouts. _Not because they're bad. But because incentives._
 
-Creators optimize for clicks and lingers. Because that's what gets them the most reach and creator payouts. Not because they're bad. But because incentives.
+Spicy shallow content triggers more dopamine than calm deep content. So users click and linger more on spicy shallow content. _Not because they're bad. But because incentives._
 
 So spicy shallow content proliferates. And slop is cheaper to produce than bangers. So emotional slop floods the feed. And as people engage, it spreads.
 
