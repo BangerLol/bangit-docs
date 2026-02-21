@@ -28,9 +28,7 @@ Creators optimize for clicks and lingers. Because that's what gets them the most
 
 Spicy shallow content triggers more dopamine than calm deep content. So users click and linger more on spicy shallow content. _Not because they're bad. But because incentives._
 
-So spicy shallow content proliferates. And slop is cheaper to produce than bangers. So emotional slop floods the feed. And as people engage, it spreads.
-
-But a rage/fear/lust-click counts the same as a love-click.
+So spicy shallow content proliferates. And slop is cheaper to produce than bangers. So emotional slop floods the feed. And rage/fear/lust-clicks counts the same as a love-clicks.
 
 Platforms _could_ optimize for satisfaction or long-term retention, instead of clicks and lingers. Some have tried. But that conflicts with short-term engagement, which drives ad revenue.
 
