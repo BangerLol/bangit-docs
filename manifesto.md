@@ -30,9 +30,11 @@ Users engage more with spicy shallow content. Because spicy shallow content trig
 
 So since slop is cheaper to produce than bangers, and rage/fear/goon-clicks counts the same as a love-clicks, spicy shallow slop floods the feed.&#x20;
 
-Platforms _could_ optimize for satisfaction or long-term retention Some have tried. But that conflicts with short-term engagement, which drives ad revenue.
+Platforms _could_ optimize for satisfaction or long-term retention. Some have tried. But that conflicts with short-term engagement, which drives ad revenue.
 
-So it's a race to the bottom. Not because anyone wants it. But because dopaminergic biology, competition, and Schelling Points make it inevitable. From a gods-eye view: users, platforms, and creators should optimize for truth. From within the system, it feels like nobody can afford to.
+So it's a race to the bottom. Not because anyone wants it. But because dopaminergic biology, competition, and Schelling Points make it inevitable.
+
+From a gods-eye view: users, platforms, and creators should optimize for truth. From within the system, it feels like nobody can afford to.
 
 ## The root cause
 
@@ -60,15 +62,15 @@ Bangers make us stronger: useful ideas, uplifting stories, beautiful art, jokes 
 
 I'm a power user. Curator. Spending hours finding signal in the noise. Delivering it to the homies.
 
-In college, I wrote a crypto newsletter. The most popular section, by far, was "Tweets of the Week": a collection of the best tweets I'd found while scrolling Crypto Twitter. People said it was the only reason they subscribed. Because they could enjoy a highlight reel of bangers.
+In college, I wrote a crypto newsletter. The most popular section, by far, was "Tweets of the Week": a collection of the best tweets I'd found while scrolling Crypto Twitter. People said it was the only reason they subscribed. To enjoy a highlight reel of bangers.
 
 But I couldn't figure out how to make it sustainable. Ads meant selling my readers' attention. Subscriptions meant charging for free content I organized better. Neither felt right.
 
-I realized: **Curation is valuable, but there's no economic model for it.** People who find bangers early get nothing. Slop merchants get everything.
+So I realized: **Curation is valuable, but there's no economic model for it.** People who find bangers early get nothing. Slop merchants get everything.
 
 That ain't right!
 
-What if the people who find bangers early actually got rewarded? What if taste was an asset, instead of just a hobby?
+What if the people who find bangers early actually got rewarded? What if taste was an asset, instead of a hobby?
 
 ## Proof of Taste
 
@@ -80,6 +82,6 @@ And all the value captured flows to the people who make social media worth openi
 
 Millions of people around the world are already playing this game everyday: Finding bangers early and sharing them with friends. But the gameplay is local, fragmented, and unrewarding.
 
-Bangit makes content curation global, unified, and worth playing. Producing feeds where tweets are ranked by what people stand on. Instead of what they clicked or lingered on.
+Bangit makes content curation global, unified, and worth playing. Producing feeds where content is ranked by what people stand on. Instead of what they clicked or lingered on.
 
 Welcome to the homepage of social media.
