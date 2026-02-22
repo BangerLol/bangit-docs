@@ -14,27 +14,25 @@ And sometimes it works. That's why we keep coming back. For the bangers.
 
 Discovering alpha before everyone else. Sharing something that makes our friends laugh. Enjoying a post that feels like it was written TO you.
 
-But the bangers are buried under endless slop: rage/fear/lust-bait, brainrot, misinformation.
+But the bangers are buried under endless slop: rage/fear/goon-bait, brainrot, misinformation.
 
 Nobody wants this.
 
-Users don't want  to see slop. Creators don't want to make slop. Platforms don't want to serve slop. Yet, slop is everywhere. Why?
+Users don't want  to see slop. Creators don't want to make slop. Platforms don't want to serve slop. Yet slop prevails.
 
 ## Why slop wins
 
-Platforms optimize for clicks and lingers. Because engagement is easy to measure and monetize via ads. _Not because they're bad. But because incentives._
+Platforms optimize for clicks and lingers (engagement). Because engagement is easy to measure and monetize via ads.
 
-Creators optimize for clicks and lingers. Because that's what gets them the most reach and creator payouts. _Not because they're bad. But because incentives._
+Creators optimize for engagement. Because that's what gets them the most reach and creator payouts.
 
-Spicy shallow content triggers more dopamine than calm deep content. So users click and linger more on spicy shallow content. _Not because they're bad. But because incentives._
+Users engage more with spicy shallow content. Because spicy shallow content triggers more dopamine than calm deep content.
 
-So spicy shallow content proliferates. And slop is cheaper to produce than bangers. So emotional slop floods the feed. And rage/fear/lust-clicks counts the same as a love-clicks.
+So since slop is cheaper to produce than bangers, and rage/fear/goon-clicks counts the same as a love-clicks, spicy shallow slop floods the feed.&#x20;
 
-Platforms _could_ optimize for satisfaction or long-term retention, instead of clicks and lingers. Some have tried. But that conflicts with short-term engagement, which drives ad revenue.
+Platforms _could_ optimize for satisfaction or long-term retention Some have tried. But that conflicts with short-term engagement, which drives ad revenue.
 
 So it's a race to the bottom. Not because anyone wants it. But because dopaminergic biology, competition, and Schelling Points make it inevitable. From a gods-eye view: users, platforms, and creators should optimize for truth. From within the system, it feels like nobody can afford to.
-
-Our attention is the raw material getting processed and sold to advertisers. Slop is just the most efficient way to extract it.
 
 ## The root cause
 
