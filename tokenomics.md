@@ -8,7 +8,7 @@ description: '*Subject to change*'
 
 ## Supply
 
-### Initial Supply
+### Initial Supply: 100M BANG
 
 <figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -44,10 +44,10 @@ description: '*Subject to change*'
 
 ### Emissions
 
-To bootstrap the network, new BANG is minted daily to the Rewards Pool, 100% of which goes to top curators, creators, and inviters. Emissions start at 100K BANG (0.1% of the initial supply) on the first day and decrease by 100 BANG everyday, until emissions reach a constant 10K BANG per day.
+To bootstrap the network, new BANG is minted daily to the Rewards Pool, 100% of which goes to top curators, creators, and inviters. Emissions start at 100K BANG (0.1% of the initial supply) on the first day and decrease by 100 BANG everyday, until emissions reach 0 in 1,000 days (\~2.75 years). At which point rewards become totally funded by fees. Max Supply: 150M BANG.
 
 {% hint style="info" %}
-BANG's public sale, treasury, emissions, liquidity pool--and the decision markets that govern them--are managed by [Combinator](https://www.combinator.trade/) to enforce the parameters outlined here.
+Bangit's treasury, liquidity pool, emissions, and max supply are governed by [Combinator](https://www.combinator.trade/)'s futarchy-based decision markets, so that BANG's tokenomics are decentralized yet dynamic.
 {% endhint %}
 
 ***
