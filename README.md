@@ -2,7 +2,7 @@
 
 ## Bangit: gamified curation markets for Twitter/X
 
-**For Curators,** voting feels like sharing bangers with friends. But you're also earning rewards, climbing leaderboards, and flexing your taste.
+**For Curators,** voting feels like sharing bangers with friends while earning rewards, climbing leaderboards, and flexing taste.
 
 **Creators** earn rewards and glory too. But for posting bangers, instead of engagement farming.
 
