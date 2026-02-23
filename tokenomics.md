@@ -45,7 +45,7 @@ description: '*Subject to change*'
 
 ### Emissions
 
-To bootstrap the network, new BANG is minted daily to the Rewards Pool, 100% of which goes to top curators, creators, and inviters. Emissions start at 100K BANG (0.1% of the initial supply) on the first day and decrease by 100 BANG everyday, until emissions reach 0 in 1,000 days (\~2.75 years). At which point rewards become totally funded by fees. Max Supply: 150M BANG.
+To bootstrap the network, new BANG is minted daily to the Rewards Pool (90%) and the Jackpot (10%), rewarding top curators, creators, and inviters. Emissions start at 100K BANG (0.1% of the initial supply) on the first day and decrease by 100 BANG everyday, until emissions reach 0 in 1,000 days (\~2.75 years). At which point rewards become totally funded by fees. Max Supply: 150M BANG.
 
 {% hint style="info" %}
 Bangit's treasury, liquidity pool, emissions, and max supply are governed by [Combinator](https://www.combinator.trade/)'s futarchy-based decision markets, so that BANG's tokenomics are decentralized yet dynamic.
@@ -58,7 +58,7 @@ Bangit's treasury, liquidity pool, emissions, and max supply are governed by [Co
 Bangit creates value through utility, status, and entertainment. BANG is how that value is priced and competed for. Every core action in Bangit either locks or burns BANG.
 
 {% hint style="info" %}
-All value captured by Bangit flows to the official BANG token. Bangit does/will not accrue value to any other instrument (equity, token, or otherwise).
+All value captured by Bangit flows to the official BANG token. Bangit does/will not accrue value to any other asset (equity, token, or otherwise).
 {% endhint %}
 
 ### Why BANG?
@@ -81,7 +81,7 @@ Unstaking BANG has a 1-10% fee, which decreases as Time Multiplier increases. Un
 
 ### Fees
 
-Fees are paid in staked BANG. With all BANG fees: 50% is burned, 40% goes to the Rewards Pool, and 10% goes to the Lottery Pool. The Rewards Pool (from fees and emissions) is distributed every 24 hours at midnight UTC to top curators (voters), creators, and inviters. At the same time, the Lottery Pool has a 7% chance of being distributed to top voters.
+Fees are paid in staked BANG. With all BANG fees: 50% is burned, 40% goes to the Rewards Pool, and 10% goes to the Jackpot. The Rewards Pool (from fees and emissions) is distributed every 24 hours at midnight UTC to top voters, authors, and inviters. At the same time, the Jackpot has a 7% chance of being distributed to top voters.
 
 **Voting**
 

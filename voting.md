@@ -1,6 +1,6 @@
 # ⚡ Voting
 
-#### Voting is gamified trading.
+#### Voting = gamified trading.
 
 ## Voting requires Power
 
