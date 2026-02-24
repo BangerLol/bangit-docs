@@ -14,13 +14,13 @@ description: '*Subject to change*'
 
 **Public Sale (60% of supply)**
 
-* Raising $120k in a fixed-price ICO at an FDV of $200K
+* Raising $60k in a fixed-price ICO at an FDV of $100K
 * Max allocations enforced based on Twitter/X account eligibility
 * Full refund if minimum is not reached
 * 50% of Public Sale's tokens are staked immediately upon purchase
 * 50% of Public Sale's tokens are fully unlocked when sale completes
-* 25% of raised funds ($30k) paired with 15% of the initial supply for $60k of initial liquidity
-* 75% of raised funds ($90k) goes to a treasury governed by decision markets. A $10k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
+* 25% of raised funds ($15k) paired with 15% of the initial supply for $30k of initial liquidity
+* 75% of raised funds ($45k) goes to a treasury governed by decision markets. An $8k allowance per month goes to the team for operations. Any other treasury transactions must be approved by decision markets.
 
 **Liquidity (15% of supply)**
 
