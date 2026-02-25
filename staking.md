@@ -18,5 +18,5 @@ A daily increasing Time Multiplier further increases Max Power and Reward Boost,
 
 Unstaking BANG has a 1-10% burn fee, which decreases as Time Multiplier increases. Unstaking BANG decreases Max Power and Reward Boost immediately, while the unstaked tokens unlock gradually over 7 days.
 
-Unstaking BANG does not affect Time Multiplier for the remaining staked BANG. When staking more BANG: **New Time Multiplier** = (Old BANG Staked \* Old Time Multiplier + Added BANG Staked) / (New BANG Staked)
+Unstaking BANG does not affect Time Multiplier for the remaining staked BANG. When staking more BANG: **New Time Multiplier** = ((Old BANG Staked \* Old Time Multiplier) + Additional BANG Staked) / New BANG Staked
 

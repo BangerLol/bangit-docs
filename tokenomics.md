@@ -15,8 +15,7 @@ description: '*Subject to change*'
 **Public Sale (60% of supply)**
 
 * Raising $60k in a fixed-price ICO at an FDV of $100K
-* Max allocations enforced based on Twitter/X account eligibility
-* Full refund if minimum is not reached
+* Whitelist eligibility based on Twitter/X account
 * 50% of Public Sale's tokens are staked immediately upon purchase
 * 50% of Public Sale's tokens are fully unlocked when sale completes
 * 25% of raised funds ($15k) paired with 15% of the initial supply for $30k of initial liquidity
@@ -48,7 +47,7 @@ description: '*Subject to change*'
 To bootstrap the network, new BANG is minted daily to the Rewards Pool (90%) and the Jackpot (10%), rewarding top curators, creators, and inviters. Emissions start at 100K BANG (0.1% of the initial supply) on the first day and decrease by 100 BANG everyday, until emissions reach 0 in 1,000 days (\~2.75 years). At which point rewards become totally funded by fees. Max Supply: 150M BANG.
 
 {% hint style="info" %}
-Bangit's treasury, liquidity pool, emissions, and max supply are governed by [Combinator](https://www.combinator.trade/)'s futarchy-based decision markets, so that BANG's tokenomics are decentralized yet dynamic.
+Bangit's treasury, liquidity pool, emissions, and max supply are governed by [Combinator](https://www.combinator.trade/)'s futarchy-based decision markets, so that BANG's tokenomics are decentralized yet dynamic. Anyone can create a proposal at anytime.
 {% endhint %}
 
 ***
