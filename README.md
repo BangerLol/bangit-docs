@@ -16,4 +16,4 @@ Browser Extension (participate from Twitter/X): [https://chromewebstore.google.c
 
 Skill (check feeds, get daily deliveries, and vote with your agent): [https://bangit.xyz/skill.md](https://bangit.xyz/skill.md)
 
-Twitter (stay updated and/or reach out): [https://x.com/bangitdotxyz](https://x.com/bangitdotxyz)
+Twitter (stay updated or reach out): [https://x.com/bangitdotxyz](https://x.com/bangitdotxyz)

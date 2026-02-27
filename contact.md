@@ -1,3 +1,3 @@
 # ✉️ Contact
 
-"Feedback" form in app
+DM @bangitdotxyz on Twitter/X

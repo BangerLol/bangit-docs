@@ -17,7 +17,7 @@ Users can claim rewards at anytime. "Claim + Stake" is free, while "Claim" has a
 
 ## Creator Rewards (authors): 10%
 
-* Split among authors of tweets with positive net impact in the period, proportionally, scaled by Reward Boost
+* Split among authors of tweets with positive Net Impact in the period, proportionally, scaled by Reward Boost
 
 ## Inviter Rewards: 10%
 
