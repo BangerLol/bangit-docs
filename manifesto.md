@@ -62,7 +62,7 @@ Bangers make us stronger: useful ideas, uplifting stories, beautiful art, jokes 
 
 We're power users. Curators. We spend hours finding bangers and delivering them to the homies.
 
-We know curation is valuable, but there's no good economic model for it. Ads pollute quality. Subscriptions create silos. So the people who filter signal from noise (so others don't have to) get nothing. While slop merchants get rich.
+We know curation is valuable, but there's no good economic model for it. Ads pollute quality. Subscriptions create silos. The people who filter signal from noise (so others don't have to) get nothing. While slop merchants get rich.
 
 We dream of a world where people who find bangers early actually get rewarded. What if taste was an asset, instead of only a hobby?
 
