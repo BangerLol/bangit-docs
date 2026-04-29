@@ -6,7 +6,7 @@ _Open Twitter/X._ WTF. _scroll._ IDC. _scroll._ CHILL. _scroll..._ **Bang**_**.*
 
 ## They promised us bangers
 
-Every day, we open social media to check in on the people and topics we're interested in. But, it's optimized to show whatever is most likely to make us keep scrolling and clicking.
+Every day, we open social media to check in on the people and topics we're interested in. But, it's optimized to show what's most likely to make us keep scrolling and clicking.
 
 **This is the attention economy.**
 
@@ -22,13 +22,15 @@ Users don't want  to see slop. Creators don't want to make slop. Platforms don't
 
 ## Why slop wins
 
-Platforms optimize for clicks and lingers (engagement). Because engagement is easy to measure and monetize via ads.
+Platforms optimize for clicks and lingers (engagement). Because engagement is easy to measure and monetize via ads. So rage/fear/goon-clicks count the same as love-clicks.
 
-So creators optimize for engagement. Because that's what gets them the most reach and creator payouts.
+Creators optimize for engagement. Because that gets them the most reach and creator payouts.
 
 Consumers engage more with spicy/simple posts. Because spicy/simple posts trigger more dopamine than clever/comprehensive posts.
 
-Spicy/simple posts are also cheaper to produce than clever/comprehensive posts. And since rage/fear/goon-clicks counts the same as a love-clicks, spicy/simple posts flood the feed.&#x20;
+Spicy/simple posts are also cheaper to produce than clever/comprehensive posts.
+
+These incentives drive the default state of spicy/simple posts flooding feeds.
 
 Platforms/creators _could_ optimize for satisfaction or long-term retention. Some have tried. But that conflicts with short-term engagement, which drives ad revenue/creator payouts.
 
