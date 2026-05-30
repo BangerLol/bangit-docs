@@ -1,12 +1,18 @@
 # ❓ Overview
 
-## Bangit: gamified curation markets
+## What
 
-**For content curators,** voting feels like sharing tweets with friends, while earning rewards and climbing leaderboards for your taste.
+Bangit is a Proof-of-Taste economy for social media. **Curators** upvote/downvote posts to earn rewards for their predictive taste. **Creators** earn rewards for upvotes on their authored posts. **Consumers** enjoy feeds with posts ranked by conviction.
 
-**Creators** earn rewards and glory too. But for posting bangers, instead of engagement farming.
+## How
 
-**For content enjoyers,** the interface feels like a social media feed. But posts are ranked by conviction, instead of engagement.
+For content curators, voting feels like sharing tweets with friends, while earning rewards and climbing leaderboards. Curator rewards are fairly distributed based on voters' predictive accuracy of posts' net voting impact change (80% score weight) and Twitter/X engagement change (20% score weight) vs. expectations (eg. author's recent average tweet performance).
+
+BANG is a token used to align curators (80% of rewards), creators (10% of rewards), and inviters (10% of rewards) via rewards and staking. Every 24 hours, BANG is distributed to top performers in the last 24-hour period. Meaningful rewards require staking and/or burning BANG.
+
+## Why
+
+Social media is broken.
 
 ## Links
 
