@@ -2,7 +2,7 @@
 
 ## What
 
-Bangit is a Proof-of-Taste economy for social media. **Curators** upvote/downvote posts to earn rewards for their predictive taste. **Creators** earn rewards for upvotes on their authored posts. **Consumers** enjoy feeds with posts ranked by conviction.
+Bangit is a Proof-of-Taste network for social media. **Curators** upvote/downvote posts to earn rewards for their predictive taste. **Creators** earn rewards for upvotes on their authored posts. **Consumers** enjoy feeds with posts ranked by conviction.
 
 ## How
 
@@ -12,7 +12,7 @@ BANG is a token used to align curators (80% of rewards), creators (10% of reward
 
 ## Why
 
-Social media is broken.
+Social media is broken. Traditional incentives push platforms, creators, and users to prioritize short-term dopamine spikes over true fulfillment.
 
 ## Links
 
