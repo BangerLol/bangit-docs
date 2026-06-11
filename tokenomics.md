@@ -96,7 +96,7 @@ Users that opt to claim rewards to their wallet instead of auto-staking incur a 
 
 **Unclaimed Rewards**
 
-10% fee on unclaimed rewards every 7 days left unclaimed.
+10% fee on unclaimed rewards every 24 days left unclaimed.
 
 **Unstaking**
 
@@ -120,4 +120,4 @@ Pin a tweet to the 4th spot on the Hot feed.
 
 **Slashing**
 
-Bangit uses analysis tools to detect and slash cartels. If you move as a pack, you will be slashed.
+Bangit uses fraud analysis to detect and slash cartels and sybils.
