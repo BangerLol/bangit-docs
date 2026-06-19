@@ -12,7 +12,7 @@ Currently, voting with >10% conviction requires committing staked BANG. Above 10
 
 ## Vote on tweets to affect + predict their Net Impact
 
-Each tweet has a Net Impact (price). Votes are scored based on the tweet's Net Impact change in the 24 hours after the vote (PnL).
+Each tweet has a Net Impact (price). Votes are scored on the tweet's Net Impact change in the 24 hours after the vote, measured relative to what's *expected* of a tweet like it — so beating expectations is what earns (PnL).
 
 #### Tweet Scoring
 
@@ -22,7 +22,11 @@ Each tweet has a Net Impact (price). Votes are scored based on the tweet's Net I
 
 #### Vote Scoring
 
-**Vision** = tweet's same-direction, log-scaled, time-weighted average Net Impact change in the 24 hours after vote ≈ **% price change since entry**
+Votes are scored on how the tweet performs *relative to expectations* — a benchmark of how this kind of tweet (mainly the author's recent posts) typically performs after a vote. Beating the benchmark earns; underperforming it loses.
+
+**Vision** = the tweet's same-direction, log-scaled, time-weighted Net Impact change in the 24h after the vote, in excess of its expected (benchmark) change ≈ **% out/underperformance vs expectation since entry**
+
+Vision blends two signals: the tweet's Bangit Net Impact change (80%) and its X/Twitter engagement growth (20%), each measured against its own benchmark. When a tweet has too little X data, Vision uses Net Impact alone.
 
 **Taste** = Vision \* Conviction ≈ **% PnL**
 
